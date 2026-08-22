@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SEABIT — global macro, filtered</title>
+<meta name="description" content="Every central bank decision, inflation print and policy signal that matters, scored and summarised. Updated continuously.">
+<meta name="theme-color" content="#0E1621">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#0E1621;
+  --panel:#141F2C;
+  --panel-2:#1A2634;
+  --rule:#243244;
+  --rule-soft:#1C2836;
+  --text:#E6ECF2;
+  --text-2:#A9B8C7;
+  --muted:#6F8296;
+  --hawk:#E9A13B;
+  --dove:#4FC3D9;
+  --hold:#7E8FA1;
+  --flash:#F2603C;
+  --display:"Space Grotesk",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  --editorial:"Newsreader",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,monospace;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--ground);color:var(--text);
+  font-family:var(--display);font-size:15px;line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+:focus-visible{outline:2px solid var(--hawk);outline-offset:2px;border-radius:2px}
+
+/* ── masthead ─────────────────────────────────── */
+.masthead{
+  position:sticky;top:0;z-index:40;background:rgba(14,22,33,.94);
+  backdrop-filter:blur(12px);border-bottom:1px solid var(--rule);
+}
+.masthead-inner{
+  max-width:1240px;margin:0 auto;padding:12px 20px;
+  display:flex;align-items:center;gap:18px;
+}
+.wordmark{display:flex;align-items:baseline;gap:9px;flex-shrink:0}
+.wordmark b{font-weight:700;letter-spacing:-.02em;font-size:19px}
+.wordmark span{
+  font-family:var(--mono);font-size:9.5px;letter-spacing:.16em;
+  color:var(--muted);text-transform:uppercase;
+}
+.searchwrap{flex:1;position:relative;max-width:420px;min-width:0}
+.searchwrap input{
+  width:100%;background:var(--panel);border:1px solid var(--rule);
+  border-radius:3px;padding:8px 12px 8px 32px;color:var(--text);
+  font-family:var(--mono);font-size:12.5px;
+}
+.searchwrap input::placeholder{color:var(--muted)}
+.searchwrap input:focus{outline:none;border-color:var(--hold)}
+.searchwrap::before{
+  content:"⌕";position:absolute;left:11px;top:50%;transform:translateY(-50%);
+  color:var(--muted);font-size:15px;pointer-events:none;
+}
+.status{
+  margin-left:auto;display:flex;align-items:center;gap:7px;
+  font-family:var(--mono);font-size:10.5px;color:var(--muted);
+  white-space:nowrap;
+}
+.pulse{
+  width:6px;height:6px;border-radius:50%;background:var(--dove);
+  box-shadow:0 0 0 0 rgba(79,195,217,.6);animation:pulse 2.4s infinite;
+}
+.pulse.seeded{background:var(--hold);animation:none}
+@keyframes pulse{
+  0%{box-shadow:0 0 0 0 rgba(79,195,217,.5)}
+  70%{box-shadow:0 0 0 7px rgba(79,195,217,0)}
+  100%{box-shadow:0 0 0 0 rgba(79,195,217,0)}
+}
+
+/* ── rates rail (the signature) ───────────────── */
+.rail{border-bottom:1px solid var(--rule);background:var(--panel);overflow:hidden}
+.rail-inner{
+  max-width:1240px;margin:0 auto;padding:0 20px;
+  display:flex;overflow-x:auto;scrollbar-width:none;
+}
+.rail-inner::-webkit-scrollbar{display:none}
+.rail-label{
+  flex-shrink:0;display:flex;align-items:center;padding-right:16px;
+  font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;
+  color:var(--muted);text-transform:uppercase;border-right:1px solid var(--rule-soft);
+  margin-right:2px;
+}
+.cb{
+  flex-shrink:0;padding:9px 15px;border-right:1px solid var(--rule-soft);
+  display:flex;flex-direction:column;gap:2px;position:relative;
+}
+.cb::after{
+  content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:var(--bias-c);
+}
+.cb-name{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;color:var(--muted)}
+.cb-rate{
+  font-family:var(--mono);font-size:13px;font-weight:600;font-variant-numeric:tabular-nums;
+  display:flex;align-items:center;gap:5px;
+}
+.cb-arrow{font-size:10px;color:var(--bias-c)}
+
+/* ── layout ───────────────────────────────────── */
+.shell{max-width:1240px;margin:0 auto;padding:0 20px;display:grid;
+  grid-template-columns:196px minmax(0,1fr) 244px;gap:30px;align-items:start}
+
+/* ── filters ──────────────────────────────────── */
+.side{position:sticky;top:112px;padding:22px 0 40px}
+.fgroup{margin-bottom:22px}
+.fgroup h4{
+  margin:0 0 8px;font-family:var(--mono);font-size:9.5px;letter-spacing:.15em;
+  color:var(--muted);text-transform:uppercase;font-weight:500;
+}
+.chip{
+  display:block;width:100%;text-align:left;padding:4px 8px;margin-bottom:1px;
+  border-radius:3px;font-size:13px;color:var(--text-2);
+  border-left:2px solid transparent;transition:background .12s,color .12s;
+}
+.chip:hover{background:var(--panel);color:var(--text)}
+.chip.on{background:var(--panel-2);color:var(--text);border-left-color:var(--hawk);font-weight:500}
+.chip em{
+  font-style:normal;float:right;font-family:var(--mono);
+  font-size:10px;color:var(--muted);padding-top:2px;
+}
+
+/* ── feed ─────────────────────────────────────── */
+.feed{padding:22px 0 80px;min-width:0}
+.daybar{
+  display:flex;align-items:baseline;gap:10px;
+  padding:22px 0 9px;margin-bottom:4px;border-bottom:1px solid var(--rule);
+}
+.feed > .daybar:first-child{padding-top:0}
+.daybar h2{margin:0;font-size:15px;font-weight:600;letter-spacing:-.01em}
+.daybar .dow{font-family:var(--mono);font-size:10.5px;color:var(--muted);letter-spacing:.08em}
+.daybar .cnt{margin-left:auto;font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+
+.item{
+  display:block;padding:15px 0 15px 15px;border-bottom:1px solid var(--rule-soft);
+  border-left:2px solid var(--bias-c);position:relative;transition:background .12s;
+}
+.item:hover{background:var(--panel)}
+.meta{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-bottom:6px}
+.time{
+  font-family:var(--mono);font-size:11px;font-weight:500;color:var(--text-2);
+  font-variant-numeric:tabular-nums;
+}
+.src{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+.tag{
+  font-family:var(--mono);font-size:9px;letter-spacing:.1em;text-transform:uppercase;
+  padding:2px 6px;border-radius:2px;border:1px solid var(--rule);color:var(--muted);
+}
+.tag.bias{color:var(--bias-c);border-color:var(--bias-c);opacity:.85}
+.score{
+  margin-left:auto;font-family:var(--mono);font-size:10.5px;color:var(--muted);
+  font-variant-numeric:tabular-nums;flex-shrink:0;
+}
+.score b{color:var(--text-2);font-weight:600}
+.item h3{
+  margin:0 0 6px;font-size:16px;line-height:1.35;font-weight:600;letter-spacing:-.01em;
+}
+.item:hover h3{color:var(--hawk)}
+.sum{margin:0 0 9px;font-size:13.5px;line-height:1.55;color:var(--text-2)}
+.why{
+  margin:0;padding-left:11px;border-left:1px solid var(--rule);
+  font-family:var(--editorial);font-size:14px;line-height:1.55;color:var(--text-2);
+}
+.why b{
+  font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--muted);display:block;margin-bottom:3px;font-weight:500;
+}
+.cluster{
+  margin-top:8px;font-family:var(--mono);font-size:10px;color:var(--muted);
+}
+
+/* ── hot list ─────────────────────────────────── */
+.hot{position:sticky;top:112px;padding:22px 0 40px}
+.hot h4{
+  margin:0 0 10px;font-family:var(--mono);font-size:9.5px;letter-spacing:.15em;
+  color:var(--muted);text-transform:uppercase;font-weight:500;
+}
+.hotitem{display:flex;gap:10px;padding:9px 0;border-bottom:1px solid var(--rule-soft)}
+.hotrank{
+  font-family:var(--mono);font-size:11px;font-weight:600;color:var(--hawk);
+  flex-shrink:0;width:14px;font-variant-numeric:tabular-nums;
+}
+.hotbody{min-width:0}
+.hotbody p{margin:0 0 3px;font-size:12.5px;line-height:1.4;color:var(--text-2)}
+.hotitem:hover .hotbody p{color:var(--text)}
+.hotmeta{font-family:var(--mono);font-size:9.5px;color:var(--muted)}
+
+.empty{padding:60px 0;text-align:center;color:var(--muted)}
+.empty p{margin:0 0 6px;font-size:14px}
+.empty button{
+  font-family:var(--mono);font-size:11px;color:var(--hawk);
+  border-bottom:1px solid var(--hawk);padding-bottom:1px;
+}
+
+footer{
+  border-top:1px solid var(--rule);margin-top:20px;
+}
+.foot-inner{
+  max-width:1240px;margin:0 auto;padding:20px;
+  font-family:var(--mono);font-size:10.5px;color:var(--muted);
+  display:flex;gap:18px;flex-wrap:wrap;
+}
+
+/* ── responsive ───────────────────────────────── */
+@media (max-width:1080px){
+  .shell{grid-template-columns:174px minmax(0,1fr)}
+  .hot{display:none}
+}
+@media (max-width:760px){
+  .masthead-inner{flex-wrap:wrap;gap:10px}
+  .searchwrap{max-width:none;order:3;flex-basis:100%}
+  .status{margin-left:auto}
+  .shell{grid-template-columns:minmax(0,1fr);gap:0}
+  .side{position:static;padding:16px 0 0;border-bottom:1px solid var(--rule)}
+  .fgroup{margin-bottom:14px}
+  .fgroup > div{display:flex;gap:5px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+  .fgroup > div::-webkit-scrollbar{display:none}
+  .chip{width:auto;flex-shrink:0;white-space:nowrap;border-left:none;
+    border:1px solid var(--rule);padding:4px 10px;font-size:12.5px}
+  .chip.on{border-color:var(--hawk)}
+  .chip em{float:none;margin-left:6px}
+  .item h3{font-size:15px}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important}
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="wordmark" href="#"><b>SEABIT</b><span>global macro, filtered</span></a>
+    <div class="searchwrap">
+      <input id="q" type="search" placeholder="search headlines, banks, indicators…" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="status"><span class="pulse" id="pulse"></span><span id="statustext">connecting</span></div>
+  </div>
+</header>
+
+<div class="rail"><div class="rail-inner" id="rail">
+  <div class="rail-label">Policy&nbsp;rates</div>
+</div></div>
+
+<div class="shell">
+  <aside class="side">
+    <div class="fgroup"><h4>Region</h4><div id="f-region"></div></div>
+    <div class="fgroup"><h4>Topic</h4><div id="f-topic"></div></div>
+    <div class="fgroup"><h4>Signal</h4><div id="f-bias"></div></div>
+  </aside>
+
+  <main class="feed" id="feed"></main>
+
+  <aside class="hot">
+    <h4>What's moving</h4>
+    <div id="hotlist"></div>
+  </aside>
+</div>
+
+<footer><div class="foot-inner">
+  <span>SEABIT</span>
+  <span>Aggregated from public central bank, statistical agency and wire sources.</span>
+  <span>No licensed vendor data.</span>
+</div></footer>
+
+<script>
+/* ══════════════════════════════════════════════════════════════
+   SEED FEED
+   Replace by dropping a feed.json next to this file — same shape.
+   The page fetches feed.json on load and every 5 minutes; if it
+   isn't there, it falls back to this embedded array.
+   ══════════════════════════════════════════════════════════════ */
+
+const BANKS = [
+  {code:"FED",  rate:"3.50–3.75", bias:"hawkish", note:"held 29 Jul, 3 dissents to hike"},
+  {code:"ECB",  rate:"2.25",      bias:"hawkish", note:"hiked 25bp Jun, held 23 Jul"},
+  {code:"BOE",  rate:"3.75",      bias:"hawkish", note:"held, 2 votes to hike"},
+  {code:"MAS",  rate:"S$NEER",    bias:"hawkish", note:"tightened Apr and Jul"},
+  {code:"BNM",  rate:"2.75",      bias:"neutral", note:"6th consecutive hold"},
+  {code:"RBA",  rate:"3.60",      bias:"neutral", note:"on hold"},
+  {code:"RBNZ", rate:"2.75",      bias:"dovish",  note:"easing bias retained"},
+  {code:"HKMA", rate:"4.00",      bias:"hawkish", note:"pegged, tracks Fed"}
+];
+
+const SEED = [
+{id:"a1", ts:"2026-08-22T06:40:00+08:00", source:"Bloomberg", extra:2, region:"US", topic:"policy", bias:"hawkish", score:84,
+ title:"Jackson Hole preview: Warsh's first keynote lands into a split committee",
+ sum:"The symposium runs 27–29 August with the chair's keynote on Friday morning. The July meeting produced three dissents in favour of a hike, the widest split in a decade.",
+ why:"Warsh has dropped pre-meeting forward guidance, so the speech carries more information than a normal Jackson Hole address. With no August FOMC, this is the only signal between the July minutes and the 16 September decision."},
+
+{id:"a2", ts:"2026-08-22T05:15:00+08:00", source:"MUFG Research", extra:0, region:"US", topic:"research", bias:"dovish", score:71,
+ title:"MUFG pushes first Fed cut into early 2027, lifts tenor forecasts 25–50bp",
+ sum:"The desk argues the rates market is in overshoot after negative July payrolls and retail sales, and sees no urgency to hike into what is fundamentally a supply shock.",
+ why:"Sell-side is converging on hold-through-2026 while money-market futures still price hike risk. That gap between priced and expected is where the carry is, and it closes on Friday."},
+
+{id:"a3", ts:"2026-08-22T04:30:00+08:00", source:"Reuters", extra:3, region:"Global", topic:"markets", bias:"dovish", score:76,
+ title:"Gold holds near $4,356 after two cooling inflation prints compress hike odds",
+ sum:"Bullion broke above its 100-day moving average at $4,387 earlier in the week for the first time in over two months before easing back.",
+ why:"Lower hike expectations compress real yields, which is the entire mechanism behind the move. The same mechanism reverses on a hawkish keynote, which makes gold the cleanest read on how Friday is received."},
+
+{id:"b1", ts:"2026-08-21T18:20:00+08:00", source:"New Straits Times", extra:2, region:"ASEAN", topic:"growth", bias:"hawkish", score:79,
+ title:"Malaysia Q2 GDP confirmed at 6.0%, governor pushes back on hike talk",
+ sum:"Final Q2 growth came in above the 5.8% advance estimate, taking first-half growth to 5.7%. Abdul Rasheed said policy will be guided by both growth and inflation, not growth alone.",
+ why:"JP Morgan lifted its 2026 forecast to 5.3% and now expects a Q4 hike. The governor's pushback is the clearest signal yet that BNM treats 2025's cut as precautionary rather than as something to unwind on growth alone."},
+
+{id:"b2", ts:"2026-08-21T15:05:00+08:00", source:"The Star", extra:1, region:"ASEAN", topic:"markets", bias:"neutral", score:64,
+ title:"Kenanga holds ringgit target at 3.95 to the dollar by year-end",
+ sum:"The house reads recent dollar strength as a hawkish detour rather than a change in direction, citing sustained current account surpluses and record foreign currency deposits.",
+ why:"A 3.95 target from 4.06 at end-2025 assumes conversion of those FX deposits into ringgit assets. That flow, not the rate differential, is the load-bearing assumption — worth checking against BNM's monthly reserves release."},
+
+{id:"b3", ts:"2026-08-21T11:40:00+08:00", source:"House of Commons Library", extra:0, region:"UK", topic:"inflation", bias:"hawkish", score:70,
+ title:"BoE central projection has UK CPI peaking near 3.2% in Q4",
+ sum:"June CPI ran at 2.6% against the 2% target. Bank Rate has been held at 3.75% since the June meeting, where two members voted to raise it.",
+ why:"The Bank is now forecasting a peak more than a percentage point above target while holding. That combination only works if the energy shock is judged temporary — the September MPC on the 17th is where that judgement gets tested."},
+
+{id:"b4", ts:"2026-08-21T09:10:00+08:00", source:"Federal Reserve", extra:4, region:"US", topic:"policy", bias:"hawkish", score:81,
+ title:"July FOMC minutes show three regional presidents pressing for a hike",
+ sum:"The record of the 29 July meeting, released Wednesday, details the first three-way dissent in favour of tightening since 2016. Rates were held at 3.50–3.75% for a fifth straight meeting.",
+ why:"Dissent counts have predicted direction changes better than dot plots in this cycle. Three is the threshold at which a chair typically has to either absorb the argument publicly or lose control of the message."},
+
+{id:"c1", ts:"2026-08-20T22:15:00+08:00", source:"CNBC", extra:2, region:"ASEAN", topic:"policy", bias:"hawkish", score:77,
+ title:"MAS tightening in July was the second consecutive move, and not consensus",
+ sum:"The central bank raised the slope of the S$NEER band very slightly on 27 July, a smaller adjustment than April's. Most economists polled had expected no change.",
+ why:"Two straight tightenings with core inflation at only 1.6% says MAS is managing imported cost pass-through with a lag rather than reacting to the current print. That is a different reaction function to the one most models assume."},
+
+{id:"c2", ts:"2026-08-20T16:30:00+08:00", source:"European Central Bank", extra:3, region:"Euro area", topic:"policy", bias:"hawkish", score:80,
+ title:"September ECB move close to fully priced as energy pass-through builds",
+ sum:"The deposit rate sits at 2.25% after June's first hike since 2023 and July's hold. Staff project headline inflation averaging 3.0% in 2026 against growth of just 0.8%.",
+ why:"Three per cent inflation on 0.8% growth is a stagflationary split, and the Council has explicitly refused to give guidance. Watch the September projections round on the 10th rather than the statement language."},
+
+{id:"c3", ts:"2026-08-20T13:00:00+08:00", source:"Bureau of Labor Statistics", extra:2, region:"US", topic:"labour", bias:"dovish", score:74,
+ title:"July retail sales fell 0.6% against consensus of roughly flat",
+ sum:"The miss followed negative payrolls in the same month. Preliminary August consumer sentiment printed 51.0.",
+ why:"Headline CPI at 3.4% alongside a consumer that is visibly cracking is the exact configuration that splits a committee. It also means the hawks' case rests on inflation persistence, not on demand."},
+
+{id:"c4", ts:"2026-08-20T10:45:00+08:00", source:"Department of Statistics Malaysia", extra:1, region:"ASEAN", topic:"inflation", bias:"neutral", score:62,
+ title:"Malaysian headline inflation steady near 1.9% in the second quarter",
+ sum:"BNM's full-year range remains 1.5–2.5%. Producer prices have run hotter, which several houses flag as the pass-through risk to watch.",
+ why:"Inflation this contained is why BNM can sit through a 6% growth print. The signal to track is PPI-to-CPI transmission, which historically runs two to three quarters in Malaysia — putting any pass-through in Q4."},
+
+{id:"d1", ts:"2026-08-19T20:00:00+08:00", source:"Monetary Authority of Singapore", extra:1, region:"ASEAN", topic:"inflation", bias:"hawkish", score:68,
+ title:"Singapore core inflation picked up to 1.6% in June from 1.4%",
+ sum:"Headline ran at 1.9%, the highest since September 2024. Transport contributed 7.5% and services ticked up on airfares and holiday costs.",
+ why:"Core is still near the bottom of the 1.5–2.5% forecast range, so July's tightening was pre-emptive rather than reactive. MAS expects core to step up from July and stay elevated into 2027."},
+
+{id:"d2", ts:"2026-08-19T14:20:00+08:00", source:"Ministry of Trade and Industry", extra:0, region:"ASEAN", topic:"growth", bias:"hawkish", score:66,
+ title:"Singapore Q2 growth of 5.7% beat expectations despite the oil disruption",
+ sum:"Weakness in oil-related sectors was more than offset by technology-related output. The positive output gap is now projected to widen rather than narrow.",
+ why:"MAS explicitly cited the widening output gap as the reason for tightening again. Domestic demand pressure, not just imported costs, is now in the reaction function."},
+
+{id:"d3", ts:"2026-08-19T09:30:00+08:00", source:"Bank Negara Malaysia", extra:2, region:"ASEAN", topic:"policy", bias:"neutral", score:69,
+ title:"Next OPR decision set for 3 September after six straight holds",
+ sum:"The rate has stood at 2.75% since the 25bp cut in July 2025. BNM's growth forecast range remains 4–5% for the year.",
+ why:"Consensus is for another hold, but the Q2 print has broken the unanimity — ANZ and JP Morgan now sit on the hike side. The statement language on 'appropriate' versus 'supportive' is the tell."},
+
+{id:"e1", ts:"2026-08-18T17:00:00+08:00", source:"Reuters", extra:3, region:"Global", topic:"fiscal", bias:"neutral", score:73,
+ title:"Strait of Hormuz constraints keep energy above pre-conflict levels",
+ sum:"Shipping has been restricted since late February. Central banks from Frankfurt to Singapore now cite the same shock in their statements.",
+ why:"This is the single common variable across every policy statement this quarter, which makes cross-bank divergence a question of how each one weighs a supply shock — not of differing views on the shock itself."},
+
+{id:"e2", ts:"2026-08-18T11:15:00+08:00", source:"Bureau of Labor Statistics", extra:1, region:"US", topic:"inflation", bias:"dovish", score:72,
+ title:"July PPI unchanged on the month, annual rate down to 4.7% from 5.5%",
+ sum:"Consensus had looked for a 0.2% monthly gain. July CPI rose 0.1% month on month.",
+ why:"Two consecutive cooling prints are what drove September hike odds sharply lower. Producer prices leading consumer prices down is the sequencing the doves need, and it is now visible in the data rather than just the forecast."}
+];
+
+/* ══════════════════════════════════════════════════════════════ */
+
+const REGIONS = ["US","Euro area","UK","ASEAN","Global"];
+const TOPICS = [
+  ["policy","Monetary policy"],["inflation","Inflation"],["growth","Growth"],
+  ["labour","Labour"],["markets","Markets & FX"],["fiscal","Fiscal & trade"],["research","Research"]
+];
+const BIASES = [["hawkish","Hawkish"],["dovish","Dovish"],["neutral","Neutral"]];
+const BIAS_COLOR = {hawkish:"var(--hawk)", dovish:"var(--dove)", neutral:"var(--hold)"};
+const ARROW = {hawkish:"▲", dovish:"▼", neutral:"■"};
+
+let ITEMS = SEED.slice();
+let live = false;
+let lastFetch = null;
+const state = {q:"", region:null, topic:null, bias:null};
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+/* ── rates rail ─────────────────────────────── */
+function drawRail(){
+  const rail = $("#rail");
+  rail.querySelectorAll(".cb").forEach(n => n.remove());
+  BANKS.forEach(b => {
+    const el = document.createElement("div");
+    el.className = "cb";
+    el.style.setProperty("--bias-c", BIAS_COLOR[b.bias]);
+    el.title = b.note;
+    el.innerHTML = `<span class="cb-name">${esc(b.code)}</span>
+      <span class="cb-rate">${esc(b.rate)}<span class="cb-arrow">${ARROW[b.bias]}</span></span>`;
+    rail.appendChild(el);
+  });
+}
+
+/* ── filters ────────────────────────────────── */
+function counts(key){
+  const base = ITEMS.filter(i => match(i, {...state, [key]:null}));
+  const m = {};
+  base.forEach(i => { m[i[key]] = (m[i[key]] || 0) + 1; });
+  return m;
+}
+
+function drawFilters(){
+  const build = (host, opts, key) => {
+    const c = counts(key);
+    host.innerHTML = "";
+    const all = document.createElement("button");
+    all.className = "chip" + (state[key] === null ? " on" : "");
+    all.textContent = "All";
+    all.onclick = () => { state[key] = null; render(); };
+    host.appendChild(all);
+    opts.forEach(o => {
+      const [val, label] = Array.isArray(o) ? o : [o, o];
+      const n = c[val] || 0;
+      const b = document.createElement("button");
+      b.className = "chip" + (state[key] === val ? " on" : "");
+      b.innerHTML = `${esc(label)}<em>${n}</em>`;
+      b.onclick = () => { state[key] = state[key] === val ? null : val; render(); };
+      host.appendChild(b);
+    });
+  };
+  build($("#f-region"), REGIONS, "region");
+  build($("#f-topic"), TOPICS, "topic");
+  build($("#f-bias"), BIASES, "bias");
+}
+
+/* ── matching ───────────────────────────────── */
+function match(i, s){
+  if (s.region && i.region !== s.region) return false;
+  if (s.topic && i.topic !== s.topic) return false;
+  if (s.bias && i.bias !== s.bias) return false;
+  if (s.q){
+    const hay = (i.title + " " + i.sum + " " + i.why + " " + i.source + " " +
+                 i.region + " " + i.topic).toLowerCase();
+    if (!s.q.toLowerCase().split(/\s+/).filter(Boolean).every(t => hay.includes(t))) return false;
+  }
+  return true;
+}
+
+/* ── feed ───────────────────────────────────── */
+const DOW = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+const MON = ["January","February","March","April","May","June","July",
+             "August","September","October","November","December"];
+
+function dayKey(d){ return d.getFullYear()+"-"+d.getMonth()+"-"+d.getDate(); }
+
+function renderFeed(){
+  const feed = $("#feed");
+  const list = ITEMS.filter(i => match(i, state))
+                    .sort((a,b) => new Date(b.ts) - new Date(a.ts));
+  feed.innerHTML = "";
+
+  if (!list.length){
+    feed.innerHTML = `<div class="empty"><p>Nothing matches those filters.</p>
+      <button onclick="clearAll()">Clear all filters</button></div>`;
+    return;
+  }
+
+  let cur = null;
+  const groups = [];
+  list.forEach(i => {
+    const d = new Date(i.ts), k = dayKey(d);
+    if (k !== cur){ cur = k; groups.push({d, items:[]}); }
+    groups[groups.length-1].items.push(i);
+  });
+
+  groups.forEach(g => {
+    const bar = document.createElement("div");
+    bar.className = "daybar";
+    bar.innerHTML = `<h2>${g.d.getDate()} ${MON[g.d.getMonth()]}</h2>
+      <span class="dow">${DOW[g.d.getDay()].toUpperCase()}</span>
+      <span class="cnt">${g.items.length} item${g.items.length>1?"s":""}</span>`;
+    feed.appendChild(bar);
+
+    g.items.forEach(i => {
+      const d = new Date(i.ts);
+      const hh = String(d.getHours()).padStart(2,"0") + ":" + String(d.getMinutes()).padStart(2,"0");
+      const topicLabel = (TOPICS.find(t => t[0] === i.topic) || [,i.topic])[1];
+      const a = document.createElement("a");
+      a.className = "item";
+      a.href = i.url || "#";
+      a.style.setProperty("--bias-c", BIAS_COLOR[i.bias]);
+      a.innerHTML = `
+        <div class="meta">
+          <span class="time">${hh}</span>
+          <span class="src">${esc(i.source)}</span>
+          <span class="tag">${esc(i.region)}</span>
+          <span class="tag">${esc(topicLabel)}</span>
+          <span class="tag bias">${esc(i.bias)}</span>
+          <span class="score">signal <b>${i.score}</b></span>
+        </div>
+        <h3>${esc(i.title)}</h3>
+        <p class="sum">${esc(i.sum)}</p>
+        <p class="why"><b>Why it matters</b>${esc(i.why)}</p>
+        ${i.extra ? `<div class="cluster">+ ${i.extra} other source${i.extra>1?"s":""} covering this</div>` : ""}`;
+      feed.appendChild(a);
+    });
+  });
+}
+
+/* ── hot list ───────────────────────────────── */
+function renderHot(){
+  const host = $("#hotlist");
+  const now = Date.now();
+  const ranked = ITEMS.map(i => {
+    const hrs = (now - new Date(i.ts)) / 3.6e6;
+    return {i, heat: (i.score + (i.extra || 0) * 6) * Math.exp(-hrs / 60)};
+  }).sort((a,b) => b.heat - a.heat).slice(0, 6);
+
+  host.innerHTML = "";
+  ranked.forEach((r, n) => {
+    const el = document.createElement("a");
+    el.className = "hotitem";
+    el.href = r.i.url || "#";
+    el.innerHTML = `<span class="hotrank">${n+1}</span>
+      <span class="hotbody"><p>${esc(r.i.title)}</p>
+      <span class="hotmeta">${esc(r.i.region)} · ${Math.round(r.heat)} heat</span></span>`;
+    host.appendChild(el);
+  });
+}
+
+function clearAll(){
+  state.q = ""; state.region = null; state.topic = null; state.bias = null;
+  $("#q").value = "";
+  render();
+}
+
+function render(){ drawFilters(); renderFeed(); renderHot(); }
+
+/* ── live refresh ───────────────────────────── */
+function setStatus(){
+  const p = $("#pulse"), t = $("#statustext");
+  if (!live){
+    p.classList.add("seeded");
+    t.textContent = "seed data · no feed.json";
+    return;
+  }
+  p.classList.remove("seeded");
+  const mins = Math.floor((Date.now() - lastFetch) / 60000);
+  t.textContent = "live · updated " + (mins < 1 ? "just now" : mins + "m ago");
+}
+
+async function pull(){
+  try {
+    const r = await fetch("feed.json", {cache:"no-store"});
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    const rows = Array.isArray(data) ? data : data.items;
+    if (Array.isArray(rows) && rows.length){
+      ITEMS = rows;
+      if (data.banks) { BANKS.length = 0; data.banks.forEach(b => BANKS.push(b)); drawRail(); }
+      live = true; lastFetch = Date.now();
+      render();
+    }
+  } catch (e) {
+    live = false;
+  }
+  setStatus();
+}
+
+/* ── boot ───────────────────────────────────── */
+let debounce;
+$("#q").addEventListener("input", e => {
+  clearTimeout(debounce);
+  debounce = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 110);
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && document.activeElement !== $("#q")){ e.preventDefault(); $("#q").focus(); }
+  if (e.key === "Escape" && document.activeElement === $("#q")) $("#q").blur();
+});
+
+drawRail();
+render();
+setStatus();
+pull();
+setInterval(pull, 300000);
+setInterval(setStatus, 30000);
+</script>
+</body>
+</html>
