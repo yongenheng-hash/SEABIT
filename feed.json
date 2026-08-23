@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-23T09:51:28.504088+00:00",
+ "generated": "2026-08-23T10:18:27.590974+00:00",
  "items": [
+  {
+   "id": "b691f57e8e55",
+   "ts": "2026-08-23T09:56:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Canada retaliates as trade war with US escalates",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/canada-us-trade-war-mark-carney-donald-trump-6335786"
+  },
   {
    "id": "fd503b9a2866",
    "ts": "2026-08-21T17:51:10+00:00",
@@ -932,21 +947,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html"
-  },
-  {
-   "id": "bce6b955e1b0",
-   "ts": "2026-07-24T10:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html"
   }
  ]
 }
