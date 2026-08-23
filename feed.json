@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T12:29:33.550527+00:00",
+ "generated": "2026-08-23T13:11:34.678276+00:00",
  "items": [
   {
    "id": "a2822572209a",
@@ -962,21 +962,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf"
-  },
-  {
-   "id": "98e22cf1648c",
-   "ts": "2026-07-24T13:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html"
   }
  ]
 }
