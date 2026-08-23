@@ -1,5 +1,7 @@
 {
-  "_comment": "Add or remove feeds here. 'region' is applied to every story from that feed. Run update.py and check the log to see which feeds are alive.",
+  "_comment": "Feeds with a 'filter' list only contribute stories mentioning one of those words. Use it on general news sources so SEABIT stays macro. Central banks need no filter — everything they publish is relevant.",
+
+  "_untested": "CNBC and CNA feeds below are unverified. Run the workflow and read the FEED REPORT: anything showing EMPTY or FAILED should be removed. For CNBC, if a URL fails, try changing rss.html to rss.xml at the end.",
 
   "feeds": [
     {
@@ -21,22 +23,63 @@
       "weight": 10
     },
     {
+      "name": "Bank Negara Malaysia",
+      "url": "https://www.bnm.gov.my/press-release-2020?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ZHckDJtILsio&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
+      "region": "ASEAN",
+      "weight": 10
+    },
+    {
+      "name": "BNM speeches",
+      "url": "https://www.bnm.gov.my/speeches-interviews?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_Jq1pQjJONpF7&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
+      "region": "ASEAN",
+      "weight": 7
+    },
+    {
       "name": "Reserve Bank of Australia",
       "url": "https://www.rba.gov.au/rss/rss-cb-media-releases.xml",
       "region": "Global",
       "weight": 8
     },
+
     {
-      "name": "IMF",
-      "url": "https://www.imf.org/en/News/RSS?language=eng",
-      "region": "Global",
-      "weight": 7
+      "name": "CNBC Economy",
+      "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+      "region": "US",
+      "weight": 6,
+      "filter": ["inflation", "interest rate", "rate cut", "rate hike", "federal reserve",
+                 "fed ", "central bank", "gdp", "unemployment", "payroll", "jobs report",
+                 "recession", "treasury", "yield", "monetary", "cpi", "economy", "tariff"]
     },
     {
-      "name": "BIS central bank speeches",
-      "url": "https://www.bis.org/list/cbspeeches/index.rss",
+      "name": "CNBC Asia-Pacific",
+      "url": "https://www.cnbc.com/id/19832390/device/rss/rss.html",
+      "region": "ASEAN",
+      "weight": 6,
+      "filter": ["inflation", "interest rate", "central bank", "gdp", "monetary",
+                 "ringgit", "singapore dollar", "yuan", "yen", "bank of japan",
+                 "bank negara", "mas ", "economy", "trade", "tariff", "export"]
+    },
+    {
+      "name": "CNBC Finance",
+      "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
       "region": "Global",
-      "weight": 6
+      "weight": 5,
+      "filter": ["bond", "yield", "treasury", "currency", "dollar", "inflation",
+                 "central bank", "rate", "gold", "oil price", "commodit"]
+    },
+    {
+      "name": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "region": "ASEAN",
+      "weight": 6,
+      "filter": ["inflation", "interest rate", "central bank", "gdp", "monetary",
+                 "economy", "economic", "mas ", "bank negara", "ringgit", "trade",
+                 "tariff", "export", "budget", "recession"]
     }
+  ],
+
+  "_removed": [
+    "IMF - https://www.imf.org/en/News/RSS?language=eng returned nothing",
+    "BIS central bank speeches - https://www.bis.org/list/cbspeeches/index.rss returned nothing"
   ]
 }

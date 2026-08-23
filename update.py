@@ -83,6 +83,9 @@ def fetch_all(feeds):
                 report.append((f["name"], "EMPTY", 0))
                 continue
 
+            keep = f.get("filter")   # optional: only keep stories mentioning these
+            skipped = 0
+
             for e in entries:
                 ts = entry_time(e)
                 if ts is None:
@@ -91,6 +94,12 @@ def fetch_all(feeds):
                 title = clean_text(e.get("title") or "")
                 if not link or not title:
                     continue
+
+                if keep:
+                    hay = (title + " " + strip_html(e.get("summary", ""))).lower()
+                    if not any(k.lower() in hay for k in keep):
+                        skipped += 1
+                        continue
 
                 stories.append({
                     "id": hashlib.sha1(link.encode()).hexdigest()[:12],
@@ -103,7 +112,8 @@ def fetch_all(feeds):
                     "blurb": clean_text(strip_html(e.get("summary", "")))[:400],
                 })
 
-            report.append((f["name"], "ok", len(entries)))
+            note = f"ok ({skipped} filtered out)" if skipped else "ok"
+            report.append((f["name"], note, len(entries) - skipped))
 
         except Exception as ex:
             report.append((f["name"], f"FAILED: {type(ex).__name__}", 0))
@@ -238,10 +248,10 @@ def main():
 
     log("  FEED REPORT")
     for name, status, n in report:
-        mark = "  ok " if status == "ok" else "  !! "
+        mark = "  ok " if status.startswith("ok") else "  !! "
         log(f"{mark}{name:<34} {status:<28} {n} entries")
 
-    alive = sum(1 for _, s, _ in report if s == "ok")
+    alive = sum(1 for _, s, _ in report if s.startswith("ok"))
     if alive == 0:
         log("\nNo feeds returned anything. Not writing feed.json.")
         sys.exit(1)
