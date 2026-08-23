@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T07:57:41.536538+00:00",
+ "generated": "2026-08-23T08:32:20.839887+00:00",
  "items": [
   {
    "id": "fd503b9a2866",
@@ -962,51 +962,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html"
-  },
-  {
-   "id": "48054c650674",
-   "ts": "2026-07-24T08:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "ECB to start implementing enhanced repo facility for central banks",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html"
-  },
-  {
-   "id": "e75077487919",
-   "ts": "2026-07-24T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html"
-  },
-  {
-   "id": "a6533898b2a1",
-   "ts": "2026-07-24T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "ECB Consumer Expectations Survey results – June 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html"
   }
  ]
 }
