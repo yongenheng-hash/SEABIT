@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T15:17:04.700097+00:00",
+ "generated": "2026-08-23T15:45:57.880251+00:00",
  "items": [
   {
    "id": "a2822572209a",
@@ -947,21 +947,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html"
-  },
-  {
-   "id": "a779a60d4409",
-   "ts": "2026-07-24T15:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Philip R. Lane: Outlook for the euro area economy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf"
   }
  ]
 }
