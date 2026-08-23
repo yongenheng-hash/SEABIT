@@ -1,0 +1,42 @@
+{
+  "_comment": "Add or remove feeds here. 'region' is applied to every story from that feed. Run update.py and check the log to see which feeds are alive.",
+
+  "feeds": [
+    {
+      "name": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "region": "US",
+      "weight": 10
+    },
+    {
+      "name": "European Central Bank",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "region": "Euro area",
+      "weight": 10
+    },
+    {
+      "name": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/rss/news",
+      "region": "UK",
+      "weight": 10
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "url": "https://www.rba.gov.au/rss/rss-cb-media-releases.xml",
+      "region": "Global",
+      "weight": 8
+    },
+    {
+      "name": "IMF",
+      "url": "https://www.imf.org/en/News/RSS?language=eng",
+      "region": "Global",
+      "weight": 7
+    },
+    {
+      "name": "BIS central bank speeches",
+      "url": "https://www.bis.org/list/cbspeeches/index.rss",
+      "region": "Global",
+      "weight": 6
+    }
+  ]
+}

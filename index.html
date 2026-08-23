@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>SEABIT — global macro, filtered</title>
-<meta name="description" content="Every central bank decision, inflation print and policy signal that matters, scored and summarised. Updated continuously.">
+<meta name="description" content="Every central bank decision, inflation print and policy signal that matters, summarised and grouped by source. Updated daily.">
 <meta name="theme-color" content="#0E1621">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -158,11 +158,6 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
   padding:2px 6px;border-radius:2px;border:1px solid var(--rule);color:var(--muted);
 }
 .tag.bias{color:var(--bias-c);border-color:var(--bias-c);opacity:.85}
-.score{
-  margin-left:auto;font-family:var(--mono);font-size:10.5px;color:var(--muted);
-  font-variant-numeric:tabular-nums;flex-shrink:0;
-}
-.score b{color:var(--text-2);font-weight:600}
 .item h3{
   margin:0 0 6px;font-size:16px;line-height:1.35;font-weight:600;letter-spacing:-.01em;
 }
@@ -503,12 +498,11 @@ function renderFeed(){
           <span class="src">${esc(i.source)}</span>
           <span class="tag">${esc(i.region)}</span>
           <span class="tag">${esc(topicLabel)}</span>
-          <span class="tag bias">${esc(i.bias)}</span>
-          <span class="score">signal <b>${i.score}</b></span>
+          ${i.bias && i.bias !== "neutral" ? `<span class="tag bias">${esc(i.bias)}</span>` : ""}
         </div>
         <h3>${esc(i.title)}</h3>
-        <p class="sum">${esc(i.sum)}</p>
-        <p class="why"><b>Why it matters</b>${esc(i.why)}</p>
+        ${i.sum ? `<p class="sum">${esc(i.sum)}</p>` : ""}
+        ${i.why ? `<p class="why"><b>Why it matters</b>${esc(i.why)}</p>` : ""}
         ${i.extra ? `<div class="cluster">+ ${i.extra} other source${i.extra>1?"s":""} covering this</div>` : ""}`;
       feed.appendChild(a);
     });
@@ -531,7 +525,7 @@ function renderHot(){
     el.href = r.i.url || "#";
     el.innerHTML = `<span class="hotrank">${n+1}</span>
       <span class="hotbody"><p>${esc(r.i.title)}</p>
-      <span class="hotmeta">${esc(r.i.region)} · ${Math.round(r.heat)} heat</span></span>`;
+      <span class="hotmeta">${esc(r.i.region)} · ${esc(r.i.source)}</span></span>`;
     host.appendChild(el);
   });
 }
