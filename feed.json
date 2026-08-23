@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-23T10:48:58.044618+00:00",
+ "generated": "2026-08-23T11:16:37.553463+00:00",
  "items": [
+  {
+   "id": "e0dc2b6b9337",
+   "ts": "2026-08-23T11:01:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "NDR 2026: New committee set up to help Malay-Muslim community seize economic opportunities, develop skills",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/national-day-rally-2026-malay-muslim-community-economic-resilience-committee-6335806"
+  },
   {
    "id": "b691f57e8e55",
    "ts": "2026-08-23T09:56:00+00:00",
