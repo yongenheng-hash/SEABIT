@@ -1,6 +1,38 @@
 {
- "generated": "2026-08-24T04:39:32.068236+00:00",
+ "generated": "2026-08-24T05:33:59.901434+00:00",
  "items": [
+  {
+   "id": "e8e4b2c3192f",
+   "ts": "2026-08-24T05:24:43+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 38,
+   "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+   "sum": "",
+   "why": "",
+   "extra": 1,
+   "also": [
+    "CNBC Asia-Pacific"
+   ],
+   "url": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html"
+  },
+  {
+   "id": "9e24a4409301",
+   "ts": "2026-08-24T05:22:47+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Singapore’s core inflation rises to 2% in July on higher electricity and gas, services, food prices",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/core-inflation-july-2026-mas-mti-6337041"
+  },
   {
    "id": "f10cc869e60f",
    "ts": "2026-08-24T03:41:00+00:00",
