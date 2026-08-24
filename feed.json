@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T15:34:33.924800+00:00",
+ "generated": "2026-08-24T16:31:04.200504+00:00",
  "items": [
+  {
+   "id": "3b03a75df92d",
+   "ts": "2026-08-24T15:34:11+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html"
+  },
   {
    "id": "3699b7915cef",
    "ts": "2026-08-24T15:00:01+00:00",
