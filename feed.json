@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T00:59:07.822733+00:00",
+ "generated": "2026-08-24T02:24:30.390475+00:00",
  "items": [
+  {
+   "id": "39d8bd3ad6b7",
+   "ts": "2026-08-24T02:07:05+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trump administration predicts US trade war 'devastating' for Canada",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-trump-carney-6336791"
+  },
   {
    "id": "a2822572209a",
    "ts": "2026-08-23T11:16:00+00:00",
