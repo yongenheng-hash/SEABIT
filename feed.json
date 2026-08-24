@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T21:30:57.860413+00:00",
+ "generated": "2026-08-24T22:20:11.140309+00:00",
  "items": [
+  {
+   "id": "3439f7aeb9fe",
+   "ts": "2026-08-24T21:38:01+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "US removes Syria from state sponsor of terrorism list",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/us-syria-terrorism-list-sanctions-6338666"
+  },
   {
    "id": "d8150555796a",
    "ts": "2026-08-24T21:13:21+00:00",
