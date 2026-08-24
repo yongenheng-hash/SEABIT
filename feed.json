@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T20:57:42.513448+00:00",
+ "generated": "2026-08-24T21:30:57.860413+00:00",
  "items": [
+  {
+   "id": "d8150555796a",
+   "ts": "2026-08-24T21:13:21+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trading Day: Tech, tariffs & Treasuries",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/trading-day-tech-tariffs-treasuries-6338651"
+  },
   {
    "id": "9af5e375dbf9",
    "ts": "2026-08-24T19:16:04+00:00",
