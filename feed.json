@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T12:38:46.253188+00:00",
+ "generated": "2026-08-24T13:46:11.850050+00:00",
  "items": [
+  {
+   "id": "db4b58e83aa4",
+   "ts": "2026-08-24T13:26:51+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Singapore and Ecuador seek deeper cooperation in areas including trade, food security",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/ecuador-singapore-cooperation-president-state-visit-6337926"
+  },
   {
    "id": "eb61b6da9e37",
    "ts": "2026-08-24T11:34:25+00:00",
