@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T03:30:46.133296+00:00",
+ "generated": "2026-08-24T04:39:32.068236+00:00",
  "items": [
+  {
+   "id": "f10cc869e60f",
+   "ts": "2026-08-24T03:41:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Oil falls as Trump pledges economic war on Iran",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/trump-us-iran-economic-war-oil-prices-6336931"
+  },
   {
    "id": "39d8bd3ad6b7",
    "ts": "2026-08-24T02:07:05+00:00",
