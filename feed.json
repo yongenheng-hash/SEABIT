@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T08:41:41.888230+00:00",
+ "generated": "2026-08-24T09:41:29.271856+00:00",
  "items": [
+  {
+   "id": "5210d80cc692",
+   "ts": "2026-08-24T09:11:23+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
+  },
   {
    "id": "2c301337b5be",
    "ts": "2026-08-24T07:00:25+00:00",
