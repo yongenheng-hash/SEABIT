@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T06:46:30.610341+00:00",
+ "generated": "2026-08-24T07:53:34.353974+00:00",
  "items": [
+  {
+   "id": "2c301337b5be",
+   "ts": "2026-08-24T07:00:25+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "DPM Gan Kim Yong visits US amid 12.5% tariff on Singapore exports",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/gan-kim-yong-us-visit-trade-tariffs-6336726"
+  },
   {
    "id": "68fcfd238b21",
    "ts": "2026-08-24T06:00:00+00:00",
