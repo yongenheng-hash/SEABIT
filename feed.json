@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T14:36:21.810162+00:00",
+ "generated": "2026-08-24T15:34:33.924800+00:00",
  "items": [
+  {
+   "id": "3699b7915cef",
+   "ts": "2026-08-24T15:00:01+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
+  },
   {
    "id": "ef1e3c8adcbf",
    "ts": "2026-08-24T14:08:36+00:00",
