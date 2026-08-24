@@ -1,6 +1,36 @@
 {
- "generated": "2026-08-24T18:41:37.636576+00:00",
+ "generated": "2026-08-24T19:25:08.618534+00:00",
  "items": [
+  {
+   "id": "9af5e375dbf9",
+   "ts": "2026-08-24T19:16:04+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-6336766"
+  },
+  {
+   "id": "4d448c385b16",
+   "ts": "2026-08-24T18:43:36+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "US unveils 'economic D-Day' of sanctions to isolate Iran",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/us-unveils-economic-d-day-sanctions-isolate-iran-6338471"
+  },
   {
    "id": "3b03a75df92d",
    "ts": "2026-08-24T15:34:11+00:00",
