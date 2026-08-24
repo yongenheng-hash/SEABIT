@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T05:33:59.901434+00:00",
+ "generated": "2026-08-24T06:46:30.610341+00:00",
  "items": [
+  {
+   "id": "68fcfd238b21",
+   "ts": "2026-08-24T06:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Piero Cipollone: Interview with ilsussidiario.net",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html"
+  },
   {
    "id": "e8e4b2c3192f",
    "ts": "2026-08-24T05:24:43+00:00",
