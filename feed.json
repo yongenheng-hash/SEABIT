@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-24T11:22:28.097984+00:00",
+ "generated": "2026-08-24T11:52:55.736880+00:00",
  "items": [
+  {
+   "id": "eb61b6da9e37",
+   "ts": "2026-08-24T11:34:25+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html"
+  },
   {
    "id": "5210d80cc692",
    "ts": "2026-08-24T09:11:23+00:00",
