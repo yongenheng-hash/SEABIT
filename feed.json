@@ -1,6 +1,36 @@
 {
- "generated": "2026-08-25T12:37:59.637372+00:00",
+ "generated": "2026-08-25T13:44:25.056113+00:00",
  "items": [
+  {
+   "id": "34c45d5969a5",
+   "ts": "2026-08-25T12:42:15+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 25,
+   "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+  },
+  {
+   "id": "f14b1ddd731b",
+   "ts": "2026-08-25T12:39:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trump floats renaming Lake Ontario as 'Lake America' as trade war with Canada escalates",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/trump-trade-war-canada-lake-ontario-america-tariffs-6339996"
+  },
   {
    "id": "6accb412da14",
    "ts": "2026-08-25T10:20:17+00:00",
