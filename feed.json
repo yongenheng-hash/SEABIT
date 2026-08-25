@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T17:56:10.868412+00:00",
+ "generated": "2026-08-25T18:36:30.569208+00:00",
  "items": [
+  {
+   "id": "bd71477dc4cc",
+   "ts": "2026-08-25T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
+  },
   {
    "id": "62428251a0fe",
    "ts": "2026-08-25T16:27:34+00:00",
