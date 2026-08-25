@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T15:37:33.703263+00:00",
+ "generated": "2026-08-25T16:30:52.839844+00:00",
  "items": [
+  {
+   "id": "62428251a0fe",
+   "ts": "2026-08-25T16:27:34+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html"
+  },
   {
    "id": "7b39fbb842ae",
    "ts": "2026-08-25T15:04:00+00:00",
