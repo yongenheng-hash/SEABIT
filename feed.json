@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T09:30:07.829384+00:00",
+ "generated": "2026-08-25T10:02:58.137284+00:00",
  "items": [
+  {
+   "id": "213aeed199ab",
+   "ts": "2026-08-25T09:41:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Gaza parents urged to stop kids flying kites after Israel warning to Hamas",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/gaza-palestinian-children-stop-flying-kites-israel-warns-hamas-6339671"
+  },
   {
    "id": "b4be2c71c30a",
    "ts": "2026-08-25T05:29:41+00:00",
