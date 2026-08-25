@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T02:19:37.005917+00:00",
+ "generated": "2026-08-25T03:25:27.762471+00:00",
  "items": [
+  {
+   "id": "11b54aa1c1a8",
+   "ts": "2026-08-25T03:19:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Stocks stagger and oil rises as traders eye Iran threat, Nvidia results",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/stocks-stagger-and-oil-rises-traders-eye-iran-threat-nvidia-results-6339071"
+  },
   {
    "id": "753cc2741dbc",
    "ts": "2026-08-25T01:12:00+00:00",
