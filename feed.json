@@ -1,6 +1,36 @@
 {
- "generated": "2026-08-25T14:39:37.930866+00:00",
+ "generated": "2026-08-25T15:37:33.703263+00:00",
  "items": [
+  {
+   "id": "7b39fbb842ae",
+   "ts": "2026-08-25T15:04:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Canada announces US$20 billion retaliatory tariffs on US goods, unveils support measures",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/canada-tariffs-retaliatory-response-us-6340411"
+  },
+  {
+   "id": "9e9c0988ed65",
+   "ts": "2026-08-25T15:03:40+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Honda says it may not build new plant in North America without trade deal extension",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/honda-says-it-may-not-build-new-plant-in-north-america-without-trade-deal-extension-6340421"
+  },
   {
    "id": "34c45d5969a5",
    "ts": "2026-08-25T12:42:15+00:00",
