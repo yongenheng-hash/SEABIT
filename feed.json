@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T10:02:58.137284+00:00",
+ "generated": "2026-08-25T10:58:50.239359+00:00",
  "items": [
+  {
+   "id": "6accb412da14",
+   "ts": "2026-08-25T10:20:17+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html"
+  },
   {
    "id": "213aeed199ab",
    "ts": "2026-08-25T09:41:00+00:00",
