@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T03:25:27.762471+00:00",
+ "generated": "2026-08-25T04:07:46.224634+00:00",
  "items": [
+  {
+   "id": "cdc29877da48",
+   "ts": "2026-08-25T03:37:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Canada to announce response to Trump's new tariffs",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/canada-carney-trump-tariffs-response-6339096"
+  },
   {
    "id": "11b54aa1c1a8",
    "ts": "2026-08-25T03:19:00+00:00",
