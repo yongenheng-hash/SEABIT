@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T23:20:57.524304+00:00",
+ "generated": "2026-08-25T23:47:45.909700+00:00",
  "items": [
+  {
+   "id": "52ac24c1c7b5",
+   "ts": "2026-08-25T23:21:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Canada slaps retaliatory tariffs on US goods worth US$20 billion as trade war intensifies",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/canada-us-retaliatory-tariffs-us20-billion-trade-war-6341106"
+  },
   {
    "id": "092ee2f1f086",
    "ts": "2026-08-25T21:27:18+00:00",
