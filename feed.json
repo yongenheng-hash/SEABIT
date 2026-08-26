@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-25T23:47:45.909700+00:00",
+ "generated": "2026-08-26T01:00:23.953305+00:00",
  "items": [
+  {
+   "id": "81dccdbe1e32",
+   "ts": "2026-08-26T00:03:56+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Japan's corporate services inflation accelerates in July",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/japans-corporate-services-inflation-accelerates-in-july-6341166"
+  },
   {
    "id": "52ac24c1c7b5",
    "ts": "2026-08-25T23:21:00+00:00",
