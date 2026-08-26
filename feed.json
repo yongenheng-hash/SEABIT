@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-26T11:37:18.072563+00:00",
+ "generated": "2026-08-26T12:41:05.282956+00:00",
  "items": [
+  {
+   "id": "b9fcb8e4678c",
+   "ts": "2026-08-26T12:35:22+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html"
+  },
   {
    "id": "c03263464599",
    "ts": "2026-08-26T10:15:00+00:00",
