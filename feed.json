@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-26T06:01:37.678145+00:00",
+ "generated": "2026-08-26T07:24:15.019263+00:00",
  "items": [
+  {
+   "id": "3d9bb3a0dbed",
+   "ts": "2026-08-26T07:00:26+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Mediacorp wins Singapore Environmental Achievement Award 2026 for leadership and advocacy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/mediacorp-singapore-environmental-achievement-awards-2026-6341366"
+  },
   {
    "id": "81dccdbe1e32",
    "ts": "2026-08-26T00:03:56+00:00",
