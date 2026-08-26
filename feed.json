@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-26T10:05:07.387156+00:00",
+ "generated": "2026-08-26T11:00:15.625987+00:00",
  "items": [
+  {
+   "id": "c03263464599",
+   "ts": "2026-08-26T10:15:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html"
+  },
   {
    "id": "3d9bb3a0dbed",
    "ts": "2026-08-26T07:00:26+00:00",
