@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-27T19:54:51.160511+00:00",
+ "generated": "2026-08-28T03:59:06.289665+00:00",
  "items": [
+  {
+   "id": "75e98cec5967",
+   "ts": "2026-08-27T23:45:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Tokyo core inflation creeps near BOJ's target, bolsters rate-hike chance",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/tokyo-core-inflation-creeps-near-bojs-target-bolsters-rate-hike-chance-6346526"
+  },
   {
    "id": "5e0586c10f52",
    "ts": "2026-08-27T18:09:02+00:00",
