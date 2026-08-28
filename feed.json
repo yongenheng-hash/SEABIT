@@ -1,6 +1,51 @@
 {
- "generated": "2026-08-28T03:59:06.289665+00:00",
+ "generated": "2026-08-28T16:28:44.529602+00:00",
  "items": [
+  {
+   "id": "d89b1cd64632",
+   "ts": "2026-08-28T16:11:51+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"
+  },
+  {
+   "id": "0a90a6c984c8",
+   "ts": "2026-08-28T16:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Isabel Schnabel: Central banks on-chain",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html"
+  },
+  {
+   "id": "bcfdd8c40987",
+   "ts": "2026-08-28T15:22:10+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 25,
+   "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html"
+  },
   {
    "id": "75e98cec5967",
    "ts": "2026-08-27T23:45:00+00:00",
@@ -1729,21 +1774,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
-  },
-  {
-   "id": "0565e175dfd9",
-   "ts": "2026-07-29T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "labour",
-   "bias": "neutral",
-   "score": 50,
-   "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html"
   }
  ]
 }
