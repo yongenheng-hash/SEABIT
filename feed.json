@@ -1,6 +1,36 @@
 {
- "generated": "2026-08-29T07:36:21.196946+00:00",
+ "generated": "2026-08-29T13:33:09.012797+00:00",
  "items": [
+  {
+   "id": "5c0da51bc748",
+   "ts": "2026-08-29T12:22:50+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html"
+  },
+  {
+   "id": "2f3876b39867",
+   "ts": "2026-08-29T12:02:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "War weighs on Iran's economy as US intensifies sanctions",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/war-us-sanctions-iran-economy-strait-horrmuz-6349426"
+  },
   {
    "id": "d89b1cd64632",
    "ts": "2026-08-28T16:11:51+00:00",
@@ -1699,51 +1729,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm"
-  },
-  {
-   "id": "67f655902249",
-   "ts": "2026-07-30T13:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Minutes of the Meeting of the Court of Directors held on 4 June 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026"
-  },
-  {
-   "id": "c23ae7025add",
-   "ts": "2026-07-30T11:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026"
-  },
-  {
-   "id": "d6422eda7b35",
-   "ts": "2026-07-30T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Digital euro app to incorporate highest accessibility standards",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html"
   }
  ]
 }
