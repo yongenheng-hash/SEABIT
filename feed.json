@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-29T13:33:09.012797+00:00",
+ "generated": "2026-08-29T17:28:24.561719+00:00",
  "items": [
+  {
+   "id": "6dc7f030cca8",
+   "ts": "2026-08-29T15:27:22+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Pogacar forced to abandon Vuelta after stage eight crash, Mas takes overall lead",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/sport/pogacar-forced-abandon-vuelta-after-stage-eight-crash-mas-takes-overall-lead-6349586"
+  },
   {
    "id": "5c0da51bc748",
    "ts": "2026-08-29T12:22:50+00:00",
@@ -1684,51 +1699,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm"
-  },
-  {
-   "id": "8aaab307aab6",
-   "ts": "2026-07-30T15:04:43+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
-  },
-  {
-   "id": "aabe730a8f85",
-   "ts": "2026-07-30T15:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm"
-  },
-  {
-   "id": "0edb7afd0aae",
-   "ts": "2026-07-30T15:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm"
   }
  ]
 }
