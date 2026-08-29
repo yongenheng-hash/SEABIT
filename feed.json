@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T16:28:44.529602+00:00",
+ "generated": "2026-08-29T00:37:41.892583+00:00",
  "items": [
   {
    "id": "d89b1cd64632",
@@ -1744,36 +1744,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html"
-  },
-  {
-   "id": "c946aa7dc262",
-   "ts": "2026-07-29T23:36:34+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "What a divided Fed means for investors",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html"
-  },
-  {
-   "id": "b31df595e972",
-   "ts": "2026-07-29T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Federal Reserve issues FOMC statement",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
   }
  ]
 }
