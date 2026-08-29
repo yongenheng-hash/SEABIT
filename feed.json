@@ -1,6 +1,36 @@
 {
- "generated": "2026-08-29T19:56:22.428116+00:00",
+ "generated": "2026-08-29T22:21:19.201234+00:00",
  "items": [
+  {
+   "id": "fe46047d6216",
+   "ts": "2026-08-29T22:00:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trained for the great farewell: The young Chinese betting their futures on a still-stigmatised trade",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/east-asia/china-youth-funeral-studies-careers-demand-6317466"
+  },
+  {
+   "id": "5d0141af4707",
+   "ts": "2026-08-29T21:26:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Egypt's Banque Misr reviews US Iran sanctions notice, UAE central bank launches urgent examination",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/egypts-banque-misr-reviews-us-iran-sanctions-notice-uae-central-bank-launches-urgent-examination-6349806"
+  },
   {
    "id": "6dc7f030cca8",
    "ts": "2026-08-29T15:27:22+00:00",
