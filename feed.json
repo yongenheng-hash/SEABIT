@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-30T00:30:40.597558+00:00",
+ "generated": "2026-08-30T06:09:51.630322+00:00",
  "items": [
+  {
+   "id": "41864b65dc91",
+   "ts": "2026-08-30T05:26:23+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Vietnamese coffee farmers ride China's durian wave",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/asia/vietnam-coffee-farmers-china-durian-demand-6350141"
+  },
   {
    "id": "fe46047d6216",
    "ts": "2026-08-29T22:00:00+00:00",
