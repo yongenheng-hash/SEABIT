@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T12:05:50.101740+00:00",
+ "generated": "2026-08-30T16:52:58.488915+00:00",
  "items": [
   {
    "id": "18552ac86183",
@@ -1714,51 +1714,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc"
-  },
-  {
-   "id": "a1ce6455830a",
-   "ts": "2026-07-31T16:51:30+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html"
-  },
-  {
-   "id": "185e475f6a0f",
-   "ts": "2026-07-31T14:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
-  },
-  {
-   "id": "eb335d09e7f6",
-   "ts": "2026-07-31T14:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm"
   }
  ]
 }
