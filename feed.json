@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-30T19:36:39.254814+00:00",
+ "generated": "2026-08-30T22:19:26.483778+00:00",
  "items": [
+  {
+   "id": "1c26cd4ba31c",
+   "ts": "2026-08-30T22:00:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Indonesia wants more sway over commodity prices - here’s how its new exchange can win over market",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/asia/indonesia-commodity-exchange-nickel-palm-oil-coal-6333186"
+  },
   {
    "id": "29caef556c53",
    "ts": "2026-08-30T15:51:17+00:00",
