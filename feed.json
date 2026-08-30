@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-30T16:52:58.488915+00:00",
+ "generated": "2026-08-30T19:36:39.254814+00:00",
  "items": [
+  {
+   "id": "29caef556c53",
+   "ts": "2026-08-30T15:51:17+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Mas wins Vuelta stage nine to keep red jersey",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/sport/mas-wins-vuelta-stage-nine-keep-red-jersey-6350596"
+  },
   {
    "id": "18552ac86183",
    "ts": "2026-08-30T08:02:00+00:00",
