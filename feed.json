@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-30T06:09:51.630322+00:00",
+ "generated": "2026-08-30T12:05:50.101740+00:00",
  "items": [
+  {
+   "id": "18552ac86183",
+   "ts": "2026-08-30T08:02:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Malaysia PM Anwar unveils measures to tackle living costs, support local businesses",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-measures-tackle-living-costs-local-businesses-6350251"
+  },
   {
    "id": "41864b65dc91",
    "ts": "2026-08-30T05:26:23+00:00",
