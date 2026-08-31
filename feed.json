@@ -1,6 +1,38 @@
 {
- "generated": "2026-08-31T06:35:02.960041+00:00",
+ "generated": "2026-08-31T14:46:31.898762+00:00",
  "items": [
+  {
+   "id": "9d67a1030782",
+   "ts": "2026-08-31T11:23:42+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 38,
+   "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
+   "sum": "",
+   "why": "",
+   "extra": 1,
+   "also": [
+    "CNBC Asia-Pacific"
+   ],
+   "url": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html"
+  },
+  {
+   "id": "820dd5750818",
+   "ts": "2026-08-31T10:11:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Japan seeks record US$55.6 billion defence budget, with AI focus",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/east-asia/japan-defence-ministry-seeks-record-budget-ai-6352001"
+  },
   {
    "id": "052db29164b8",
    "ts": "2026-08-31T03:51:35+00:00",
