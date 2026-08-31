@@ -1,6 +1,53 @@
 {
- "generated": "2026-08-31T00:43:20.210896+00:00",
+ "generated": "2026-08-31T06:35:02.960041+00:00",
  "items": [
+  {
+   "id": "052db29164b8",
+   "ts": "2026-08-31T03:51:35+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Analysis:Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/analysistoyota-and-honda-may-get-stuck-bill-trumps-canada-tariffs-6351281"
+  },
+  {
+   "id": "9e1f89381957",
+   "ts": "2026-08-31T03:47:28+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html"
+  },
+  {
+   "id": "2baeb07e9df4",
+   "ts": "2026-08-31T03:15:01+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 38,
+   "title": "China's factory activity shrinks for second straight month, contracting less than expected",
+   "sum": "",
+   "why": "",
+   "extra": 1,
+   "also": [
+    "CNBC Asia-Pacific"
+   ],
+   "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html"
+  },
   {
    "id": "1c26cd4ba31c",
    "ts": "2026-08-30T22:00:00+00:00",
