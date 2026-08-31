@@ -1,6 +1,36 @@
 {
- "generated": "2026-08-31T14:46:31.898762+00:00",
+ "generated": "2026-08-31T20:36:12.438915+00:00",
  "items": [
+  {
+   "id": "c6ff01b6b74c",
+   "ts": "2026-08-31T19:38:38+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html"
+  },
+  {
+   "id": "6681f13741d6",
+   "ts": "2026-08-31T18:34:12+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trump vows to hit back 'hard' after first exchange of fire with Iran in weeks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/trump-vows-hit-back-hard-after-first-exchange-fire-iran-in-weeks-6352671"
+  },
   {
    "id": "9d67a1030782",
    "ts": "2026-08-31T11:23:42+00:00",
