@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-01T21:32:56.738508+00:00",
+ "generated": "2026-09-01T23:44:22.994909+00:00",
  "items": [
+  {
+   "id": "0b00e97bf0a2",
+   "ts": "2026-09-01T23:09:57+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "South Korea inflation quickens on one-off factor, still lower than expected",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/south-korea-inflation-quickens-one-factor-still-lower-expected-6356166"
+  },
+  {
+   "id": "954b993ecdb4",
+   "ts": "2026-09-01T21:59:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Commentary: Rebuilding Nepal without repeating mistakes of 2015 earthquake",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/commentary/nepal-flood-disaster-relief-trade-economy-6354596"
+  },
   {
    "id": "f1ec4333a7aa",
    "ts": "2026-09-01T19:10:13+00:00",
