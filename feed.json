@@ -1,6 +1,51 @@
 {
- "generated": "2026-09-01T05:25:23.185191+00:00",
+ "generated": "2026-09-01T10:18:56.863857+00:00",
  "items": [
+  {
+   "id": "5de4a4a55486",
+   "ts": "2026-09-01T09:56:12+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html"
+  },
+  {
+   "id": "138007da70d9",
+   "ts": "2026-09-01T09:20:16+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "BYD's sales extend growth streak on strong exports",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/byds-sales-extend-growth-streak-strong-exports-6354546"
+  },
+  {
+   "id": "e395cf8a920c",
+   "ts": "2026-09-01T07:02:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Carney's Liberals sweep Canada by-elections as US trade war rages",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/carneys-liberals-sweep-canada-elections-us-trade-war-rages-6353906"
+  },
   {
    "id": "46be616832a0",
    "ts": "2026-09-01T04:45:39+00:00",
