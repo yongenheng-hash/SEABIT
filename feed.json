@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-01T18:41:28.678715+00:00",
+ "generated": "2026-09-01T21:32:56.738508+00:00",
  "items": [
+  {
+   "id": "f1ec4333a7aa",
+   "ts": "2026-09-01T19:10:13+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "US pushes G20 to cut trade imbalances, focus on China",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/us-pushes-g20-cut-trade-imbalances-focus-china-6355506"
+  },
   {
    "id": "1b8db8d05c31",
    "ts": "2026-09-01T16:24:38+00:00",
