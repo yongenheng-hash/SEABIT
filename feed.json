@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-01T10:18:56.863857+00:00",
+ "generated": "2026-09-01T15:02:20.826531+00:00",
  "items": [
+  {
+   "id": "6a7d2913703c",
+   "ts": "2026-09-01T14:14:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Iran urges US to comply with interim deal after Trump threatens further strikes",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/war-iran-interim-deal-trump-us-strikes-6355261"
+  },
+  {
+   "id": "f3abdb805e19",
+   "ts": "2026-09-01T14:01:27+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html"
+  },
   {
    "id": "5de4a4a55486",
    "ts": "2026-09-01T09:56:12+00:00",
