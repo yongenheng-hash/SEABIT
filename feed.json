@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-01T15:02:20.826531+00:00",
+ "generated": "2026-09-01T18:41:28.678715+00:00",
  "items": [
+  {
+   "id": "1b8db8d05c31",
+   "ts": "2026-09-01T16:24:38+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Canada's Carney says US needs to start being serious before trade talks can resume",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/canadas-carney-us-start-serious-trade-talks-6355461"
+  },
+  {
+   "id": "087cb53029ce",
+   "ts": "2026-09-01T16:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html"
+  },
   {
    "id": "6a7d2913703c",
    "ts": "2026-09-01T14:14:00+00:00",
