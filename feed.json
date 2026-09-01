@@ -1,6 +1,21 @@
 {
- "generated": "2026-08-31T20:36:12.438915+00:00",
+ "generated": "2026-09-01T00:19:46.363159+00:00",
  "items": [
+  {
+   "id": "32bbd50f83c1",
+   "ts": "2026-08-31T21:59:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Commentary: Welcome to the 'don’t ask, don’t tell' AI economy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/commentary/ai-productivity-dont-ask-dont-tell-economy-6351851"
+  },
   {
    "id": "c6ff01b6b74c",
    "ts": "2026-08-31T19:38:38+00:00",
