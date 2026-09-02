@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-02T02:31:51.720709+00:00",
+ "generated": "2026-09-02T07:32:33.527525+00:00",
  "items": [
+  {
+   "id": "24bbd4e1ce86",
+   "ts": "2026-09-02T04:00:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Economists raise Singapore's 2026 growth forecast to 5%: MAS survey",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/mas-economist-survey-2026-gdp-growth-inflation-6353876"
+  },
   {
    "id": "28204d0f843b",
    "ts": "2026-09-02T02:14:00+00:00",
