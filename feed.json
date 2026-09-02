@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-02T12:28:39.807480+00:00",
+ "generated": "2026-09-02T16:47:47.887724+00:00",
  "items": [
+  {
+   "id": "a9c06453e1f6",
+   "ts": "2026-09-02T15:56:13+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 25,
+   "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html"
+  },
+  {
+   "id": "dcc2f8d074d3",
+   "ts": "2026-09-02T15:45:09+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Briton Brennan triumphs in Vuelta stage 11, Mas retains red",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/sport/briton-brennan-triumphs-in-vuelta-stage-11-mas-retains-red-6358231"
+  },
   {
    "id": "76f59e2f6c75",
    "ts": "2026-09-02T12:15:20+00:00",
