@@ -1,6 +1,51 @@
 {
- "generated": "2026-09-02T07:32:33.527525+00:00",
+ "generated": "2026-09-02T12:28:39.807480+00:00",
  "items": [
+  {
+   "id": "76f59e2f6c75",
+   "ts": "2026-09-02T12:15:20+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "labour",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Private payrolls rose by 38,000 in August, fewer than expected, ADP reports",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html"
+  },
+  {
+   "id": "72bdd663e27d",
+   "ts": "2026-09-02T11:09:15+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html"
+  },
+  {
+   "id": "f2261815455f",
+   "ts": "2026-09-02T09:05:29+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Stocks slide, bond rout deepens as US and Iran trade attacks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/stocks-slide-bond-rout-deepens-us-and-iran-trade-attacks-6356271"
+  },
   {
    "id": "24bbd4e1ce86",
    "ts": "2026-09-02T04:00:00+00:00",
@@ -2153,21 +2198,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
-  },
-  {
-   "id": "b851cf2c4ce5",
-   "ts": "2026-08-03T09:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc"
   }
  ]
 }
