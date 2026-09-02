@@ -1,6 +1,51 @@
 {
- "generated": "2026-09-01T23:44:22.994909+00:00",
+ "generated": "2026-09-02T02:31:51.720709+00:00",
  "items": [
+  {
+   "id": "28204d0f843b",
+   "ts": "2026-09-02T02:14:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "China's Xi to hold talks with Egypt's Sisi in rare visit to country",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/east-asia/china-egypt-xi-visit-sisi-talks-6356446"
+  },
+  {
+   "id": "5c03b803a1cb",
+   "ts": "2026-09-02T02:11:57+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html"
+  },
+  {
+   "id": "6b53ecb4abde",
+   "ts": "2026-09-02T00:55:24+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Oil up nearly 1% as US and Iran trade fresh strikes",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/oil-up-nearly-1-us-and-iran-trade-fresh-strikes-6356296"
+  },
   {
    "id": "0b00e97bf0a2",
    "ts": "2026-09-01T23:09:57+00:00",
@@ -15,6 +60,21 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/south-korea-inflation-quickens-one-factor-still-lower-expected-6356166"
+  },
+  {
+   "id": "e6d9643ed93d",
+   "ts": "2026-09-01T23:09:57+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "South Korea inflation quickens on one-off factor, misses expectations",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/south-korea-inflation-quickens-one-factor-misses-expectations-6356166"
   },
   {
    "id": "954b993ecdb4",
