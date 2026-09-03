@@ -1,6 +1,68 @@
 {
- "generated": "2026-09-03T00:27:44.081384+00:00",
+ "generated": "2026-09-03T04:52:59.050279+00:00",
  "items": [
+  {
+   "id": "76d7e0aabf99",
+   "ts": "2026-09-03T04:44:31+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html"
+  },
+  {
+   "id": "e2d6e5ab379d",
+   "ts": "2026-09-03T04:31:06+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Shipping stocks at a crossroads amid their best rally in decades",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html"
+  },
+  {
+   "id": "d20dd04177a4",
+   "ts": "2026-09-03T03:30:00+00:00",
+   "source": "Reserve Bank of Australia",
+   "region": "Global",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 40,
+   "title": "Designation of Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-25.html"
+  },
+  {
+   "id": "6f1eb204bf6a",
+   "ts": "2026-09-03T01:11:41+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 38,
+   "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+   "sum": "",
+   "why": "",
+   "extra": 1,
+   "also": [
+    "CNBC Asia-Pacific"
+   ],
+   "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html"
+  },
   {
    "id": "040b37bb10c7",
    "ts": "2026-09-02T23:26:10+00:00",
