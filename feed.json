@@ -1,6 +1,51 @@
 {
- "generated": "2026-09-03T09:24:08.359349+00:00",
+ "generated": "2026-09-03T13:44:34.096337+00:00",
  "items": [
+  {
+   "id": "2681cdfc8170",
+   "ts": "2026-09-03T13:33:39+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html"
+  },
+  {
+   "id": "297260fb9259",
+   "ts": "2026-09-03T12:25:53+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/03/supersized-el-nino-un-economy.html"
+  },
+  {
+   "id": "3aa7ce077635",
+   "ts": "2026-09-03T11:08:03+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "UK's John Lewis looks to harness AI agent shopping in 'difficult economy'",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/uks-john-lewis-looks-harness-ai-agent-shopping-in-difficult-economy-6360421"
+  },
   {
    "id": "fe80d88bc908",
    "ts": "2026-09-03T08:09:21+00:00",
