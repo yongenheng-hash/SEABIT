@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-03T13:44:34.096337+00:00",
+ "generated": "2026-09-03T17:28:04.121321+00:00",
  "items": [
+  {
+   "id": "dca68aa0eede",
+   "ts": "2026-09-03T16:09:26+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Mas extends Vuelta lead, Omrzel wins stage 12",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/sport/mas-extends-vuelta-lead-omrzel-wins-stage-12-6361101"
+  },
+  {
+   "id": "c629eb5a6805",
+   "ts": "2026-09-03T14:46:39+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "US trade gap in July hits biggest in over a year on AI buildout",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/us-trade-gap-in-july-hits-biggest-in-over-year-ai-buildout-6360896"
+  },
   {
    "id": "2681cdfc8170",
    "ts": "2026-09-03T13:33:39+00:00",
@@ -2350,21 +2380,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
-  },
-  {
-   "id": "78bfcb7dabbb",
-   "ts": "2026-08-04T14:42:39+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
   }
  ]
 }
