@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-03T20:02:58.968889+00:00",
+ "generated": "2026-09-03T22:42:25.629032+00:00",
  "items": [
+  {
+   "id": "4069b2ef9c4d",
+   "ts": "2026-09-03T21:59:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Commentary: Canada is testing the limits of saying no to Donald Trump",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/commentary/us-canada-trade-war-trump-tariffs-carney-midterms-6359886"
+  },
   {
    "id": "92202d8966f2",
    "ts": "2026-09-03T19:38:09+00:00",
@@ -2365,36 +2380,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
-  },
-  {
-   "id": "1edd7b3e6105",
-   "ts": "2026-08-04T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 58,
-   "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm"
-  },
-  {
-   "id": "5dd3b15c1679",
-   "ts": "2026-08-04T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
   }
  ]
 }
