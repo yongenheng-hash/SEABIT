@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-03T04:52:59.050279+00:00",
+ "generated": "2026-09-03T09:24:08.359349+00:00",
  "items": [
+  {
+   "id": "fe80d88bc908",
+   "ts": "2026-09-03T08:09:21+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "US-Canada trade war tests deep manufacturing ties between Detroit and Windsor",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-detroit-windsor-manufacturing-6359871"
+  },
   {
    "id": "76d7e0aabf99",
    "ts": "2026-09-03T04:44:31+00:00",
