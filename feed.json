@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-03T17:28:04.121321+00:00",
+ "generated": "2026-09-03T20:02:58.968889+00:00",
  "items": [
+  {
+   "id": "92202d8966f2",
+   "ts": "2026-09-03T19:38:09+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
+  },
   {
    "id": "dca68aa0eede",
    "ts": "2026-09-03T16:09:26+00:00",
