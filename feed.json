@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-04T09:49:24.506166+00:00",
+ "generated": "2026-09-04T13:56:39.480807+00:00",
  "items": [
+  {
+   "id": "4c6c287ca5ea",
+   "ts": "2026-09-04T13:52:53+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "labour",
+   "bias": "neutral",
+   "score": 30,
+   "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
+  },
+  {
+   "id": "43209ef7e04f",
+   "ts": "2026-09-04T12:17:20+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html"
+  },
   {
    "id": "279978324b24",
    "ts": "2026-09-04T09:10:00+00:00",
@@ -2440,21 +2470,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02"
-  },
-  {
-   "id": "a939fe3bbabb",
-   "ts": "2026-08-05T10:51:26+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Artificial Intelligence Consortium minutes – June 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026"
   }
  ]
 }
