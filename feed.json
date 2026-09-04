@@ -1,6 +1,51 @@
 {
- "generated": "2026-09-04T05:23:26.467674+00:00",
+ "generated": "2026-09-04T09:49:24.506166+00:00",
  "items": [
+  {
+   "id": "279978324b24",
+   "ts": "2026-09-04T09:10:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Philip R. Lane: Diversity at the European Central Bank",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
+  },
+  {
+   "id": "b49700cd8ccd",
+   "ts": "2026-09-04T05:52:15+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "India’s June quarter GDP print is courting controversy. Here’s why",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/04/india-gdp-controversy-imf-modi.html"
+  },
+  {
+   "id": "45aad15808fd",
+   "ts": "2026-09-04T05:45:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/south-korea-says-chip-investments-under-discussion-us-amid-tariff-concerns-6362261"
+  },
   {
    "id": "980f2f7ccea2",
    "ts": "2026-09-04T04:57:00+00:00",
@@ -2410,21 +2455,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026"
-  },
-  {
-   "id": "a8323e94f590",
-   "ts": "2026-08-05T07:15:17+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
   }
  ]
 }
