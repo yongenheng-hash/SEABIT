@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-04T00:39:47.568012+00:00",
+ "generated": "2026-09-04T05:23:26.467674+00:00",
  "items": [
+  {
+   "id": "980f2f7ccea2",
+   "ts": "2026-09-04T04:57:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trade tensions with US fuel Canadian patriotism as shoppers shun American goods",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-tensions-patriotism-consumers-6362266"
+  },
+  {
+   "id": "7865c14e9611",
+   "ts": "2026-09-04T04:01:40+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Singapore collected S$97.3 billion in tax revenue, up 9.4%",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/iras-tax-revenue-financial-year-2025-2026-increase-6362131"
+  },
   {
    "id": "4069b2ef9c4d",
    "ts": "2026-09-03T21:59:00+00:00",
