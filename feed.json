@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-04T17:22:51.173970+00:00",
+ "generated": "2026-09-04T19:45:56.107544+00:00",
  "items": [
+  {
+   "id": "bffb6af1b88b",
+   "ts": "2026-09-04T18:27:39+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "labour",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Women accounted for almost all of job gains in August. Here's why",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html"
+  },
   {
    "id": "dedbe4485d30",
    "ts": "2026-09-04T15:37:39+00:00",
