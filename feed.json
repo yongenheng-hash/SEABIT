@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-04T13:56:39.480807+00:00",
+ "generated": "2026-09-04T17:22:51.173970+00:00",
  "items": [
+  {
+   "id": "dedbe4485d30",
+   "ts": "2026-09-04T15:37:39+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Van Aert wins Vuelta stage 13, Mas retains red jersey",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/sport/van-aert-wins-vuelta-stage-13-mas-retains-red-jersey-6363546"
+  },
+  {
+   "id": "5e363534c513",
+   "ts": "2026-09-04T15:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+  },
   {
    "id": "4c6c287ca5ea",
    "ts": "2026-09-04T13:52:53+00:00",
