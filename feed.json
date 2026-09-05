@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-04T22:02:38.040792+00:00",
+ "generated": "2026-09-05T00:14:37.065231+00:00",
  "items": [
+  {
+   "id": "bc806210e028",
+   "ts": "2026-09-04T22:00:58+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "US Justice Department pauses cooperation with Canadian government, WSJ reports",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/us-justice-department-pauses-cooperation-canadian-government-6364001"
+  },
   {
    "id": "bffb6af1b88b",
    "ts": "2026-09-04T18:27:39+00:00",
