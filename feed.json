@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T08:45:55.125995+00:00",
+ "generated": "2026-09-05T12:18:01.261820+00:00",
  "items": [
   {
    "id": "70276a9de677",
@@ -2530,21 +2530,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html"
-  },
-  {
-   "id": "7f7fef123b5f",
-   "ts": "2026-08-06T11:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Green notice 2026/02",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02"
   }
  ]
 }
