@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-05T17:26:17.051592+00:00",
+ "generated": "2026-09-05T19:14:28.041421+00:00",
  "items": [
+  {
+   "id": "f5b7815a05a8",
+   "ts": "2026-09-05T19:12:53+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
+  },
   {
    "id": "d9921f3f1224",
    "ts": "2026-09-05T16:16:12+00:00",
