@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-05T04:45:48.680890+00:00",
+ "generated": "2026-09-05T08:45:55.125995+00:00",
  "items": [
+  {
+   "id": "70276a9de677",
+   "ts": "2026-09-05T05:55:42+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-6364376"
+  },
   {
    "id": "bc806210e028",
    "ts": "2026-09-04T22:00:58+00:00",
