@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T11:11:06.922054+00:00",
+ "generated": "2026-09-06T14:17:59.752477+00:00",
  "items": [
   {
    "id": "f5b7815a05a8",
@@ -2530,21 +2530,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
-  },
-  {
-   "id": "df5eef93fa72",
-   "ts": "2026-08-07T11:23:07+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "labour",
-   "bias": "neutral",
-   "score": 30,
-   "title": "The July jobs numbers are due out Friday. Here's what to expect",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
   }
  ]
 }
