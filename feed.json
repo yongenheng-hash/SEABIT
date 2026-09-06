@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T06:14:15.829182+00:00",
+ "generated": "2026-09-06T11:11:06.922054+00:00",
  "items": [
   {
    "id": "f5b7815a05a8",
@@ -2545,21 +2545,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
-  },
-  {
-   "id": "f64f1b9acdad",
-   "ts": "2026-08-07T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "ECB publishes consolidated banking data for end-March 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html"
   }
  ]
 }
