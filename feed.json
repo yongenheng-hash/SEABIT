@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-07T12:52:28.117010+00:00",
+ "generated": "2026-09-07T18:03:11.410138+00:00",
  "items": [
+  {
+   "id": "d20c7c31b20d",
+   "ts": "2026-09-07T12:51:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Russia, North Korea open first road bridge across border",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/russia-north-korea-first-road-bridge-6367571"
+  },
   {
    "id": "40a12611b46f",
    "ts": "2026-09-07T11:50:43+00:00",
