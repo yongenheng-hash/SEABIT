@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-07T06:22:20.464512+00:00",
+ "generated": "2026-09-07T12:52:28.117010+00:00",
  "items": [
+  {
+   "id": "40a12611b46f",
+   "ts": "2026-09-07T11:50:43+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "labour",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html"
+  },
   {
    "id": "f5b7815a05a8",
    "ts": "2026-09-05T19:12:53+00:00",
