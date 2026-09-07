@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-07T21:40:09.501674+00:00",
+ "generated": "2026-09-07T23:55:05.645050+00:00",
  "items": [
+  {
+   "id": "ca625955f0e6",
+   "ts": "2026-09-07T23:00:01+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "labour",
+   "bias": "neutral",
+   "score": 30,
+   "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html"
+  },
+  {
+   "id": "9c70ab9cb722",
+   "ts": "2026-09-07T21:59:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Commentary: Why America’s debt binge is starting to matter",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/commentary/us-national-debt-threatens-ai-market-boom-6367086"
+  },
   {
    "id": "d20c7c31b20d",
    "ts": "2026-09-07T12:51:00+00:00",
