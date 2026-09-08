@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-08T07:44:49.614377+00:00",
+ "generated": "2026-09-08T12:33:43.750627+00:00",
  "items": [
+  {
+   "id": "2309db0898db",
+   "ts": "2026-09-08T11:23:47+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Kalshi's $400 million-plus monthly commodity trade volume outpaces early crypto growth",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/kalshis-400-million-plus-monthly-commodity-trade-volume-outpaces-early-crypto-growth-6369866"
+  },
+  {
+   "id": "83a48fba57e4",
+   "ts": "2026-09-08T08:16:11+00:00",
+   "source": "CNBC Finance",
+   "region": "Global",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 25,
+   "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html"
+  },
   {
    "id": "9cae3e058ae1",
    "ts": "2026-09-08T07:00:25+00:00",
