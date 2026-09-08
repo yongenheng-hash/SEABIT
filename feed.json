@@ -1,6 +1,38 @@
 {
- "generated": "2026-09-08T02:44:29.920273+00:00",
+ "generated": "2026-09-08T07:44:49.614377+00:00",
  "items": [
+  {
+   "id": "9cae3e058ae1",
+   "ts": "2026-09-08T07:00:25+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html"
+  },
+  {
+   "id": "17af138b9041",
+   "ts": "2026-09-08T04:45:07+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 38,
+   "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+   "sum": "",
+   "why": "",
+   "extra": 1,
+   "also": [
+    "CNBC Asia-Pacific"
+   ],
+   "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html"
+  },
   {
    "id": "297651860e42",
    "ts": "2026-09-08T00:01:45+00:00",
