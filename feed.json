@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-07T23:55:05.645050+00:00",
+ "generated": "2026-09-08T02:44:29.920273+00:00",
  "items": [
+  {
+   "id": "297651860e42",
+   "ts": "2026-09-08T00:01:45+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "growth",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Japan upgrades Q2 GDP on slight capex improvement",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/japan-upgrades-q2-gdp-slight-capex-improvement-6368216"
+  },
   {
    "id": "ca625955f0e6",
    "ts": "2026-09-07T23:00:01+00:00",
