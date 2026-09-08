@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-08T12:33:43.750627+00:00",
+ "generated": "2026-09-08T17:01:16.885305+00:00",
  "items": [
+  {
+   "id": "c721ebbe3a39",
+   "ts": "2026-09-08T15:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Frank Elderson: Fireside chat",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html"
+  },
+  {
+   "id": "722b9f83c574",
+   "ts": "2026-09-08T12:46:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Higher ministerial pay may ease recruitment hurdle, but other deterrents remain: Analysts",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/minister-salary-increase-recruitment-analysts-6369851"
+  },
   {
    "id": "2309db0898db",
    "ts": "2026-09-08T11:23:47+00:00",
