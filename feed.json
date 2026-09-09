@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T18:26:13.446135+00:00",
+ "generated": "2026-09-09T21:04:07.990022+00:00",
  "items": [
   {
    "id": "766fd22c3b17",
@@ -15,6 +15,21 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html"
+  },
+  {
+   "id": "73ddf261a05b",
+   "ts": "2026-09-09T16:29:16+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/dollar-trades-near-7-month-low-against-yen-oil-settles-above-100-6371506"
   },
   {
    "id": "29e93ff83ed5",
