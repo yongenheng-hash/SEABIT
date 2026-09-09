@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-09T14:59:18.924128+00:00",
+ "generated": "2026-09-09T18:26:13.446135+00:00",
  "items": [
+  {
+   "id": "766fd22c3b17",
+   "ts": "2026-09-09T17:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Christine Lagarde: The choice facing Europeans",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html"
+  },
   {
    "id": "29e93ff83ed5",
    "ts": "2026-09-09T08:00:46+00:00",
