@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-09T05:51:06.081694+00:00",
+ "generated": "2026-09-09T10:39:04.091548+00:00",
  "items": [
+  {
+   "id": "29e93ff83ed5",
+   "ts": "2026-09-09T08:00:46+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Volatile yen risks ‘confused’ global markets, chairman of Japanese shipping giant says",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/09/mitsui-chairman-yen-markets-hormuz.html"
+  },
   {
    "id": "b4c3cb8df34b",
    "ts": "2026-09-09T05:15:09+00:00",
