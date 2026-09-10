@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-10T06:17:17.351445+00:00",
+ "generated": "2026-09-10T11:37:45.093045+00:00",
  "items": [
+  {
+   "id": "b4b64f2ef8f5",
+   "ts": "2026-09-10T09:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Announcement of the publication of the Governor's interview transcript",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview"
+  },
   {
    "id": "09081b4868f1",
    "ts": "2026-09-10T04:31:00+00:00",
@@ -2847,21 +2862,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026"
-  },
-  {
-   "id": "7e15bab0eb5c",
-   "ts": "2026-08-11T08:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html"
   }
  ]
 }
