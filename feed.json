@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-10T21:20:23.796813+00:00",
+ "generated": "2026-09-10T23:18:31.188670+00:00",
  "items": [
+  {
+   "id": "2511aad107da",
+   "ts": "2026-09-10T22:00:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "9/11: The inside story of the restaurant workers on the top floor, 25 years on",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/cna-insider/911-windows-world-trade-center-73-restaurant-workers-trapped-6372771"
+  },
   {
    "id": "94e15fb96a2a",
    "ts": "2026-09-10T21:04:58+00:00",
