@@ -1,6 +1,51 @@
 {
- "generated": "2026-09-10T18:53:38.968739+00:00",
+ "generated": "2026-09-10T21:20:23.796813+00:00",
  "items": [
+  {
+   "id": "94e15fb96a2a",
+   "ts": "2026-09-10T21:04:58+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Trading Day: Inflation palpitations",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/trading-day-inflation-palpitations-6377261"
+  },
+  {
+   "id": "73487937d142",
+   "ts": "2026-09-10T20:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
+  },
+  {
+   "id": "a88325d5c959",
+   "ts": "2026-09-10T19:18:05+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html"
+  },
   {
    "id": "d0413517d7f2",
    "ts": "2026-09-10T16:13:28+00:00",
