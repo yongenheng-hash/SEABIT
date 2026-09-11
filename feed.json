@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-11T01:18:09.140852+00:00",
+ "generated": "2026-09-11T06:20:05.649065+00:00",
  "items": [
+  {
+   "id": "30ce39f9b710",
+   "ts": "2026-09-11T06:09:59+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Xi Jinping's India visit to help diplomatic thaw, but business ties bound by suspicion: Analysts",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/asia/xi-jinping-india-visit-modi-diplomacy-economy-brics-6378081"
+  },
+  {
+   "id": "780726b2d541",
+   "ts": "2026-09-11T04:29:20+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html"
+  },
   {
    "id": "4d0a9e02d24e",
    "ts": "2026-09-11T00:56:01+00:00",
