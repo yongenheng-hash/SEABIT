@@ -1,6 +1,81 @@
 {
- "generated": "2026-09-11T11:39:18.548949+00:00",
+ "generated": "2026-09-11T15:44:45.808931+00:00",
  "items": [
+  {
+   "id": "a3bdc474e1fe",
+   "ts": "2026-09-11T15:10:45+00:00",
+   "source": "CNBC Asia-Pacific",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html"
+  },
+  {
+   "id": "712a1092c16b",
+   "ts": "2026-09-11T14:28:54+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Consumer outlook plunges in September as inflation outlook worsens",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html"
+  },
+  {
+   "id": "543e9b537df5",
+   "ts": "2026-09-11T14:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
+  },
+  {
+   "id": "27a7e9786555",
+   "ts": "2026-09-11T13:46:36+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
+  },
+  {
+   "id": "b4150312fed2",
+   "ts": "2026-09-11T13:06:15+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Dollar edges higher against Swiss franc after US inflation data",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/dollar-edges-higher-against-swiss-franc-after-us-inflation-data-6377536"
+  },
   {
    "id": "30ce39f9b710",
    "ts": "2026-09-11T06:09:59+00:00",
@@ -3087,21 +3162,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html"
-  },
-  {
-   "id": "6b8a7ff2b096",
-   "ts": "2026-08-12T14:04:06+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
   }
  ]
 }
