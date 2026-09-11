@@ -1,6 +1,51 @@
 {
- "generated": "2026-09-10T23:18:31.188670+00:00",
+ "generated": "2026-09-11T01:18:09.140852+00:00",
  "items": [
+  {
+   "id": "4d0a9e02d24e",
+   "ts": "2026-09-11T00:56:01+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Global bonds fall as surging oil prices inflame inflation risks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/global-bonds-fall-surging-oil-prices-inflame-inflation-risks-6377516"
+  },
+  {
+   "id": "3714d7cce1db",
+   "ts": "2026-09-11T00:27:20+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Japan's wholesale inflation stays elevated in August, boosts case for rate hike",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/japans-wholesale-inflation-stays-elevated-in-august-boosts-case-rate-hike-6377481"
+  },
+  {
+   "id": "4272dd4cb4de",
+   "ts": "2026-09-10T23:21:07+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/red-sea-houthis-advance-yemen-coast-saudi-oil-exports-6376816"
+  },
   {
    "id": "2511aad107da",
    "ts": "2026-09-10T22:00:00+00:00",
