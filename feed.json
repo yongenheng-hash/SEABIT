@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-11T18:56:15.215179+00:00",
+ "generated": "2026-09-11T21:32:24.091345+00:00",
  "items": [
+  {
+   "id": "dd082c5dba2c",
+   "ts": "2026-09-11T21:06:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/investors-brace-possible-rate-hike-uncertain-fed-meeting-6379596"
+  },
+  {
+   "id": "eb374f416630",
+   "ts": "2026-09-11T19:10:32+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "China slams 'bandit' CIA after economic espionage remarks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/east-asia/china-slams-bandit-cia-after-economic-espionage-remarks-6379411"
+  },
   {
    "id": "320dbc76f248",
    "ts": "2026-09-11T17:00:00+00:00",
