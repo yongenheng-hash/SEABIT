@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T21:32:24.091345+00:00",
+ "generated": "2026-09-11T23:49:40.989346+00:00",
  "items": [
   {
    "id": "dd082c5dba2c",
@@ -15,6 +15,21 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/investors-brace-possible-rate-hike-uncertain-fed-meeting-6379596"
+  },
+  {
+   "id": "c9b2185ec45b",
+   "ts": "2026-09-11T21:06:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "policy",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/business/investors-fed-possible-rate-hike-6379596"
   },
   {
    "id": "eb374f416630",
