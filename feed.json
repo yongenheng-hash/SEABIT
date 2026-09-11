@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-11T15:44:45.808931+00:00",
+ "generated": "2026-09-11T18:56:15.215179+00:00",
  "items": [
+  {
+   "id": "320dbc76f248",
+   "ts": "2026-09-11T17:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Philip R. Lane: Outlook for the euro area economy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf"
+  },
   {
    "id": "a3bdc474e1fe",
    "ts": "2026-09-11T15:10:45+00:00",
@@ -3147,21 +3162,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html"
-  },
-  {
-   "id": "bfb5892903f0",
-   "ts": "2026-08-12T17:14:09+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Here are five key takeaways from the July CPI inflation report",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html"
   }
  ]
 }
