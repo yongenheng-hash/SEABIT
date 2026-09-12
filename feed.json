@@ -1,6 +1,36 @@
 {
- "generated": "2026-09-12T17:40:45.472817+00:00",
+ "generated": "2026-09-12T20:04:54.378282+00:00",
  "items": [
+  {
+   "id": "f1eb0b58e2d4",
+   "ts": "2026-09-12T20:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Christine Lagarde: Interview with Ouest-France",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html"
+  },
+  {
+   "id": "82277988d817",
+   "ts": "2026-09-12T18:47:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641"
+  },
   {
    "id": "3bc29c1ca2bd",
    "ts": "2026-09-12T15:51:04+00:00",
