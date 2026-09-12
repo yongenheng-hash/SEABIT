@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-12T07:37:31.279564+00:00",
+ "generated": "2026-09-12T11:55:46.130312+00:00",
  "items": [
+  {
+   "id": "c1a7c1df934b",
+   "ts": "2026-09-12T10:15:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "neutral",
+   "score": 50,
+   "title": "Christine Lagarde: Europe seen from Normandy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html"
+  },
   {
    "id": "da8e6787c77b",
    "ts": "2026-09-12T02:20:00+00:00",
@@ -3207,21 +3222,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html"
-  },
-  {
-   "id": "b3db518fa602",
-   "ts": "2026-08-13T09:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Cash remains most widely accepted payment method in euro area",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html"
   }
  ]
 }
