@@ -1,6 +1,53 @@
 {
- "generated": "2026-09-12T11:55:46.130312+00:00",
+ "generated": "2026-09-12T14:55:56.170153+00:00",
  "items": [
+  {
+   "id": "42084ab08f66",
+   "ts": "2026-09-12T14:44:11+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "research",
+   "bias": "neutral",
+   "score": 30,
+   "title": "PM Wong warns economic frustrations can deepen social, racial divisions in Singapore",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/singapore/economic-frustration-deepen-race-religion-division-lawrence-wong-6380346"
+  },
+  {
+   "id": "aa4b32b31446",
+   "ts": "2026-09-12T13:30:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "I don't have much money. Do I really need financial education?",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/today/voices/money-financial-literacy-education-debt-6375611"
+  },
+  {
+   "id": "72d094022dd9",
+   "ts": "2026-09-12T12:49:15+00:00",
+   "source": "CNBC Economy",
+   "region": "US",
+   "topic": "inflation",
+   "bias": "neutral",
+   "score": 38,
+   "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+   "sum": "",
+   "why": "",
+   "extra": 1,
+   "also": [
+    "CNBC Finance"
+   ],
+   "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
+  },
   {
    "id": "c1a7c1df934b",
    "ts": "2026-09-12T10:15:00+00:00",
@@ -3207,21 +3254,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm"
-  },
-  {
-   "id": "de2cee0b0b83",
-   "ts": "2026-08-13T12:42:10+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html"
   }
  ]
 }
