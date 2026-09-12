@@ -1,6 +1,21 @@
 {
- "generated": "2026-09-11T23:49:40.989346+00:00",
+ "generated": "2026-09-12T02:48:39.961253+00:00",
  "items": [
+  {
+   "id": "da8e6787c77b",
+   "ts": "2026-09-12T02:20:00+00:00",
+   "source": "Channel NewsAsia",
+   "region": "ASEAN",
+   "topic": "fiscal",
+   "bias": "neutral",
+   "score": 30,
+   "title": "Xi Jinping heads to India for BRICS summit overshadowed by war",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.channelnewsasia.com/asia/brics-china-xi-jinping-india-modi-war-6379866"
+  },
   {
    "id": "dd082c5dba2c",
    "ts": "2026-09-11T21:06:00+00:00",
