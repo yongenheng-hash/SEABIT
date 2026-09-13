@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T17:52:20.832975+00:00",
+ "generated": "2026-09-13T20:11:10.237845+00:00",
  "items": [
   {
    "id": "ebe84c3fa892",
@@ -3512,21 +3512,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html"
-  },
-  {
-   "id": "023a555d0424",
-   "ts": "2026-08-14T20:05:57+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
   }
  ]
 }
