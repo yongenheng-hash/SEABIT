@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T10:26:33.602250+00:00",
+ "generated": "2026-09-13T14:33:03.738342+00:00",
  "items": [
   {
    "id": "ebe84c3fa892",
@@ -29,7 +29,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html"
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+   "sources": [
+    {
+     "id": "f1eb0b58e2d4",
+     "title": "Christine Lagarde: Interview with Ouest-France",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-12T20:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "82277988d817",
@@ -136,7 +145,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+   "sources": [
+    {
+     "id": "c1a7c1df934b",
+     "title": "Christine Lagarde: Europe seen from Normandy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-12T10:15:00+00:00"
+    }
+   ]
   },
   {
    "id": "da8e6787c77b",
@@ -211,7 +229,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+   "sources": [
+    {
+     "id": "320dbc76f248",
+     "title": "Philip R. Lane: Outlook for the euro area economy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-09-11T17:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "a3bdc474e1fe",
@@ -256,7 +283,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+   "sources": [
+    {
+     "id": "543e9b537df5",
+     "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-11T14:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "27a7e9786555",
@@ -406,7 +442,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+   "sources": [
+    {
+     "id": "73487937d142",
+     "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-10T20:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "a88325d5c959",
@@ -526,7 +571,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html"
+   "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+   "sources": [
+    {
+     "id": "eb43a70a1a0f",
+     "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+     "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-10T13:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "148e1a88b2fd",
@@ -541,7 +595,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html"
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+   "sources": [
+    {
+     "id": "148e1a88b2fd",
+     "title": "Monetary policy decisions",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-10T12:15:00+00:00"
+    }
+   ]
   },
   {
    "id": "b4b64f2ef8f5",
@@ -556,7 +619,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview"
+   "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
+   "sources": [
+    {
+     "id": "b4b64f2ef8f5",
+     "title": "Announcement of the publication of the Governor's interview transcript",
+     "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
+     "source": "Bank of England",
+     "ts": "2026-09-10T09:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "09081b4868f1",
@@ -631,7 +703,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+   "sources": [
+    {
+     "id": "766fd22c3b17",
+     "title": "Christine Lagarde: The choice facing Europeans",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-09T17:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "73ddf261a05b",
@@ -751,7 +832,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+   "sources": [
+    {
+     "id": "c721ebbe3a39",
+     "title": "Frank Elderson: Fireside chat",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-08T15:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "722b9f83c574",
@@ -1008,7 +1098,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+   "sources": [
+    {
+     "id": "5e363534c513",
+     "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-04T15:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "4c6c287ca5ea",
@@ -1053,7 +1152,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+   "sources": [
+    {
+     "id": "279978324b24",
+     "title": "Philip R. Lane: Diversity at the European Central Bank",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-09-04T09:10:00+00:00"
+    }
+   ]
   },
   {
    "id": "b49700cd8ccd",
@@ -1293,7 +1401,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-25.html"
+   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-25.html",
+   "sources": [
+    {
+     "id": "d20dd04177a4",
+     "title": "Designation of Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026",
+     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-25.html",
+     "source": "Reserve Bank of Australia",
+     "ts": "2026-09-03T03:30:00+00:00"
+    }
+   ]
   },
   {
    "id": "6f1eb204bf6a",
@@ -1550,7 +1667,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+   "sources": [
+    {
+     "id": "087cb53029ce",
+     "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-01T16:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "6a7d2913703c",
@@ -1989,7 +2115,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+   "sources": [
+    {
+     "id": "0a90a6c984c8",
+     "title": "Isabel Schnabel: Central banks on-chain",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-08-28T16:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "bcfdd8c40987",
@@ -2079,7 +2214,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+   "sources": [
+    {
+     "id": "9a8c879e2973",
+     "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-08-27T15:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "234a33e532d0",
@@ -2109,7 +2253,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release"
+   "url": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
+   "sources": [
+    {
+     "id": "2a6de8026dcd",
+     "title": "Delay to the November 2026 RTGS standards release",
+     "url": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
+     "source": "Bank of England",
+     "ts": "2026-08-27T13:16:29+00:00"
+    }
+   ]
   },
   {
    "id": "3a31ccdbd9fb",
@@ -2124,7 +2277,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html"
+   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+   "sources": [
+    {
+     "id": "3a31ccdbd9fb",
+     "title": "Meeting of 22-23 July 2026",
+     "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-08-27T11:30:00+00:00"
+    }
+   ]
   },
   {
    "id": "67593eefd365",
@@ -2289,7 +2451,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+   "sources": [
+    {
+     "id": "c03263464599",
+     "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-08-26T10:15:00+00:00"
+    }
+   ]
   },
   {
    "id": "3d9bb3a0dbed",
@@ -2364,7 +2535,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+   "sources": [
+    {
+     "id": "bd71477dc4cc",
+     "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-08-25T18:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "62428251a0fe",
@@ -2739,7 +2919,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html"
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
+   "sources": [
+    {
+     "id": "68fcfd238b21",
+     "title": "Piero Cipollone: Interview with ilsussidiario.net",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-08-24T06:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "e8e4b2c3192f",
@@ -2951,7 +3140,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html"
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+   "sources": [
+    {
+     "id": "dd54767fe4f2",
+     "title": "ECB Consumer Expectations Survey results – July 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-08-21T08:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "6cab5d1611e3",
@@ -2996,7 +3194,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+   "sources": [
+    {
+     "id": "76883b84117f",
+     "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-08-20T20:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "6b117a19d2e1",
@@ -3026,7 +3233,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+   "sources": [
+    {
+     "id": "9e559a2c074c",
+     "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-08-20T15:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "3f4681685661",
@@ -3041,7 +3257,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+   "sources": [
+    {
+     "id": "3f4681685661",
+     "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-08-20T15:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "d34b92efcebb",
@@ -3131,7 +3356,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+   "sources": [
+    {
+     "id": "b5566fcaa719",
+     "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-08-19T18:00:00+00:00"
+    }
+   ]
   },
   {
    "id": "9a5924a6570a",
@@ -3176,7 +3410,16 @@
    "why": "",
    "extra": 0,
    "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html"
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
+   "sources": [
+    {
+     "id": "74cdbc6ed08f",
+     "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-08-19T07:10:00+00:00"
+    }
+   ]
   },
   {
    "id": "c988edf4b7e2",
