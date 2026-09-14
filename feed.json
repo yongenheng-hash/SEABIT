@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-14T05:41:31.244050+00:00",
+ "generated": "2026-09-14T11:34:39.576770+00:00",
  "items": [
+  {
+   "id": "419f8df75f1f",
+   "ts": "2026-09-14T09:15:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "fiscal",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
+   "sources": [
+    {
+     "id": "419f8df75f1f",
+     "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-09-14T09:15:00+00:00"
+    }
+   ]
+  },
   {
    "id": "ebe84c3fa892",
    "ts": "2026-09-12T22:00:00+00:00",
