@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-14T11:34:39.576770+00:00",
+ "generated": "2026-09-14T17:29:58.264670+00:00",
  "items": [
+  {
+   "id": "85f2aef43dea",
+   "ts": "2026-09-14T15:15:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "growth",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+   "sources": [
+    {
+     "id": "85f2aef43dea",
+     "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-14T15:15:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "52ddd4f838b8",
+   "ts": "2026-09-14T13:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
+   "sources": [
+    {
+     "id": "52ddd4f838b8",
+     "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-14T13:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "419f8df75f1f",
    "ts": "2026-09-14T09:15:00+00:00",
