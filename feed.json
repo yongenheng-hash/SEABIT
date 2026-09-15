@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-15T08:51:26.739788+00:00",
+ "generated": "2026-09-15T14:06:23.520959+00:00",
  "items": [
+  {
+   "id": "b32ebafc04d9",
+   "ts": "2026-09-15T09:21:31+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Statistical Notice 2026/08 - Changes to the criteria for monthly form BT reporting",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-08",
+   "sources": [
+    {
+     "id": "b32ebafc04d9",
+     "title": "Statistical Notice 2026/08 - Changes to the criteria for monthly form BT reporting",
+     "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-08",
+     "source": "Bank of England",
+     "ts": "2026-09-15T09:21:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d0e10fff7c73",
+   "ts": "2026-09-15T08:09:58+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Securities Lending Committee meeting – March 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026",
+   "sources": [
+    {
+     "id": "d0e10fff7c73",
+     "title": "Minutes of the Securities Lending Committee meeting – March 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026",
+     "source": "Bank of England",
+     "ts": "2026-09-15T08:09:58+00:00"
+    }
+   ]
+  },
   {
    "id": "85f2aef43dea",
    "ts": "2026-09-14T15:15:00+00:00",
