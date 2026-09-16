@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T08:29:10.082795+00:00",
+ "generated": "2026-09-16T13:40:52.288652+00:00",
  "items": [
   {
    "id": "99f6dae24ac0",
@@ -3611,21 +3611,6 @@
     "CNBC Asia-Pacific"
    ],
    "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
-  },
-  {
-   "id": "01b17465ef3a",
-   "ts": "2026-08-17T09:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf"
   }
  ]
 }
