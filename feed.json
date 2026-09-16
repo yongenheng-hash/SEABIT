@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-16T13:40:52.288652+00:00",
+ "generated": "2026-09-16T17:54:44.150979+00:00",
  "items": [
+  {
+   "id": "f2e39b61fe9f",
+   "ts": "2026-09-16T14:03:08+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Chancellor announces Bank of England appointments",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
+   "sources": [
+    {
+     "id": "f2e39b61fe9f",
+     "title": "Chancellor announces Bank of England appointments",
+     "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
+     "source": "Bank of England",
+     "ts": "2026-09-16T14:03:08+00:00"
+    }
+   ]
+  },
   {
    "id": "99f6dae24ac0",
    "ts": "2026-09-16T08:00:00+00:00",
