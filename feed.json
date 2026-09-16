@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-16T17:54:44.150979+00:00",
+ "generated": "2026-09-16T20:47:02.273046+00:00",
  "items": [
+  {
+   "id": "fe283a4d738a",
+   "ts": "2026-09-16T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve issues FOMC statement",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "sources": [
+    {
+     "id": "fe283a4d738a",
+     "title": "Federal Reserve issues FOMC statement",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-16T18:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "96bceaa064df",
+   "ts": "2026-09-16T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+   "sources": [
+    {
+     "id": "96bceaa064df",
+     "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-16T18:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "f2e39b61fe9f",
    "ts": "2026-09-16T14:03:08+00:00",
