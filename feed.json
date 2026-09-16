@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T23:54:51.769011+00:00",
+ "generated": "2026-09-16T03:00:06.583525+00:00",
  "items": [
   {
    "id": "b32ebafc04d9",
@@ -3617,21 +3617,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html"
-  },
-  {
-   "id": "39e4f57c4825",
-   "ts": "2026-08-17T02:21:02+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html"
   }
  ]
 }
