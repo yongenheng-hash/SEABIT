@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-16T03:00:06.583525+00:00",
+ "generated": "2026-09-16T08:29:10.082795+00:00",
  "items": [
+  {
+   "id": "99f6dae24ac0",
+   "ts": "2026-09-16T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "labour",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
+   "sources": [
+    {
+     "id": "99f6dae24ac0",
+     "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-16T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "b32ebafc04d9",
    "ts": "2026-09-15T09:21:31+00:00",
@@ -3602,21 +3626,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf"
-  },
-  {
-   "id": "7a0d577fc8fd",
-   "ts": "2026-08-17T08:26:04+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html"
   }
  ]
 }
