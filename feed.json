@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-17T12:41:03.724212+00:00",
+ "generated": "2026-09-17T17:25:45.999288+00:00",
  "items": [
+  {
+   "id": "fa3f95fda199",
+   "ts": "2026-09-17T13:30:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
+   "sources": [
+    {
+     "id": "fa3f95fda199",
+     "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
+     "url": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-09-17T13:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "dd33b1f46c86",
+   "ts": "2026-09-17T13:30:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Monetary Policy Committee dates for 2027",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
+   "sources": [
+    {
+     "id": "dd33b1f46c86",
+     "title": "Monetary Policy Committee dates for 2027",
+     "url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
+     "source": "Bank of England",
+     "ts": "2026-09-17T13:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "f48fb68d4e7c",
    "ts": "2026-09-17T11:00:00+00:00",
@@ -3730,21 +3778,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html"
-  },
-  {
-   "id": "b92ea7ce75fc",
-   "ts": "2026-08-18T16:48:00+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html"
   }
  ]
 }
