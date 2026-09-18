@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T21:23:50.250047+00:00",
+ "generated": "2026-09-18T23:26:42.331144+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3775,21 +3775,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html"
-  },
-  {
-   "id": "d5f0855f59cc",
-   "ts": "2026-08-19T21:29:38+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
   }
  ]
 }
