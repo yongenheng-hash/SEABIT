@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T18:49:14.067497+00:00",
+ "generated": "2026-09-18T21:23:50.250047+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3790,21 +3790,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
-  },
-  {
-   "id": "fde13b73b6b2",
-   "ts": "2026-08-19T18:54:50+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html"
   }
  ]
 }
