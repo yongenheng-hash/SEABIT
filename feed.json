@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-18T06:14:44.794267+00:00",
+ "generated": "2026-09-18T11:35:19.394850+00:00",
  "items": [
+  {
+   "id": "ccbc09681ec6",
+   "ts": "2026-09-18T11:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "fiscal",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
+   "sources": [
+    {
+     "id": "ccbc09681ec6",
+     "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
+     "source": "Bank of England",
+     "ts": "2026-09-18T11:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e210e0c45017",
+   "ts": "2026-09-18T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB Consumer Expectations Survey results – August 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+   "sources": [
+    {
+     "id": "e210e0c45017",
+     "title": "ECB Consumer Expectations Survey results – August 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-18T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "dea7aaf01c05",
    "ts": "2026-09-18T06:00:00+00:00",
@@ -3733,75 +3781,6 @@
      "ts": "2026-08-19T18:00:00+00:00"
     }
    ]
-  },
-  {
-   "id": "9a5924a6570a",
-   "ts": "2026-08-19T10:32:51+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
-  },
-  {
-   "id": "7adaf3bcc5a4",
-   "ts": "2026-08-19T09:00:00+00:00",
-   "source": "Reserve Bank of Australia",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 40,
-   "title": "Renewal of Bilateral Local Currency Swap Agreement With the People's Bank of China",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-21.html"
-  },
-  {
-   "id": "74cdbc6ed08f",
-   "ts": "2026-08-19T07:10:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
-   "sources": [
-    {
-     "id": "74cdbc6ed08f",
-     "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-08-19T07:10:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c988edf4b7e2",
-   "ts": "2026-08-19T06:55:57+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "labour",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html"
   }
  ]
 }
