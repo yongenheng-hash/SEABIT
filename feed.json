@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T15:41:54.245765+00:00",
+ "generated": "2026-09-18T18:49:14.067497+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3805,30 +3805,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html"
-  },
-  {
-   "id": "b5566fcaa719",
-   "ts": "2026-08-19T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-   "sources": [
-    {
-     "id": "b5566fcaa719",
-     "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-08-19T18:00:00+00:00"
-    }
-   ]
   }
  ]
 }
