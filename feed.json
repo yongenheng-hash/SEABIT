@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T23:26:42.331144+00:00",
+ "generated": "2026-09-19T01:24:41.210954+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3760,21 +3760,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html"
-  },
-  {
-   "id": "ce94ead8f152",
-   "ts": "2026-08-20T00:09:09+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html"
   }
  ]
 }
