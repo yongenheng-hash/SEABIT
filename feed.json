@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T19:56:38.368684+00:00",
+ "generated": "2026-09-19T22:07:33.948737+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3643,30 +3643,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/21/trump-bessent-treasury-bond-buyback-iran-walmart-moderna-bitcoin-.html"
-  },
-  {
-   "id": "76883b84117f",
-   "ts": "2026-08-20T20:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-   "sources": [
-    {
-     "id": "76883b84117f",
-     "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-08-20T20:00:00+00:00"
-    }
-   ]
   }
  ]
 }
