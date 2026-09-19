@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T01:24:41.210954+00:00",
+ "generated": "2026-09-19T06:13:42.193378+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3745,21 +3745,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html"
-  },
-  {
-   "id": "8f3dbcdf6f30",
-   "ts": "2026-08-20T02:39:14+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html"
   }
  ]
 }
