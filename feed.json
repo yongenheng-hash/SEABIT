@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T06:13:42.193378+00:00",
+ "generated": "2026-09-19T11:18:23.910080+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3730,21 +3730,6 @@
      "ts": "2026-08-20T15:00:00+00:00"
     }
    ]
-  },
-  {
-   "id": "d34b92efcebb",
-   "ts": "2026-08-20T08:41:41+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html"
   }
  ]
 }
