@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T00:13:14.947810+00:00",
+ "generated": "2026-09-20T05:08:56.031604+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3613,36 +3613,6 @@
      "ts": "2026-08-21T08:00:00+00:00"
     }
    ]
-  },
-  {
-   "id": "6cab5d1611e3",
-   "ts": "2026-08-21T02:28:08+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Japan's historic yen intervention has ‘turbo-charged’ the carry trade",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html"
-  },
-  {
-   "id": "d31b931bb8b1",
-   "ts": "2026-08-21T01:14:11+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "CNBC Daily Open: Watching Iran's economy; a losing game for bonds",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/21/trump-bessent-treasury-bond-buyback-iran-walmart-moderna-bitcoin-.html"
   }
  ]
 }
