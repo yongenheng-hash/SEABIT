@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T05:08:56.031604+00:00",
+ "generated": "2026-09-20T09:56:01.448379+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3574,45 +3574,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html"
-  },
-  {
-   "id": "84da85700720",
-   "ts": "2026-08-21T08:36:07+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "labour",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Here are three key takeaways from the disappointing July jobs report",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html"
-  },
-  {
-   "id": "dd54767fe4f2",
-   "ts": "2026-08-21T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "ECB Consumer Expectations Survey results – July 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-   "sources": [
-    {
-     "id": "dd54767fe4f2",
-     "title": "ECB Consumer Expectations Survey results – July 2026",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-08-21T08:00:00+00:00"
-    }
-   ]
   }
  ]
 }
