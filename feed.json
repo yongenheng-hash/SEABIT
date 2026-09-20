@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T17:17:57.383836+00:00",
+ "generated": "2026-09-20T19:36:21.071179+00:00",
  "items": [
   {
    "id": "205b5c19274a",
@@ -3499,36 +3499,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/canada-us-trade-war-mark-carney-donald-trump-6335786"
-  },
-  {
-   "id": "fd503b9a2866",
-   "ts": "2026-08-21T17:51:10+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html"
-  },
-  {
-   "id": "a0a0ed9333b6",
-   "ts": "2026-08-21T17:43:25+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html"
   }
  ]
 }
