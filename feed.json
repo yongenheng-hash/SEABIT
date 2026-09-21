@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-21T05:14:09.744122+00:00",
+ "generated": "2026-09-21T10:55:55.285259+00:00",
  "items": [
+  {
+   "id": "1517bc72795f",
+   "ts": "2026-09-21T10:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+   "sources": [
+    {
+     "id": "1517bc72795f",
+     "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-21T10:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7e4fe81db104",
+   "ts": "2026-09-21T10:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Eurosystem brings central bank money to tokenised finance",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+   "sources": [
+    {
+     "id": "7e4fe81db104",
+     "title": "Eurosystem brings central bank money to tokenised finance",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-21T10:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "205b5c19274a",
    "ts": "2026-09-18T15:00:00+00:00",
