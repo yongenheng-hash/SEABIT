@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-21T10:55:55.285259+00:00",
+ "generated": "2026-09-21T16:46:28.034417+00:00",
  "items": [
+  {
+   "id": "497b2e318c9a",
+   "ts": "2026-09-21T12:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Bank of England announces new office space in Leeds",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
+   "sources": [
+    {
+     "id": "497b2e318c9a",
+     "title": "Bank of England announces new office space in Leeds",
+     "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
+     "source": "Bank of England",
+     "ts": "2026-09-21T12:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b318db4e8f39",
+   "ts": "2026-09-21T11:30:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
+   "sources": [
+    {
+     "id": "b318db4e8f39",
+     "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
+     "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-09-21T11:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "1517bc72795f",
    "ts": "2026-09-21T10:00:00+00:00",
