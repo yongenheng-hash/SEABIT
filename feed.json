@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-22T17:53:15.184923+00:00",
+ "generated": "2026-09-22T20:47:27.867457+00:00",
  "items": [
+  {
+   "id": "bb3326ddb25c",
+   "ts": "2026-09-22T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+   "sources": [
+    {
+     "id": "bb3326ddb25c",
+     "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-22T20:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "5e4c862cc9ad",
    "ts": "2026-09-22T15:30:00+00:00",
