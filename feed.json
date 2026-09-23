@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-23T12:52:06.327868+00:00",
+ "generated": "2026-09-23T17:39:37.044648+00:00",
  "items": [
+  {
+   "id": "96186ee52de7",
+   "ts": "2026-09-23T16:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+   "sources": [
+    {
+     "id": "96186ee52de7",
+     "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-09-23T16:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ce372b02b2f2",
+   "ts": "2026-09-23T16:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "The digitalisation of money, payments and finance",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+   "sources": [
+    {
+     "id": "ce372b02b2f2",
+     "title": "The digitalisation of money, payments and finance",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-09-23T16:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "bfa0dca1edce",
    "ts": "2026-09-23T09:00:00+00:00",
@@ -3471,81 +3519,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/us-unveils-economic-d-day-sanctions-isolate-iran-6338471"
-  },
-  {
-   "id": "3b03a75df92d",
-   "ts": "2026-08-24T15:34:11+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html"
-  },
-  {
-   "id": "3699b7915cef",
-   "ts": "2026-08-24T15:00:01+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
-  },
-  {
-   "id": "ef1e3c8adcbf",
-   "ts": "2026-08-24T14:08:36+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trump threatens tariffs on all cars and trucks to 50% amid Canada trade spat",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-trump-tariff-cars-trucks-carney-6338056"
-  },
-  {
-   "id": "3b10d91bcbdd",
-   "ts": "2026-08-24T14:02:54+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Crypto extends gains after biggest 3-day rally since 2023",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html"
-  },
-  {
-   "id": "db4b58e83aa4",
-   "ts": "2026-08-24T13:26:51+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Singapore and Ecuador seek deeper cooperation in areas including trade, food security",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/singapore/ecuador-singapore-cooperation-president-state-visit-6337926"
   }
  ]
 }
