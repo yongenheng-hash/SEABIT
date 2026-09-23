@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T17:39:37.044648+00:00",
+ "generated": "2026-09-23T20:59:30.198248+00:00",
  "items": [
   {
    "id": "96186ee52de7",
@@ -3489,36 +3489,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/trading-day-tech-tariffs-treasuries-6338651"
-  },
-  {
-   "id": "9af5e375dbf9",
-   "ts": "2026-08-24T19:16:04+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-6336766"
-  },
-  {
-   "id": "4d448c385b16",
-   "ts": "2026-08-24T18:43:36+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "US unveils 'economic D-Day' of sanctions to isolate Iran",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-unveils-economic-d-day-sanctions-isolate-iran-6338471"
   }
  ]
 }
