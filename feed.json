@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-23T07:12:46.689233+00:00",
+ "generated": "2026-09-23T12:52:06.327868+00:00",
  "items": [
+  {
+   "id": "bfa0dca1edce",
+   "ts": "2026-09-23T09:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Almost ten million people took part in ECB survey on new euro banknotes",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
+   "sources": [
+    {
+     "id": "bfa0dca1edce",
+     "title": "Almost ten million people took part in ECB survey on new euro banknotes",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-23T09:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "8a257944dd63",
    "ts": "2026-09-23T01:30:00+00:00",
@@ -3522,36 +3546,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/singapore/ecuador-singapore-cooperation-president-state-visit-6337926"
-  },
-  {
-   "id": "eb61b6da9e37",
-   "ts": "2026-08-24T11:34:25+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html"
-  },
-  {
-   "id": "5210d80cc692",
-   "ts": "2026-08-24T09:11:23+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
   }
  ]
 }
