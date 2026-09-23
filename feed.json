@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T01:38:27.597347+00:00",
+ "generated": "2026-09-23T07:12:46.689233+00:00",
  "items": [
   {
    "id": "8a257944dd63",
@@ -3552,107 +3552,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
-  },
-  {
-   "id": "2c301337b5be",
-   "ts": "2026-08-24T07:00:25+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "DPM Gan Kim Yong visits US amid 12.5% tariff on Singapore exports",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/singapore/gan-kim-yong-us-visit-trade-tariffs-6336726"
-  },
-  {
-   "id": "68fcfd238b21",
-   "ts": "2026-08-24T06:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Piero Cipollone: Interview with ilsussidiario.net",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
-   "sources": [
-    {
-     "id": "68fcfd238b21",
-     "title": "Piero Cipollone: Interview with ilsussidiario.net",
-     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-08-24T06:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "e8e4b2c3192f",
-   "ts": "2026-08-24T05:24:43+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 38,
-   "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
-   "sum": "",
-   "why": "",
-   "extra": 1,
-   "also": [
-    "CNBC Asia-Pacific"
-   ],
-   "url": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html"
-  },
-  {
-   "id": "9e24a4409301",
-   "ts": "2026-08-24T05:22:47+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Singapore’s core inflation rises to 2% in July on higher electricity and gas, services, food prices",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/singapore/core-inflation-july-2026-mas-mti-6337041"
-  },
-  {
-   "id": "f10cc869e60f",
-   "ts": "2026-08-24T03:41:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Oil falls as Trump pledges economic war on Iran",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/trump-us-iran-economic-war-oil-prices-6336931"
-  },
-  {
-   "id": "39d8bd3ad6b7",
-   "ts": "2026-08-24T02:07:05+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trump administration predicts US trade war 'devastating' for Canada",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-trump-carney-6336791"
   }
  ]
 }
