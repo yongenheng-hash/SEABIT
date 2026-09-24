@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T02:49:54.516919+00:00",
+ "generated": "2026-09-24T08:04:08.129473+00:00",
  "items": [
   {
    "id": "96186ee52de7",
@@ -3384,51 +3384,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/gaza-palestinian-children-stop-flying-kites-israel-warns-hamas-6339671"
-  },
-  {
-   "id": "b4be2c71c30a",
-   "ts": "2026-08-25T05:29:41+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html"
-  },
-  {
-   "id": "cdc29877da48",
-   "ts": "2026-08-25T03:37:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Canada to announce response to Trump's new tariffs",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/canada-carney-trump-tariffs-response-6339096"
-  },
-  {
-   "id": "11b54aa1c1a8",
-   "ts": "2026-08-25T03:19:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Stocks stagger and oil rises as traders eye Iran threat, Nvidia results",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/stocks-stagger-and-oil-rises-traders-eye-iran-threat-nvidia-results-6339071"
   }
  ]
 }
