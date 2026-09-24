@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-24T13:40:19.045662+00:00",
+ "generated": "2026-09-24T18:07:07.490960+00:00",
  "items": [
+  {
+   "id": "4369d45eef22",
+   "ts": "2026-09-24T15:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+   "sources": [
+    {
+     "id": "4369d45eef22",
+     "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-24T15:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a3f17a038f4a",
+   "ts": "2026-09-24T12:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+   "sources": [
+    {
+     "id": "a3f17a038f4a",
+     "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-24T12:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "e5f751f0937f",
    "ts": "2026-09-24T09:00:00+00:00",
@@ -3286,75 +3334,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/oil-prices-iran-us-sanctions-stocks-market-6340941"
-  },
-  {
-   "id": "bd71477dc4cc",
-   "ts": "2026-08-25T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-   "sources": [
-    {
-     "id": "bd71477dc4cc",
-     "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-08-25T18:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "62428251a0fe",
-   "ts": "2026-08-25T16:27:34+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html"
-  },
-  {
-   "id": "7b39fbb842ae",
-   "ts": "2026-08-25T15:04:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Canada announces US$20 billion retaliatory tariffs on US goods, unveils support measures",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/canada-tariffs-retaliatory-response-us-6340411"
-  },
-  {
-   "id": "9e9c0988ed65",
-   "ts": "2026-08-25T15:03:40+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Honda says it may not build new plant in North America without trade deal extension",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/honda-says-it-may-not-build-new-plant-in-north-america-without-trade-deal-extension-6340421"
   }
  ]
 }
