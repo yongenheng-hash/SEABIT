@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T23:32:27.521685+00:00",
+ "generated": "2026-09-24T02:49:54.516919+00:00",
  "items": [
   {
    "id": "96186ee52de7",
@@ -3429,36 +3429,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/stocks-stagger-and-oil-rises-traders-eye-iran-threat-nvidia-results-6339071"
-  },
-  {
-   "id": "753cc2741dbc",
-   "ts": "2026-08-25T01:12:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Iran vows to retaliate after US widens sanctions",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/iran-retaliate-us-widen-sanctions-6338861"
-  },
-  {
-   "id": "f9aead3927d4",
-   "ts": "2026-08-25T01:07:35+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "CNBC Daily Open: Washington escalates on two fronts; Nvidia earnings in focus",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/25/trump-bessent-us-sanctions-iran-canada-tariffs-nvidia-.html"
   }
  ]
 }
