@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T10:22:00.319568+00:00",
+ "generated": "2026-09-25T15:23:12.075416+00:00",
  "items": [
   {
    "id": "d2c44973e88d",
@@ -3283,21 +3283,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/stocks-mixed-oil-drops-us-inflation-stays-high-6343636"
-  },
-  {
-   "id": "b9fcb8e4678c",
-   "ts": "2026-08-26T12:35:22+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html"
   }
  ]
 }
