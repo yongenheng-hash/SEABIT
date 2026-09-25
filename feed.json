@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-25T19:23:43.775296+00:00",
+ "generated": "2026-09-25T22:36:14.820810+00:00",
  "items": [
+  {
+   "id": "5a0ccfacc36b",
+   "ts": "2026-09-25T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+   "sources": [
+    {
+     "id": "5a0ccfacc36b",
+     "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-25T20:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "d2c44973e88d",
    "ts": "2026-09-25T06:30:00+00:00",
@@ -3208,81 +3232,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html"
-  },
-  {
-   "id": "be81b16516f9",
-   "ts": "2026-08-26T22:00:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Myanmar’s Dawei port megaproject could offer a regional shipping shortcut, but viability doubts linger",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/asia/myanmars-dawei-port-megaproject-could-offer-regional-shipping-shortcut-viability-doubts-linger-6341866"
-  },
-  {
-   "id": "6190d0d94651",
-   "ts": "2026-08-26T22:00:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Singapore’s economy is growing — why aren’t all workers feeling it?",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/singapore/artificial-intelligence-economy-inequality-6339571"
-  },
-  {
-   "id": "d72f2e32943e",
-   "ts": "2026-08-26T21:59:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Commentary: China is betting on spreading AI faster than the US can contain it",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/commentary/china-ai-us-race-chips-kimi-qwen-6342296"
-  },
-  {
-   "id": "f707e6f87b82",
-   "ts": "2026-08-26T21:40:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trade Bali’s traffic for a boat to Nusa Lembongan",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/remarkable-living/nusa-lembongan-bali-where-stay-eat-things-do-6255521"
-  },
-  {
-   "id": "dd5ce1aa5334",
-   "ts": "2026-08-26T21:10:47+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Stocks mixed as oil drops, US inflation stays high",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/stocks-mixed-oil-drops-us-inflation-stays-high-6343636"
   }
  ]
 }
