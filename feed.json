@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-25T05:10:09.328082+00:00",
+ "generated": "2026-09-25T10:22:00.319568+00:00",
  "items": [
+  {
+   "id": "d2c44973e88d",
+   "ts": "2026-09-25T06:30:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
+   "sources": [
+    {
+     "id": "d2c44973e88d",
+     "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-09-25T06:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "a09909ffdb68",
    "ts": "2026-09-24T18:30:00+00:00",
@@ -3274,45 +3298,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html"
-  },
-  {
-   "id": "c03263464599",
-   "ts": "2026-08-26T10:15:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
-   "sources": [
-    {
-     "id": "c03263464599",
-     "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-08-26T10:15:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "3d9bb3a0dbed",
-   "ts": "2026-08-26T07:00:26+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Mediacorp wins Singapore Environmental Achievement Award 2026 for leadership and advocacy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/singapore/mediacorp-singapore-environmental-achievement-awards-2026-6341366"
   }
  ]
 }
