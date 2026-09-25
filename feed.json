@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T21:38:48.576544+00:00",
+ "generated": "2026-09-25T00:13:09.980584+00:00",
  "items": [
   {
    "id": "a09909ffdb68",
@@ -3313,36 +3313,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/singapore/mediacorp-singapore-environmental-achievement-awards-2026-6341366"
-  },
-  {
-   "id": "81dccdbe1e32",
-   "ts": "2026-08-26T00:03:56+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Japan's corporate services inflation accelerates in July",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/japans-corporate-services-inflation-accelerates-in-july-6341166"
-  },
-  {
-   "id": "52ac24c1c7b5",
-   "ts": "2026-08-25T23:21:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Canada slaps retaliatory tariffs on US goods worth US$20 billion as trade war intensifies",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/canada-us-retaliatory-tariffs-us20-billion-trade-war-6341106"
   }
  ]
 }
