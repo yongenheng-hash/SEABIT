@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T15:36:39.582786+00:00",
+ "generated": "2026-09-26T18:56:09.774831+00:00",
  "items": [
   {
    "id": "5a0ccfacc36b",
@@ -3040,51 +3040,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/tokyo-core-inflation-creeps-near-bojs-target-bolsters-rate-hike-chance-6346526"
-  },
-  {
-   "id": "5e0586c10f52",
-   "ts": "2026-08-27T18:09:02+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "'Point of no return' if Israel-Hamas truce fails: US envoy to Gaza board",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/israel-hamas-gaza-point-no-return-us-envoy-6346096"
-  },
-  {
-   "id": "dece10de1e1c",
-   "ts": "2026-08-27T17:31:09+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html"
-  },
-  {
-   "id": "0964d2887819",
-   "ts": "2026-08-27T16:10:59+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Pogacar sprints past rivals but Mas makes him sweat for Vuelta stage six win",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/sport/pogacar-sprints-past-rivals-mas-makes-him-sweat-vuelta-stage-six-win-6345936"
   }
  ]
 }
