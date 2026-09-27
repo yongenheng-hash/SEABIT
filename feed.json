@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T21:49:01.653320+00:00",
+ "generated": "2026-09-27T00:09:14.561871+00:00",
  "items": [
   {
    "id": "5a0ccfacc36b",
@@ -3025,21 +3025,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html"
-  },
-  {
-   "id": "75e98cec5967",
-   "ts": "2026-08-27T23:45:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Tokyo core inflation creeps near BOJ's target, bolsters rate-hike chance",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/tokyo-core-inflation-creeps-near-bojs-target-bolsters-rate-hike-chance-6346526"
   }
  ]
 }
