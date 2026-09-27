@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T11:15:23.152360+00:00",
+ "generated": "2026-09-27T15:43:23.884421+00:00",
  "items": [
   {
    "id": "5a0ccfacc36b",
@@ -3010,21 +3010,6 @@
      "ts": "2026-08-28T16:00:00+00:00"
     }
    ]
-  },
-  {
-   "id": "bcfdd8c40987",
-   "ts": "2026-08-28T15:22:10+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 25,
-   "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html"
   }
  ]
 }
