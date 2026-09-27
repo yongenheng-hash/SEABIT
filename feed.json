@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T15:43:23.884421+00:00",
+ "generated": "2026-09-27T19:28:14.061713+00:00",
  "items": [
   {
    "id": "5a0ccfacc36b",
@@ -2971,45 +2971,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/war-us-sanctions-iran-economy-strait-horrmuz-6349426"
-  },
-  {
-   "id": "d89b1cd64632",
-   "ts": "2026-08-28T16:11:51+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"
-  },
-  {
-   "id": "0a90a6c984c8",
-   "ts": "2026-08-28T16:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Isabel Schnabel: Central banks on-chain",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
-   "sources": [
-    {
-     "id": "0a90a6c984c8",
-     "title": "Isabel Schnabel: Central banks on-chain",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-08-28T16:00:00+00:00"
-    }
-   ]
   }
  ]
 }
