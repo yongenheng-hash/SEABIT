@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-28T07:14:33.139040+00:00",
+ "generated": "2026-09-28T15:43:12.059805+00:00",
  "items": [
+  {
+   "id": "fa813bf32a64",
+   "ts": "2026-09-28T13:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+   "sources": [
+    {
+     "id": "fa813bf32a64",
+     "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-28T13:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "5a0ccfacc36b",
    "ts": "2026-09-25T20:30:00+00:00",
@@ -2926,51 +2950,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/egypts-banque-misr-reviews-us-iran-sanctions-notice-uae-central-bank-launches-urgent-examination-6349806"
-  },
-  {
-   "id": "6dc7f030cca8",
-   "ts": "2026-08-29T15:27:22+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Pogacar forced to abandon Vuelta after stage eight crash, Mas takes overall lead",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/sport/pogacar-forced-abandon-vuelta-after-stage-eight-crash-mas-takes-overall-lead-6349586"
-  },
-  {
-   "id": "5c0da51bc748",
-   "ts": "2026-08-29T12:22:50+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html"
-  },
-  {
-   "id": "2f3876b39867",
-   "ts": "2026-08-29T12:02:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "War weighs on Iran's economy as US intensifies sanctions",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/war-us-sanctions-iran-economy-strait-horrmuz-6349426"
   }
  ]
 }
