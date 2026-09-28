@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T15:43:12.059805+00:00",
+ "generated": "2026-09-28T21:32:08.006192+00:00",
  "items": [
   {
    "id": "fa813bf32a64",
@@ -2935,21 +2935,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/east-asia/china-youth-funeral-studies-careers-demand-6317466"
-  },
-  {
-   "id": "5d0141af4707",
-   "ts": "2026-08-29T21:26:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Egypt's Banque Misr reviews US Iran sanctions notice, UAE central bank launches urgent examination",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/egypts-banque-misr-reviews-us-iran-sanctions-notice-uae-central-bank-launches-urgent-examination-6349806"
   }
  ]
 }
