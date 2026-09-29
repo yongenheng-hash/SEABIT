@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-29T01:25:00.594653+00:00",
+ "generated": "2026-09-29T07:12:17.057261+00:00",
  "items": [
+  {
+   "id": "bfa150b9a27d",
+   "ts": "2026-09-29T04:30:00+00:00",
+   "source": "Reserve Bank of Australia",
+   "region": "Global",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 40,
+   "title": "Statement by the Monetary Policy Board: Monetary Policy Decision",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-27.html",
+   "sources": [
+    {
+     "id": "bfa150b9a27d",
+     "title": "Statement by the Monetary Policy Board: Monetary Policy Decision",
+     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-27.html",
+     "source": "Reserve Bank of Australia",
+     "ts": "2026-09-29T04:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "fa813bf32a64",
    "ts": "2026-09-28T13:30:00+00:00",
@@ -2905,21 +2929,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-measures-tackle-living-costs-local-businesses-6350251"
-  },
-  {
-   "id": "41864b65dc91",
-   "ts": "2026-08-30T05:26:23+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Vietnamese coffee farmers ride China's durian wave",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/asia/vietnam-coffee-farmers-china-durian-demand-6350141"
   }
  ]
 }
