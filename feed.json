@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T14:12:13.550328+00:00",
+ "generated": "2026-09-29T19:31:42.911530+00:00",
  "items": [
   {
    "id": "2dc234646491",
@@ -2923,21 +2923,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/asia/indonesia-commodity-exchange-nickel-palm-oil-coal-6333186"
-  },
-  {
-   "id": "29caef556c53",
-   "ts": "2026-08-30T15:51:17+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Mas wins Vuelta stage nine to keep red jersey",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/sport/mas-wins-vuelta-stage-nine-keep-red-jersey-6350596"
   }
  ]
 }
