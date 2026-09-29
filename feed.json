@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-29T07:12:17.057261+00:00",
+ "generated": "2026-09-29T14:12:13.550328+00:00",
  "items": [
+  {
+   "id": "2dc234646491",
+   "ts": "2026-09-29T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+   "sources": [
+    {
+     "id": "2dc234646491",
+     "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-29T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "bfa150b9a27d",
    "ts": "2026-09-29T04:30:00+00:00",
@@ -2914,21 +2938,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/sport/mas-wins-vuelta-stage-nine-keep-red-jersey-6350596"
-  },
-  {
-   "id": "18552ac86183",
-   "ts": "2026-08-30T08:02:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Malaysia PM Anwar unveils measures to tackle living costs, support local businesses",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-measures-tackle-living-costs-local-businesses-6350251"
   }
  ]
 }
