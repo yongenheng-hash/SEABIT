@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-29T19:31:42.911530+00:00",
+ "generated": "2026-09-29T23:22:44.346631+00:00",
  "items": [
+  {
+   "id": "1478a1671637",
+   "ts": "2026-09-29T20:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+   "sources": [
+    {
+     "id": "1478a1671637",
+     "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-29T20:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "2dc234646491",
    "ts": "2026-09-29T08:00:00+00:00",
@@ -2908,21 +2932,6 @@
     "CNBC Asia-Pacific"
    ],
    "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html"
-  },
-  {
-   "id": "1c26cd4ba31c",
-   "ts": "2026-08-30T22:00:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Indonesia wants more sway over commodity prices - here’s how its new exchange can win over market",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/asia/indonesia-commodity-exchange-nickel-palm-oil-coal-6333186"
   }
  ]
 }
