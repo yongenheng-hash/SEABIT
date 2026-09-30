@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-30T08:49:12.739955+00:00",
+ "generated": "2026-09-30T15:32:29.765363+00:00",
  "items": [
+  {
+   "id": "975ec4f2519a",
+   "ts": "2026-09-30T13:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+   "sources": [
+    {
+     "id": "975ec4f2519a",
+     "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-09-30T13:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "22ded81bd152",
+   "ts": "2026-09-30T09:30:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Financial Policy Committee Record – September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+   "sources": [
+    {
+     "id": "22ded81bd152",
+     "title": "Financial Policy Committee Record – September 2026",
+     "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+     "source": "Bank of England",
+     "ts": "2026-09-30T09:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "03ee9f9a0a42",
    "ts": "2026-09-30T02:20:00+00:00",
@@ -2877,38 +2925,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/trump-vows-hit-back-hard-after-first-exchange-fire-iran-in-weeks-6352671"
-  },
-  {
-   "id": "9d67a1030782",
-   "ts": "2026-08-31T11:23:42+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 38,
-   "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
-   "sum": "",
-   "why": "",
-   "extra": 1,
-   "also": [
-    "CNBC Asia-Pacific"
-   ],
-   "url": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html"
-  },
-  {
-   "id": "820dd5750818",
-   "ts": "2026-08-31T10:11:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Japan seeks record US$55.6 billion defence budget, with AI focus",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/east-asia/japan-defence-ministry-seeks-record-budget-ai-6352001"
   }
  ]
 }
