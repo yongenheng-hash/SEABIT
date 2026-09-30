@@ -1,6 +1,54 @@
 {
- "generated": "2026-09-30T15:32:29.765363+00:00",
+ "generated": "2026-09-30T20:28:40.452933+00:00",
  "items": [
+  {
+   "id": "1b0f79c60aff",
+   "ts": "2026-09-30T17:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde: Interview with La Croix",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
+   "sources": [
+    {
+     "id": "1b0f79c60aff",
+     "title": "Christine Lagarde: Interview with La Croix",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-30T17:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9e3a13c4decf",
+   "ts": "2026-09-30T15:45:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
+   "sources": [
+    {
+     "id": "9e3a13c4decf",
+     "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-30T15:45:00+00:00"
+    }
+   ]
+  },
   {
    "id": "975ec4f2519a",
    "ts": "2026-09-30T13:00:00+00:00",
@@ -2895,36 +2943,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/commentary/ai-productivity-dont-ask-dont-tell-economy-6351851"
-  },
-  {
-   "id": "c6ff01b6b74c",
-   "ts": "2026-08-31T19:38:38+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html"
-  },
-  {
-   "id": "6681f13741d6",
-   "ts": "2026-08-31T18:34:12+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trump vows to hit back 'hard' after first exchange of fire with Iran in weeks",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/trump-vows-hit-back-hard-after-first-exchange-fire-iran-in-weeks-6352671"
   }
  ]
 }
