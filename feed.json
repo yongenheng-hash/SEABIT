@@ -1,6 +1,30 @@
 {
- "generated": "2026-09-30T02:14:48.651176+00:00",
+ "generated": "2026-09-30T08:49:12.739955+00:00",
  "items": [
+  {
+   "id": "03ee9f9a0a42",
+   "ts": "2026-09-30T02:20:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+   "sources": [
+    {
+     "id": "03ee9f9a0a42",
+     "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-09-30T02:20:00+00:00"
+    }
+   ]
+  },
   {
    "id": "1478a1671637",
    "ts": "2026-09-29T20:00:00+00:00",
@@ -2885,53 +2909,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/east-asia/japan-defence-ministry-seeks-record-budget-ai-6352001"
-  },
-  {
-   "id": "052db29164b8",
-   "ts": "2026-08-31T03:51:35+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Analysis:Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/analysistoyota-and-honda-may-get-stuck-bill-trumps-canada-tariffs-6351281"
-  },
-  {
-   "id": "9e1f89381957",
-   "ts": "2026-08-31T03:47:28+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html"
-  },
-  {
-   "id": "2baeb07e9df4",
-   "ts": "2026-08-31T03:15:01+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 38,
-   "title": "China's factory activity shrinks for second straight month, contracting less than expected",
-   "sum": "",
-   "why": "",
-   "extra": 1,
-   "also": [
-    "CNBC Asia-Pacific"
-   ],
-   "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html"
   }
  ]
 }
