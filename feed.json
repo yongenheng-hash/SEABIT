@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T20:28:40.452933+00:00",
+ "generated": "2026-10-01T00:05:48.437207+00:00",
  "items": [
   {
    "id": "1b0f79c60aff",
@@ -2928,21 +2928,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/south-korea-proposes-record-597-billion-2027-budget-supercharge-ai-investment-6353481"
-  },
-  {
-   "id": "32bbd50f83c1",
-   "ts": "2026-08-31T21:59:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Commentary: Welcome to the 'don’t ask, don’t tell' AI economy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/commentary/ai-productivity-dont-ask-dont-tell-economy-6351851"
   }
  ]
 }
