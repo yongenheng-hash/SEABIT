@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-01T13:41:03.784972+00:00",
+ "generated": "2026-10-01T19:13:12.279104+00:00",
  "items": [
+  {
+   "id": "406c6781f2cd",
+   "ts": "2026-10-01T15:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Isabel Schnabel: Central banks on-chain",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+   "sources": [
+    {
+     "id": "406c6781f2cd",
+     "title": "Isabel Schnabel: Central banks on-chain",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-10-01T15:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "42eddb21515a",
    "ts": "2026-10-01T13:30:00+00:00",
@@ -2796,90 +2820,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/commentary/nepal-flood-disaster-relief-trade-economy-6354596"
-  },
-  {
-   "id": "f1ec4333a7aa",
-   "ts": "2026-09-01T19:10:13+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "US pushes G20 to cut trade imbalances, focus on China",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/us-pushes-g20-cut-trade-imbalances-focus-china-6355506"
-  },
-  {
-   "id": "1b8db8d05c31",
-   "ts": "2026-09-01T16:24:38+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Canada's Carney says US needs to start being serious before trade talks can resume",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/canadas-carney-us-start-serious-trade-talks-6355461"
-  },
-  {
-   "id": "087cb53029ce",
-   "ts": "2026-09-01T16:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
-   "sources": [
-    {
-     "id": "087cb53029ce",
-     "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-01T16:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "6a7d2913703c",
-   "ts": "2026-09-01T14:14:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Iran urges US to comply with interim deal after Trump threatens further strikes",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/war-iran-interim-deal-trump-us-strikes-6355261"
-  },
-  {
-   "id": "f3abdb805e19",
-   "ts": "2026-09-01T14:01:27+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html"
   }
  ]
 }
