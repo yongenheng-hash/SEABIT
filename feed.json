@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T19:13:12.279104+00:00",
+ "generated": "2026-10-01T23:18:34.820766+00:00",
  "items": [
   {
    "id": "406c6781f2cd",
@@ -2775,51 +2775,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/oil-up-nearly-1-us-and-iran-trade-fresh-strikes-6356296"
-  },
-  {
-   "id": "0b00e97bf0a2",
-   "ts": "2026-09-01T23:09:57+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "South Korea inflation quickens on one-off factor, still lower than expected",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/south-korea-inflation-quickens-one-factor-still-lower-expected-6356166"
-  },
-  {
-   "id": "e6d9643ed93d",
-   "ts": "2026-09-01T23:09:57+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "South Korea inflation quickens on one-off factor, misses expectations",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/south-korea-inflation-quickens-one-factor-misses-expectations-6356166"
-  },
-  {
-   "id": "954b993ecdb4",
-   "ts": "2026-09-01T21:59:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Commentary: Rebuilding Nepal without repeating mistakes of 2015 earthquake",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/commentary/nepal-flood-disaster-relief-trade-economy-6354596"
   }
  ]
 }
