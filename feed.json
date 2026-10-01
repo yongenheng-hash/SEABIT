@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-01T06:18:13.884318+00:00",
+ "generated": "2026-10-01T13:41:03.784972+00:00",
  "items": [
+  {
+   "id": "42eddb21515a",
+   "ts": "2026-10-01T13:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde: Where AI risks meet",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+   "sources": [
+    {
+     "id": "42eddb21515a",
+     "title": "Christine Lagarde: Where AI risks meet",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-01T13:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b36749759bd7",
+   "ts": "2026-10-01T13:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "fiscal",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
+   "sources": [
+    {
+     "id": "b36749759bd7",
+     "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-01T13:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "19bbfaa4cc14",
    "ts": "2026-10-01T01:30:00+00:00",
@@ -2832,51 +2880,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html"
-  },
-  {
-   "id": "5de4a4a55486",
-   "ts": "2026-09-01T09:56:12+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html"
-  },
-  {
-   "id": "138007da70d9",
-   "ts": "2026-09-01T09:20:16+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "BYD's sales extend growth streak on strong exports",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/byds-sales-extend-growth-streak-strong-exports-6354546"
-  },
-  {
-   "id": "e395cf8a920c",
-   "ts": "2026-09-01T07:02:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Carney's Liberals sweep Canada by-elections as US trade war rages",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/carneys-liberals-sweep-canada-elections-us-trade-war-rages-6353906"
   }
  ]
 }
