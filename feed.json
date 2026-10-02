@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T23:18:34.820766+00:00",
+ "generated": "2026-10-02T02:24:25.536326+00:00",
  "items": [
   {
    "id": "406c6781f2cd",
@@ -2730,51 +2730,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/singapore/mas-economist-survey-2026-gdp-growth-inflation-6353876"
-  },
-  {
-   "id": "28204d0f843b",
-   "ts": "2026-09-02T02:14:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "China's Xi to hold talks with Egypt's Sisi in rare visit to country",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/east-asia/china-egypt-xi-visit-sisi-talks-6356446"
-  },
-  {
-   "id": "5c03b803a1cb",
-   "ts": "2026-09-02T02:11:57+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html"
-  },
-  {
-   "id": "6b53ecb4abde",
-   "ts": "2026-09-02T00:55:24+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Oil up nearly 1% as US and Iran trade fresh strikes",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/oil-up-nearly-1-us-and-iran-trade-fresh-strikes-6356296"
   }
  ]
 }
