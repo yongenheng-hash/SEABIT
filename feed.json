@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-02T02:24:25.536326+00:00",
+ "generated": "2026-10-02T08:46:52.917573+00:00",
  "items": [
+  {
+   "id": "ec8f2871a4e8",
+   "ts": "2026-10-02T08:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
+   "sources": [
+    {
+     "id": "ec8f2871a4e8",
+     "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
+     "source": "Bank of England",
+     "ts": "2026-10-02T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "406c6781f2cd",
    "ts": "2026-10-01T15:30:00+00:00",
@@ -2715,21 +2739,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/stocks-slide-bond-rout-deepens-us-and-iran-trade-attacks-6356271"
-  },
-  {
-   "id": "24bbd4e1ce86",
-   "ts": "2026-09-02T04:00:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Economists raise Singapore's 2026 growth forecast to 5%: MAS survey",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/singapore/mas-economist-survey-2026-gdp-growth-inflation-6353876"
   }
  ]
 }
