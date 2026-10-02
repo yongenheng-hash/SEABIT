@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-02T20:02:41.176209+00:00",
+ "generated": "2026-10-02T23:54:57.653335+00:00",
  "items": [
+  {
+   "id": "cadde35138dc",
+   "ts": "2026-10-02T20:45:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+   "sources": [
+    {
+     "id": "cadde35138dc",
+     "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-02T20:45:00+00:00"
+    }
+   ]
+  },
   {
    "id": "fe551cc7e923",
    "ts": "2026-10-02T20:00:00+00:00",
@@ -2745,21 +2769,6 @@
     "CNBC Asia-Pacific"
    ],
    "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html"
-  },
-  {
-   "id": "040b37bb10c7",
-   "ts": "2026-09-02T23:26:10+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Samsung insurers plan to buy Canopius for $1.5 billion, Korea Economic Daily reports",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/samsung-insurers-plan-buy-canopius-15-billion-korea-economic-daily-reports-6358986"
   }
  ]
 }
