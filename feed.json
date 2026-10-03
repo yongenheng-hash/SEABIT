@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T03:29:25.337009+00:00",
+ "generated": "2026-10-03T09:23:26.731677+00:00",
  "items": [
   {
    "id": "cadde35138dc",
@@ -2683,75 +2683,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/uks-john-lewis-looks-harness-ai-agent-shopping-in-difficult-economy-6360421"
-  },
-  {
-   "id": "fe80d88bc908",
-   "ts": "2026-09-03T08:09:21+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "US-Canada trade war tests deep manufacturing ties between Detroit and Windsor",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-detroit-windsor-manufacturing-6359871"
-  },
-  {
-   "id": "76d7e0aabf99",
-   "ts": "2026-09-03T04:44:31+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html"
-  },
-  {
-   "id": "e2d6e5ab379d",
-   "ts": "2026-09-03T04:31:06+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Shipping stocks at a crossroads amid their best rally in decades",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html"
-  },
-  {
-   "id": "d20dd04177a4",
-   "ts": "2026-09-03T03:30:00+00:00",
-   "source": "Reserve Bank of Australia",
-   "region": "Global",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 40,
-   "title": "Designation of Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-25.html",
-   "sources": [
-    {
-     "id": "d20dd04177a4",
-     "title": "Designation of Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026",
-     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-25.html",
-     "source": "Reserve Bank of Australia",
-     "ts": "2026-09-03T03:30:00+00:00"
-    }
-   ]
   }
  ]
 }
