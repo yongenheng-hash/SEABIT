@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T18:05:47.722305+00:00",
+ "generated": "2026-10-03T21:37:03.222866+00:00",
  "items": [
   {
    "id": "cadde35138dc",
@@ -2578,36 +2578,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/commentary/us-canada-trade-war-trump-tariffs-carney-midterms-6359886"
-  },
-  {
-   "id": "7224294503b0",
-   "ts": "2026-09-03T21:14:22+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Australia coach Kiss braced for 'scary' second test against Pumas",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/sport/australia-coach-kiss-braced-scary-second-test-against-pumas-6361586"
-  },
-  {
-   "id": "92202d8966f2",
-   "ts": "2026-09-03T19:38:09+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
   }
  ]
 }
