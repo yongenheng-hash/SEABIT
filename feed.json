@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T23:54:57.653335+00:00",
+ "generated": "2026-10-03T03:29:25.337009+00:00",
  "items": [
   {
    "id": "cadde35138dc",
@@ -2752,23 +2752,6 @@
      "ts": "2026-09-03T03:30:00+00:00"
     }
    ]
-  },
-  {
-   "id": "6f1eb204bf6a",
-   "ts": "2026-09-03T01:11:41+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 38,
-   "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
-   "sum": "",
-   "why": "",
-   "extra": 1,
-   "also": [
-    "CNBC Asia-Pacific"
-   ],
-   "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html"
   }
  ]
 }
