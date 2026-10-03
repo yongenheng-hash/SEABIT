@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T14:22:34.692240+00:00",
+ "generated": "2026-10-03T18:05:47.722305+00:00",
  "items": [
   {
    "id": "cadde35138dc",
@@ -2608,36 +2608,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
-  },
-  {
-   "id": "dca68aa0eede",
-   "ts": "2026-09-03T16:09:26+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Mas extends Vuelta lead, Omrzel wins stage 12",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/sport/mas-extends-vuelta-lead-omrzel-wins-stage-12-6361101"
-  },
-  {
-   "id": "c629eb5a6805",
-   "ts": "2026-09-03T14:46:39+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "US trade gap in July hits biggest in over a year on AI buildout",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-trade-gap-in-july-hits-biggest-in-over-year-ai-buildout-6360896"
   }
  ]
 }
