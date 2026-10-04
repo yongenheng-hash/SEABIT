@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T20:18:29.693303+00:00",
+ "generated": "2026-10-04T23:24:47.333185+00:00",
  "items": [
   {
    "id": "cadde35138dc",
@@ -2380,21 +2380,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-6364376"
-  },
-  {
-   "id": "bc806210e028",
-   "ts": "2026-09-04T22:00:58+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "US Justice Department pauses cooperation with Canadian government, WSJ reports",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-justice-department-pauses-cooperation-canadian-government-6364001"
   }
  ]
 }
