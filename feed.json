@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T06:09:10.235871+00:00",
+ "generated": "2026-10-04T12:41:27.515046+00:00",
  "items": [
   {
    "id": "cadde35138dc",
@@ -2464,45 +2464,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
-  },
-  {
-   "id": "43209ef7e04f",
-   "ts": "2026-09-04T12:17:20+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html"
-  },
-  {
-   "id": "279978324b24",
-   "ts": "2026-09-04T09:10:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Philip R. Lane: Diversity at the European Central Bank",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
-   "sources": [
-    {
-     "id": "279978324b24",
-     "title": "Philip R. Lane: Diversity at the European Central Bank",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
-     "source": "European Central Bank",
-     "ts": "2026-09-04T09:10:00+00:00"
-    }
-   ]
   }
  ]
 }
