@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T00:19:05.721695+00:00",
+ "generated": "2026-10-04T06:09:10.235871+00:00",
  "items": [
   {
    "id": "cadde35138dc",
@@ -2503,66 +2503,6 @@
      "ts": "2026-09-04T09:10:00+00:00"
     }
    ]
-  },
-  {
-   "id": "b49700cd8ccd",
-   "ts": "2026-09-04T05:52:15+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "India’s June quarter GDP print is courting controversy. Here’s why",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/04/india-gdp-controversy-imf-modi.html"
-  },
-  {
-   "id": "45aad15808fd",
-   "ts": "2026-09-04T05:45:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "South Korea says chip investments under discussion with US amid tariff concerns",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/south-korea-says-chip-investments-under-discussion-us-amid-tariff-concerns-6362261"
-  },
-  {
-   "id": "980f2f7ccea2",
-   "ts": "2026-09-04T04:57:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trade tensions with US fuel Canadian patriotism as shoppers shun American goods",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-canada-trade-war-tensions-patriotism-consumers-6362266"
-  },
-  {
-   "id": "7865c14e9611",
-   "ts": "2026-09-04T04:01:40+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Singapore collected S$97.3 billion in tax revenue, up 9.4%",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/singapore/iras-tax-revenue-financial-year-2025-2026-increase-6362131"
   }
  ]
 }
