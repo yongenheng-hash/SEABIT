@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-05T02:13:46.847010+00:00",
+ "generated": "2026-10-05T09:23:49.204810+00:00",
  "items": [
+  {
+   "id": "517b42d1a3c0",
+   "ts": "2026-10-05T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+   "sources": [
+    {
+     "id": "517b42d1a3c0",
+     "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-05T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "cadde35138dc",
    "ts": "2026-10-02T20:45:00+00:00",
@@ -2365,21 +2389,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/sport/brenner-climbs-victory-in-vuelta-stage-14-mas-retains-red-jersey-6364931"
-  },
-  {
-   "id": "70276a9de677",
-   "ts": "2026-09-05T05:55:42+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-6364376"
   }
  ]
 }
