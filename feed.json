@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-06T00:33:03.508436+00:00",
+ "generated": "2026-10-06T07:06:45.034605+00:00",
  "items": [
+  {
+   "id": "985fd00dec50",
+   "ts": "2026-10-06T07:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: Interview with Ansa",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+   "sources": [
+    {
+     "id": "985fd00dec50",
+     "title": "Philip R. Lane: Interview with Ansa",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-06T07:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "a284ee3bb755",
    "ts": "2026-10-05T20:30:00+00:00",
