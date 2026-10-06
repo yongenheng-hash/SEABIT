@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-05T18:41:59.811639+00:00",
+ "generated": "2026-10-06T00:33:03.508436+00:00",
  "items": [
+  {
+   "id": "a284ee3bb755",
+   "ts": "2026-10-05T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "sources": [
+    {
+     "id": "a284ee3bb755",
+     "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-05T20:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "517b42d1a3c0",
    "ts": "2026-10-05T08:00:00+00:00",
@@ -2359,21 +2383,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html"
-  },
-  {
-   "id": "f5b7815a05a8",
-   "ts": "2026-09-05T19:12:53+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
   }
  ]
 }
