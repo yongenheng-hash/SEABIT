@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-06T14:20:18.214729+00:00",
+ "generated": "2026-10-06T19:39:12.818989+00:00",
  "items": [
+  {
+   "id": "f1394d3fb3ef",
+   "ts": "2026-10-06T13:07:03+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
+   "sources": [
+    {
+     "id": "f1394d3fb3ef",
+     "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-06T13:07:03+00:00"
+    }
+   ]
+  },
   {
    "id": "cc53352957af",
    "ts": "2026-10-06T13:00:00+00:00",
