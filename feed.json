@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-07T17:38:48.488732+00:00",
+ "generated": "2026-10-07T22:33:50.161085+00:00",
  "items": [
+  {
+   "id": "eeb8f6b78f01",
+   "ts": "2026-10-07T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "sources": [
+    {
+     "id": "eeb8f6b78f01",
+     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-07T18:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "1c198387a9dc",
    "ts": "2026-10-07T13:36:25+00:00",
@@ -2520,21 +2544,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html"
-  },
-  {
-   "id": "9c70ab9cb722",
-   "ts": "2026-09-07T21:59:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Commentary: Why America’s debt binge is starting to matter",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/commentary/us-national-debt-threatens-ai-market-boom-6367086"
   }
  ]
 }
