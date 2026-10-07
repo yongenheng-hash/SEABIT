@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-07T03:56:16.772379+00:00",
+ "generated": "2026-10-07T10:50:33.900838+00:00",
  "items": [
+  {
+   "id": "e7f7eae6591b",
+   "ts": "2026-10-07T09:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Regulatory thresholds set to shift to automatic increases",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
+   "sources": [
+    {
+     "id": "e7f7eae6591b",
+     "title": "Regulatory thresholds set to shift to automatic increases",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
+     "source": "Bank of England",
+     "ts": "2026-10-07T09:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a487a879854d",
+   "ts": "2026-10-07T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+   "sources": [
+    {
+     "id": "a487a879854d",
+     "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-07T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "f1394d3fb3ef",
    "ts": "2026-10-06T13:07:03+00:00",
