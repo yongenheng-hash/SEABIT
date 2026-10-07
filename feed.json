@@ -1,6 +1,44 @@
 {
- "generated": "2026-10-07T10:50:33.900838+00:00",
+ "generated": "2026-10-07T17:38:48.488732+00:00",
  "items": [
+  {
+   "id": "1c198387a9dc",
+   "ts": "2026-10-07T13:36:25+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 66,
+   "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
+   "sources": [
+    {
+     "id": "1c198387a9dc",
+     "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
+     "source": "Bank of England",
+     "ts": "2026-10-07T13:36:25+00:00"
+    },
+    {
+     "id": "3e5fef1d0096",
+     "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-07T09:49:25+00:00"
+    },
+    {
+     "id": "4efcbcc9c35c",
+     "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-07T09:08:40+00:00"
+    }
+   ]
+  },
   {
    "id": "e7f7eae6591b",
    "ts": "2026-10-07T09:00:00+00:00",
@@ -2497,36 +2535,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/commentary/us-national-debt-threatens-ai-market-boom-6367086"
-  },
-  {
-   "id": "d20c7c31b20d",
-   "ts": "2026-09-07T12:51:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Russia, North Korea open first road bridge across border",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/russia-north-korea-first-road-bridge-6367571"
-  },
-  {
-   "id": "40a12611b46f",
-   "ts": "2026-09-07T11:50:43+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "labour",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html"
   }
  ]
 }
