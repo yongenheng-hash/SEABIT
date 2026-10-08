@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-07T22:33:50.161085+00:00",
+ "generated": "2026-10-08T02:24:33.212542+00:00",
  "items": [
+  {
+   "id": "120fd06007cb",
+   "ts": "2026-10-07T23:01:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
+   "sources": [
+    {
+     "id": "120fd06007cb",
+     "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
+     "source": "Bank of England",
+     "ts": "2026-10-07T23:01:00+00:00"
+    }
+   ]
+  },
   {
    "id": "eeb8f6b78f01",
    "ts": "2026-10-07T18:00:00+00:00",
@@ -2514,36 +2538,6 @@
     "CNBC Asia-Pacific"
    ],
    "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html"
-  },
-  {
-   "id": "297651860e42",
-   "ts": "2026-09-08T00:01:45+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "growth",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Japan upgrades Q2 GDP on slight capex improvement",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/japan-upgrades-q2-gdp-slight-capex-improvement-6368216"
-  },
-  {
-   "id": "ca625955f0e6",
-   "ts": "2026-09-07T23:00:01+00:00",
-   "source": "CNBC Asia-Pacific",
-   "region": "ASEAN",
-   "topic": "labour",
-   "bias": "neutral",
-   "score": 30,
-   "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html"
   }
  ]
 }
