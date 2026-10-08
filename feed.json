@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-08T02:24:33.212542+00:00",
+ "generated": "2026-10-08T09:17:00.141415+00:00",
  "items": [
+  {
+   "id": "aa8623d070d6",
+   "ts": "2026-10-08T06:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Piero Cipollone: Interview with Corriere della Sera",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+   "sources": [
+    {
+     "id": "aa8623d070d6",
+     "title": "Piero Cipollone: Interview with Corriere della Sera",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-08T06:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "120fd06007cb",
    "ts": "2026-10-07T23:01:00+00:00",
@@ -2491,53 +2515,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/kalshis-400-million-plus-monthly-commodity-trade-volume-outpaces-early-crypto-growth-6369866"
-  },
-  {
-   "id": "83a48fba57e4",
-   "ts": "2026-09-08T08:16:11+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html"
-  },
-  {
-   "id": "9cae3e058ae1",
-   "ts": "2026-09-08T07:00:25+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html"
-  },
-  {
-   "id": "17af138b9041",
-   "ts": "2026-09-08T04:45:07+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 38,
-   "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
-   "sum": "",
-   "why": "",
-   "extra": 1,
-   "also": [
-    "CNBC Asia-Pacific"
-   ],
-   "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html"
   }
  ]
 }
