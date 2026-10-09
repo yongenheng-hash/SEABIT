@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-09T08:22:46.130093+00:00",
+ "generated": "2026-10-09T15:26:58.271363+00:00",
  "items": [
+  {
+   "id": "15b4b4b5fa4c",
+   "ts": "2026-10-09T14:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+   "sources": [
+    {
+     "id": "15b4b4b5fa4c",
+     "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-09T14:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fbe78e7c0242",
+   "ts": "2026-10-09T09:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "CMORG holds sector-wide cloud outage simulation exercise",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
+   "sources": [
+    {
+     "id": "fbe78e7c0242",
+     "title": "CMORG holds sector-wide cloud outage simulation exercise",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
+     "source": "Bank of England",
+     "ts": "2026-10-09T09:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "e95750d1b741",
    "ts": "2026-10-08T20:30:00+00:00",
