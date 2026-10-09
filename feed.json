@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T21:45:54.135010+00:00",
+ "generated": "2026-10-09T01:41:01.714816+00:00",
  "items": [
   {
    "id": "e95750d1b741",
@@ -2494,21 +2494,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/world/us-ban-canada-motorcycle-dairy-alcohol-trade-war-6371241"
-  },
-  {
-   "id": "1b595bdc88d5",
-   "ts": "2026-09-09T00:22:17+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Oil jumps $1 in early trade after Iran launches missiles at Jordan",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/oil-jumps-1-in-early-trade-after-iran-launches-missiles-jordan-6371316"
   }
  ]
 }
