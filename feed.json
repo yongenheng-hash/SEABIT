@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T15:26:58.271363+00:00",
+ "generated": "2026-10-09T20:13:50.881379+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -2428,45 +2428,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/commentary/us-tariffs-trade-scam-china-southeast-asia-6369666"
-  },
-  {
-   "id": "766fd22c3b17",
-   "ts": "2026-09-09T17:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Christine Lagarde: The choice facing Europeans",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
-   "sources": [
-    {
-     "id": "766fd22c3b17",
-     "title": "Christine Lagarde: The choice facing Europeans",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-09T17:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "73ddf261a05b",
-   "ts": "2026-09-09T16:29:16+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Dollar trades near 7-month low against yen as oil settles above $100",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/dollar-trades-near-7-month-low-against-yen-oil-settles-above-100-6371506"
   }
  ]
 }
