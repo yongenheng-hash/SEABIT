@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T12:50:04.700977+00:00",
+ "generated": "2026-10-10T17:36:14.198237+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -2206,120 +2206,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html"
-  },
-  {
-   "id": "d0413517d7f2",
-   "ts": "2026-09-10T16:13:28+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Swiss Kung wins Vuelta stage 18, Mas retains healthy overall lead",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/sport/swiss-kung-wins-vuelta-stage-18-mas-retains-healthy-overall-lead-6376791"
-  },
-  {
-   "id": "5688f426e405",
-   "ts": "2026-09-10T15:11:54+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "JD.com's Ceconomy concessions face criticism from rivals, sources say",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/jdcoms-ceconomy-concessions-face-criticism-rivals-sources-say-6376661"
-  },
-  {
-   "id": "56be53891751",
-   "ts": "2026-09-10T14:51:36+00:00",
-   "source": "CNBC Economy",
-   "region": "US",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html"
-  },
-  {
-   "id": "0e23745622f6",
-   "ts": "2026-09-10T14:29:03+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Wall Street dips, oil continues climb ahead of US inflation data",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/wall-street-dips-oil-continues-climb-ahead-us-inflation-data-6374561"
-  },
-  {
-   "id": "adc46366e15a",
-   "ts": "2026-09-10T14:00:29+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "US producer inflation tops expectations as diesel costs jump",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/us-producer-inflation-tops-expectations-diesel-costs-jump-6376251"
-  },
-  {
-   "id": "707ad665f180",
-   "ts": "2026-09-10T14:00:11+00:00",
-   "source": "CNBC Finance",
-   "region": "Global",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 25,
-   "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html"
-  },
-  {
-   "id": "eb43a70a1a0f",
-   "ts": "2026-09-10T13:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-   "sources": [
-    {
-     "id": "eb43a70a1a0f",
-     "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-     "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-10T13:00:00+00:00"
-    }
-   ]
   }
  ]
 }
