@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T00:10:49.294829+00:00",
+ "generated": "2026-10-10T06:09:41.533226+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -2368,21 +2368,6 @@
      "ts": "2026-09-10T09:00:00+00:00"
     }
    ]
-  },
-  {
-   "id": "09081b4868f1",
-   "ts": "2026-09-10T04:31:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Floods expose fragility of Nepal’s bid to reduce trade dependence on India through China",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/asia/nepal-china-flood-disaster-trade-routes-6374776"
   }
  ]
 }
