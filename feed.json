@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T20:13:50.881379+00:00",
+ "generated": "2026-10-10T00:10:49.294829+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -2383,51 +2383,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/asia/nepal-china-flood-disaster-trade-routes-6374776"
-  },
-  {
-   "id": "1d15cfb7ac48",
-   "ts": "2026-09-09T23:08:27+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Two-thirds of Japan firms support PM Takaichi's economic policies: Reuters poll",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/two-thirds-japan-firms-support-pm-takaichis-economic-policies-reuters-poll-6374211"
-  },
-  {
-   "id": "22cb1fa5efc0",
-   "ts": "2026-09-09T23:00:39+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Brent oil passes US$100 on Mideast flare-up, stoking inflation fears",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/brent-oil-passes-us100-mideast-flare-up-stoking-inflation-fears-6373996"
-  },
-  {
-   "id": "d57ba3845928",
-   "ts": "2026-09-09T21:59:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Commentary: US ‘transshipment scam’ narrative raises troubling prospect of a purity test for Southeast Asia",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/commentary/us-tariffs-trade-scam-china-southeast-asia-6369666"
   }
  ]
 }
