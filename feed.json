@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T06:09:41.533226+00:00",
+ "generated": "2026-10-10T12:50:04.700977+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -2318,54 +2318,6 @@
      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-10T13:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "148e1a88b2fd",
-   "ts": "2026-09-10T12:15:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Monetary policy decisions",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-   "sources": [
-    {
-     "id": "148e1a88b2fd",
-     "title": "Monetary policy decisions",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-10T12:15:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "b4b64f2ef8f5",
-   "ts": "2026-09-10T09:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 50,
-   "title": "Announcement of the publication of the Governor's interview transcript",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
-   "sources": [
-    {
-     "id": "b4b64f2ef8f5",
-     "title": "Announcement of the publication of the Governor's interview transcript",
-     "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
-     "source": "Bank of England",
-     "ts": "2026-09-10T09:00:00+00:00"
     }
    ]
   }
