@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T06:07:22.878101+00:00",
+ "generated": "2026-10-11T13:14:09.443465+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -2047,36 +2047,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
-  },
-  {
-   "id": "b4150312fed2",
-   "ts": "2026-09-11T13:06:15+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Dollar edges higher against Swiss franc after US inflation data",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/dollar-edges-higher-against-swiss-franc-after-us-inflation-data-6377536"
-  },
-  {
-   "id": "30ce39f9b710",
-   "ts": "2026-09-11T06:09:59+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Xi Jinping's India visit to help diplomatic thaw, but business ties bound by suspicion: Analysts",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/asia/xi-jinping-india-visit-modi-diplomacy-economy-brics-6378081"
   }
  ]
 }
