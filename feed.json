@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T21:02:48.726383+00:00",
+ "generated": "2026-10-11T00:18:28.637625+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -2122,51 +2122,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/business/japans-wholesale-inflation-stays-elevated-in-august-boosts-case-rate-hike-6377481"
-  },
-  {
-   "id": "4272dd4cb4de",
-   "ts": "2026-09-10T23:21:07+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "markets",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/world/red-sea-houthis-advance-yemen-coast-saudi-oil-exports-6376816"
-  },
-  {
-   "id": "2511aad107da",
-   "ts": "2026-09-10T22:00:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "fiscal",
-   "bias": "neutral",
-   "score": 30,
-   "title": "9/11: The inside story of the restaurant workers on the top floor, 25 years on",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/cna-insider/911-windows-world-trade-center-73-restaurant-workers-trapped-6372771"
-  },
-  {
-   "id": "94e15fb96a2a",
-   "ts": "2026-09-10T21:04:58+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "inflation",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Trading Day: Inflation palpitations",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/trading-day-inflation-palpitations-6377261"
   }
  ]
 }
