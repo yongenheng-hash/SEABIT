@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T18:15:07.550665+00:00",
+ "generated": "2026-10-11T22:13:48.659966+00:00",
  "items": [
   {
    "id": "15b4b4b5fa4c",
@@ -1909,51 +1909,6 @@
    "extra": 0,
    "also": [],
    "url": "https://www.channelnewsasia.com/asia/brics-china-xi-jinping-india-modi-war-6379866"
-  },
-  {
-   "id": "dd082c5dba2c",
-   "ts": "2026-09-11T21:06:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/investors-brace-possible-rate-hike-uncertain-fed-meeting-6379596"
-  },
-  {
-   "id": "c9b2185ec45b",
-   "ts": "2026-09-11T21:06:00+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "policy",
-   "bias": "neutral",
-   "score": 30,
-   "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/business/investors-fed-possible-rate-hike-6379596"
-  },
-  {
-   "id": "eb374f416630",
-   "ts": "2026-09-11T19:10:32+00:00",
-   "source": "Channel NewsAsia",
-   "region": "ASEAN",
-   "topic": "research",
-   "bias": "neutral",
-   "score": 30,
-   "title": "China slams 'bandit' CIA after economic espionage remarks",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.channelnewsasia.com/east-asia/china-slams-bandit-cia-after-economic-espionage-remarks-6379411"
   }
  ]
 }
