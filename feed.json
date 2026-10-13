@@ -1,6 +1,78 @@
 {
- "generated": "2026-10-13T12:51:01.755257+00:00",
+ "generated": "2026-10-13T19:43:09.696125+00:00",
  "items": [
+  {
+   "id": "31a2bbd9d03d",
+   "ts": "2026-10-13T18:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: The AI opportunity for Europe",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+   "sources": [
+    {
+     "id": "31a2bbd9d03d",
+     "title": "Philip R. Lane: The AI opportunity for Europe",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-13T18:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d85e5d360934",
+   "ts": "2026-10-13T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "sources": [
+    {
+     "id": "d85e5d360934",
+     "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-13T18:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "215ca4610e83",
+   "ts": "2026-10-13T15:04:27+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Money Market Committee meeting – September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
+   "sources": [
+    {
+     "id": "215ca4610e83",
+     "title": "Minutes of the Money Market Committee meeting – September 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-13T15:04:27+00:00"
+    }
+   ]
+  },
   {
    "id": "15b4b4b5fa4c",
    "ts": "2026-10-09T14:00:00+00:00",
