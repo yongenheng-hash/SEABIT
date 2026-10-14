@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-13T23:34:04.246264+00:00",
+ "generated": "2026-10-14T03:15:00.921418+00:00",
  "items": [
+  {
+   "id": "6569ec680a59",
+   "ts": "2026-10-14T03:00:00+00:00",
+   "source": "Reserve Bank of Australia",
+   "region": "Global",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 40,
+   "title": "Appointment of Chief Risk Officer",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-29.html",
+   "sources": [
+    {
+     "id": "6569ec680a59",
+     "title": "Appointment of Chief Risk Officer",
+     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-29.html",
+     "source": "Reserve Bank of Australia",
+     "ts": "2026-10-14T03:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "31a2bbd9d03d",
    "ts": "2026-10-13T18:30:00+00:00",
