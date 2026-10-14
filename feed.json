@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T14:17:13.589067+00:00",
+ "generated": "2026-10-14T18:46:38.038665+00:00",
  "items": [
   {
    "id": "6569ec680a59",
@@ -1785,30 +1785,6 @@
      "url": "https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026",
      "source": "Bank of England",
      "ts": "2026-09-15T08:09:58+00:00"
-    }
-   ]
-  },
-  {
-   "id": "85f2aef43dea",
-   "ts": "2026-09-14T15:15:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "growth",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
-   "sources": [
-    {
-     "id": "85f2aef43dea",
-     "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-14T15:15:00+00:00"
     }
    ]
   }
