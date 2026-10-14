@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T03:15:00.921418+00:00",
+ "generated": "2026-10-14T08:55:15.117542+00:00",
  "items": [
   {
    "id": "6569ec680a59",
@@ -22,6 +22,30 @@
      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-29.html",
      "source": "Reserve Bank of Australia",
      "ts": "2026-10-14T03:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "81e2cc6a2a3e",
+   "ts": "2026-10-14T00:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+   "sources": [
+    {
+     "id": "81e2cc6a2a3e",
+     "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-14T00:00:00+00:00"
     }
    ]
   },
