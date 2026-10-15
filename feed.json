@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-15T10:14:51.463882+00:00",
+ "generated": "2026-10-15T15:11:05.650457+00:00",
  "items": [
+  {
+   "id": "c1a8493af49d",
+   "ts": "2026-10-15T09:52:41+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
+   "sources": [
+    {
+     "id": "c1a8493af49d",
+     "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
+     "source": "Bank of England",
+     "ts": "2026-10-15T09:52:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "266af4434e11",
+   "ts": "2026-10-15T08:27:59+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
+   "sources": [
+    {
+     "id": "266af4434e11",
+     "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-15T08:27:59+00:00"
+    }
+   ]
+  },
   {
    "id": "6569ec680a59",
    "ts": "2026-10-14T03:00:00+00:00",
