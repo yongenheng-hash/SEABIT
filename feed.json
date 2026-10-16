@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-16T10:32:36.210784+00:00",
+ "generated": "2026-10-16T15:07:47.176789+00:00",
  "items": [
+  {
+   "id": "70363c9b200b",
+   "ts": "2026-10-16T15:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "sources": [
+    {
+     "id": "70363c9b200b",
+     "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-16T15:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1764e66d85ac",
+   "ts": "2026-10-16T11:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Banknote imagery advisory group minutes – 15 July 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
+   "sources": [
+    {
+     "id": "1764e66d85ac",
+     "title": "Banknote imagery advisory group minutes – 15 July 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
+     "source": "Bank of England",
+     "ts": "2026-10-16T11:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "c1a8493af49d",
    "ts": "2026-10-15T09:52:41+00:00",
@@ -1737,30 +1785,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
      "source": "Federal Reserve",
      "ts": "2026-09-16T18:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f2e39b61fe9f",
-   "ts": "2026-09-16T14:03:08+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Chancellor announces Bank of England appointments",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
-   "sources": [
-    {
-     "id": "f2e39b61fe9f",
-     "title": "Chancellor announces Bank of England appointments",
-     "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
-     "source": "Bank of England",
-     "ts": "2026-09-16T14:03:08+00:00"
     }
    ]
   }
