@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T05:35:50.499490+00:00",
+ "generated": "2026-10-16T10:32:36.210784+00:00",
  "items": [
   {
    "id": "c1a8493af49d",
@@ -1761,30 +1761,6 @@
      "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
      "source": "Bank of England",
      "ts": "2026-09-16T14:03:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "99f6dae24ac0",
-   "ts": "2026-09-16T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "labour",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
-   "sources": [
-    {
-     "id": "99f6dae24ac0",
-     "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-16T08:00:00+00:00"
     }
    ]
   }
