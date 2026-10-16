@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T15:07:47.176789+00:00",
+ "generated": "2026-10-16T18:53:07.438169+00:00",
  "items": [
   {
    "id": "70363c9b200b",
@@ -1737,54 +1737,6 @@
      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
      "source": "Bank of England",
      "ts": "2026-09-17T11:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "fe283a4d738a",
-   "ts": "2026-09-16T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve issues FOMC statement",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-   "sources": [
-    {
-     "id": "fe283a4d738a",
-     "title": "Federal Reserve issues FOMC statement",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-09-16T18:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "96bceaa064df",
-   "ts": "2026-09-16T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-   "sources": [
-    {
-     "id": "96bceaa064df",
-     "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-09-16T18:00:00+00:00"
     }
    ]
   }
