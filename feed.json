@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T12:47:52.098487+00:00",
+ "generated": "2026-10-17T16:05:44.269156+00:00",
  "items": [
   {
    "id": "e545c030814a",
@@ -1634,54 +1634,6 @@
      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-18T06:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "fa3f95fda199",
-   "ts": "2026-09-17T13:30:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
-   "sources": [
-    {
-     "id": "fa3f95fda199",
-     "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
-     "url": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
-     "source": "Bank of England",
-     "ts": "2026-09-17T13:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "dd33b1f46c86",
-   "ts": "2026-09-17T13:30:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Monetary Policy Committee dates for 2027",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
-   "sources": [
-    {
-     "id": "dd33b1f46c86",
-     "title": "Monetary Policy Committee dates for 2027",
-     "url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
-     "source": "Bank of England",
-     "ts": "2026-09-17T13:30:00+00:00"
     }
    ]
   }
