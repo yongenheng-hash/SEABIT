@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-17T04:47:16.026846+00:00",
+ "generated": "2026-10-17T08:58:29.918799+00:00",
  "items": [
+  {
+   "id": "e545c030814a",
+   "ts": "2026-10-17T05:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde: IMFC Statement",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+   "sources": [
+    {
+     "id": "e545c030814a",
+     "title": "Christine Lagarde: IMFC Statement",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-17T05:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "70363c9b200b",
    "ts": "2026-10-16T15:00:00+00:00",
