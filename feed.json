@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T01:20:10.007455+00:00",
+ "generated": "2026-10-18T06:16:36.508966+00:00",
  "items": [
   {
    "id": "e545c030814a",
@@ -1610,30 +1610,6 @@
      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-18T08:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "dea7aaf01c05",
-   "ts": "2026-09-18T06:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Boris Vujčić: Interview with Reuters",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
-   "sources": [
-    {
-     "id": "dea7aaf01c05",
-     "title": "Boris Vujčić: Interview with Reuters",
-     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-18T06:00:00+00:00"
     }
    ]
   }
