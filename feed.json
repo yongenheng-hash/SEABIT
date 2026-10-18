@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T06:16:36.508966+00:00",
+ "generated": "2026-10-18T11:30:50.414256+00:00",
  "items": [
   {
    "id": "e545c030814a",
@@ -1562,54 +1562,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
      "source": "Federal Reserve",
      "ts": "2026-09-18T15:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "ccbc09681ec6",
-   "ts": "2026-09-18T11:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "fiscal",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
-   "sources": [
-    {
-     "id": "ccbc09681ec6",
-     "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
-     "source": "Bank of England",
-     "ts": "2026-09-18T11:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "e210e0c45017",
-   "ts": "2026-09-18T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "ECB Consumer Expectations Survey results – August 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
-   "sources": [
-    {
-     "id": "e210e0c45017",
-     "title": "ECB Consumer Expectations Survey results – August 2026",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-18T08:00:00+00:00"
     }
    ]
   }
