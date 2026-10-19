@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-19T05:37:45.190128+00:00",
+ "generated": "2026-10-19T11:54:41.004136+00:00",
  "items": [
+  {
+   "id": "69afe8bb3edd",
+   "ts": "2026-10-19T06:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+   "sources": [
+    {
+     "id": "69afe8bb3edd",
+     "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-19T06:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "e545c030814a",
    "ts": "2026-10-17T05:00:00+00:00",
