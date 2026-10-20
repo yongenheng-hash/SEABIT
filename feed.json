@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-20T06:25:23.591670+00:00",
+ "generated": "2026-10-20T11:55:55.398693+00:00",
  "items": [
+  {
+   "id": "18ada448671f",
+   "ts": "2026-10-20T07:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Frank Elderson: Interview with Die Presse",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+   "sources": [
+    {
+     "id": "18ada448671f",
+     "title": "Frank Elderson: Interview with Die Presse",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-20T07:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "69afe8bb3edd",
    "ts": "2026-10-19T06:00:00+00:00",
