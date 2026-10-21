@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-21T01:48:48.444940+00:00",
+ "generated": "2026-10-21T06:56:04.300206+00:00",
  "items": [
+  {
+   "id": "c66aeb50a0f6",
+   "ts": "2026-10-21T04:15:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+   "sources": [
+    {
+     "id": "c66aeb50a0f6",
+     "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-21T04:15:00+00:00"
+    }
+   ]
+  },
   {
    "id": "18ada448671f",
    "ts": "2026-10-20T07:00:00+00:00",
