@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-21T06:56:04.300206+00:00",
+ "generated": "2026-10-21T12:42:23.859113+00:00",
  "items": [
+  {
+   "id": "c89c45c47763",
+   "ts": "2026-10-21T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "inflation",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+   "sources": [
+    {
+     "id": "c89c45c47763",
+     "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-10-21T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "c66aeb50a0f6",
    "ts": "2026-10-21T04:15:00+00:00",
@@ -1490,102 +1514,6 @@
      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-22T05:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "497b2e318c9a",
-   "ts": "2026-09-21T12:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Bank of England announces new office space in Leeds",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
-   "sources": [
-    {
-     "id": "497b2e318c9a",
-     "title": "Bank of England announces new office space in Leeds",
-     "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
-     "source": "Bank of England",
-     "ts": "2026-09-21T12:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "b318db4e8f39",
-   "ts": "2026-09-21T11:30:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-   "sources": [
-    {
-     "id": "b318db4e8f39",
-     "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-     "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-     "source": "Bank of England",
-     "ts": "2026-09-21T11:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "1517bc72795f",
-   "ts": "2026-09-21T10:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-   "sources": [
-    {
-     "id": "1517bc72795f",
-     "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-21T10:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "7e4fe81db104",
-   "ts": "2026-09-21T10:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Eurosystem brings central bank money to tokenised finance",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-   "sources": [
-    {
-     "id": "7e4fe81db104",
-     "title": "Eurosystem brings central bank money to tokenised finance",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-21T10:00:00+00:00"
     }
    ]
   }
