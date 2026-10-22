@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T00:05:23.131942+00:00",
+ "generated": "2026-10-22T05:09:09.061406+00:00",
  "items": [
   {
    "id": "c89c45c47763",
@@ -1490,30 +1490,6 @@
      "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
      "source": "Bank of England",
      "ts": "2026-09-21T11:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "22a2822b0519",
-   "ts": "2026-09-22T05:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Philip R. Lane: Interview with Le Temps",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-   "sources": [
-    {
-     "id": "22a2822b0519",
-     "title": "Philip R. Lane: Interview with Le Temps",
-     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-22T05:00:00+00:00"
     }
    ]
   }
