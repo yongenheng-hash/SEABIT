@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-22T19:21:31.087605+00:00",
+ "generated": "2026-10-22T22:34:31.900205+00:00",
  "items": [
+  {
+   "id": "5b098a8a5145",
+   "ts": "2026-10-22T20:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "growth",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+   "sources": [
+    {
+     "id": "5b098a8a5145",
+     "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+     "source": "Bank of England",
+     "ts": "2026-10-22T20:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "c89c45c47763",
    "ts": "2026-10-21T08:00:00+00:00",
@@ -1435,30 +1459,6 @@
      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-26.html",
      "source": "Reserve Bank of Australia",
      "ts": "2026-09-23T01:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "bb3326ddb25c",
-   "ts": "2026-09-22T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-   "sources": [
-    {
-     "id": "bb3326ddb25c",
-     "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-09-22T20:30:00+00:00"
     }
    ]
   }
