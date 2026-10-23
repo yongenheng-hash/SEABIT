@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-23T06:14:00.004512+00:00",
+ "generated": "2026-10-23T11:53:59.951105+00:00",
  "items": [
+  {
+   "id": "da039c1481be",
+   "ts": "2026-10-23T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB Consumer Expectations Survey results – September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+   "sources": [
+    {
+     "id": "da039c1481be",
+     "title": "ECB Consumer Expectations Survey results – September 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-23T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "5b098a8a5145",
    "ts": "2026-10-22T20:00:00+00:00",
@@ -22,6 +46,30 @@
      "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
      "source": "Bank of England",
      "ts": "2026-10-22T20:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "43cb47e71f2b",
+   "ts": "2026-10-22T15:35:53+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Securities Lending Committee meeting – September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
+   "sources": [
+    {
+     "id": "43cb47e71f2b",
+     "title": "Minutes of the Securities Lending Committee meeting – September 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-22T15:35:53+00:00"
     }
    ]
   },
@@ -1411,30 +1459,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
      "source": "European Central Bank",
      "ts": "2026-09-23T16:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "bfa0dca1edce",
-   "ts": "2026-09-23T09:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Almost ten million people took part in ECB survey on new euro banknotes",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
-   "sources": [
-    {
-     "id": "bfa0dca1edce",
-     "title": "Almost ten million people took part in ECB survey on new euro banknotes",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-23T09:00:00+00:00"
     }
    ]
   }
