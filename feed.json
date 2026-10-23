@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:09:09.795202+00:00",
+ "generated": "2026-10-23T06:14:00.004512+00:00",
  "items": [
   {
    "id": "5b098a8a5145",
@@ -1435,30 +1435,6 @@
      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-23T09:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "8a257944dd63",
-   "ts": "2026-09-23T01:30:00+00:00",
-   "source": "Reserve Bank of Australia",
-   "region": "Global",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 40,
-   "title": "Assessment of ASX Clearing and Settlement Facilities - September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-26.html",
-   "sources": [
-    {
-     "id": "8a257944dd63",
-     "title": "Assessment of ASX Clearing and Settlement Facilities - September 2026",
-     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-26.html",
-     "source": "Reserve Bank of Australia",
-     "ts": "2026-09-23T01:30:00+00:00"
     }
    ]
   }
