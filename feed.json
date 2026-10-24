@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-24T01:46:22.529268+00:00",
+ "generated": "2026-10-24T06:48:26.307751+00:00",
  "items": [
+  {
+   "id": "23d46987719e",
+   "ts": "2026-10-24T06:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Piero Cipollone: Interview with Milano Finanza",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+   "sources": [
+    {
+     "id": "23d46987719e",
+     "title": "Piero Cipollone: Interview with Milano Finanza",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-24T06:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "da039c1481be",
    "ts": "2026-10-23T08:00:00+00:00",
