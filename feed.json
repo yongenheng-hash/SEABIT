@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T18:16:40.450004+00:00",
+ "generated": "2026-10-24T21:01:38.749753+00:00",
  "items": [
   {
    "id": "23d46987719e",
@@ -1332,30 +1332,6 @@
      "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
      "source": "Bank of England",
      "ts": "2026-09-25T06:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "a09909ffdb68",
-   "ts": "2026-09-24T18:30:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-   "sources": [
-    {
-     "id": "a09909ffdb68",
-     "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-09-24T18:30:00+00:00"
     }
    ]
   }
