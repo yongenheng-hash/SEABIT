@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T01:30:30.336266+00:00",
+ "generated": "2026-10-25T07:12:21.564445+00:00",
  "items": [
   {
    "id": "23d46987719e",
@@ -1308,30 +1308,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
      "source": "Federal Reserve",
      "ts": "2026-09-25T20:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d2c44973e88d",
-   "ts": "2026-09-25T06:30:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
-   "sources": [
-    {
-     "id": "d2c44973e88d",
-     "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
-     "source": "Bank of England",
-     "ts": "2026-09-25T06:30:00+00:00"
     }
    ]
   }
