@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T19:26:52.449884+00:00",
+ "generated": "2026-10-25T21:58:53.089478+00:00",
  "items": [
   {
    "id": "23d46987719e",
@@ -1284,30 +1284,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-28T13:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "5a0ccfacc36b",
-   "ts": "2026-09-25T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-   "sources": [
-    {
-     "id": "5a0ccfacc36b",
-     "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-09-25T20:30:00+00:00"
     }
    ]
   }
