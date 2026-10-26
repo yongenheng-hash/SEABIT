@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-26T04:14:20.388343+00:00",
+ "generated": "2026-10-26T10:22:02.488587+00:00",
  "items": [
+  {
+   "id": "f737e8530d3d",
+   "ts": "2026-10-26T09:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+   "sources": [
+    {
+     "id": "f737e8530d3d",
+     "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-26T09:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4aa2eb3e52ea",
+   "ts": "2026-10-26T05:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+   "sources": [
+    {
+     "id": "4aa2eb3e52ea",
+     "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-26T05:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "23d46987719e",
    "ts": "2026-10-24T06:00:00+00:00",
