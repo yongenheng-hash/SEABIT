@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-28T13:46:02.251125+00:00",
+ "generated": "2026-10-28T19:16:51.968009+00:00",
  "items": [
+  {
+   "id": "847a7abc2726",
+   "ts": "2026-10-28T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve issues FOMC statement",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "sources": [
+    {
+     "id": "847a7abc2726",
+     "title": "Federal Reserve issues FOMC statement",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-28T18:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "366b13df0e71",
+   "ts": "2026-10-28T14:16:49+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Remit for the Monetary Policy Committee - October 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
+   "sources": [
+    {
+     "id": "366b13df0e71",
+     "title": "Remit for the Monetary Policy Committee - October 2026",
+     "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-28T14:16:49+00:00"
+    }
+   ]
+  },
   {
    "id": "6ccfaf91462a",
    "ts": "2026-10-27T00:00:00+00:00",
