@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T06:33:51.828384+00:00",
+ "generated": "2026-10-28T13:46:02.251125+00:00",
  "items": [
   {
    "id": "6ccfaf91462a",
@@ -1332,30 +1332,6 @@
      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-27.html",
      "source": "Reserve Bank of Australia",
      "ts": "2026-09-29T04:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "fa813bf32a64",
-   "ts": "2026-09-28T13:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-   "sources": [
-    {
-     "id": "fa813bf32a64",
-     "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-28T13:30:00+00:00"
     }
    ]
   }
