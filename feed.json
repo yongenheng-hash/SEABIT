@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-29T16:18:21.470082+00:00",
+ "generated": "2026-10-29T21:17:13.077375+00:00",
  "items": [
+  {
+   "id": "d5f01f9dd738",
+   "ts": "2026-10-29T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "sources": [
+    {
+     "id": "d5f01f9dd738",
+     "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-10-29T20:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "1e2ee9828f32",
    "ts": "2026-10-29T15:50:00+00:00",
@@ -42,7 +66,7 @@
    "sources": [
     {
      "id": "e199bca473c6",
-     "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+     "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-29T14:00:00+00:00"
@@ -1452,30 +1476,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-30T02:20:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "1478a1671637",
-   "ts": "2026-09-29T20:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-   "sources": [
-    {
-     "id": "1478a1671637",
-     "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-09-29T20:00:00+00:00"
     }
    ]
   }
