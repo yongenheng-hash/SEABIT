@@ -1,6 +1,150 @@
 {
- "generated": "2026-10-29T09:14:26.801091+00:00",
+ "generated": "2026-10-29T16:18:21.470082+00:00",
  "items": [
+  {
+   "id": "1e2ee9828f32",
+   "ts": "2026-10-29T15:50:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+   "sources": [
+    {
+     "id": "1e2ee9828f32",
+     "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-29T15:50:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e199bca473c6",
+   "ts": "2026-10-29T14:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+   "sources": [
+    {
+     "id": "e199bca473c6",
+     "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+     "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-29T14:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7fed9d5f2623",
+   "ts": "2026-10-29T14:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "fiscal",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
+   "sources": [
+    {
+     "id": "7fed9d5f2623",
+     "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
+     "source": "Bank of England",
+     "ts": "2026-10-29T14:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8be498015a19",
+   "ts": "2026-10-29T13:15:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Monetary policy decisions",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+   "sources": [
+    {
+     "id": "8be498015a19",
+     "title": "Monetary policy decisions",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-29T13:15:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5e25e64b9fc7",
+   "ts": "2026-10-29T10:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB President Lagarde to step down on 7 February 2027",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+   "sources": [
+    {
+     "id": "5e25e64b9fc7",
+     "title": "ECB President Lagarde to step down on 7 February 2027",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-29T10:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a1cdf8a2697a",
+   "ts": "2026-10-29T10:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Bank of England sets out approach to tokenised collateral in central clearing",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
+   "sources": [
+    {
+     "id": "a1cdf8a2697a",
+     "title": "Bank of England sets out approach to tokenised collateral in central clearing",
+     "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
+     "source": "Bank of England",
+     "ts": "2026-10-29T10:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "847a7abc2726",
    "ts": "2026-10-28T18:00:00+00:00",
