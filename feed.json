@@ -1,6 +1,30 @@
 {
- "generated": "2026-10-30T07:28:23.333949+00:00",
+ "generated": "2026-10-30T14:29:01.861931+00:00",
  "items": [
+  {
+   "id": "e362e4d7ebda",
+   "ts": "2026-10-30T09:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+   "sources": [
+    {
+     "id": "e362e4d7ebda",
+     "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-10-30T09:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "d5f01f9dd738",
    "ts": "2026-10-29T20:30:00+00:00",
@@ -1404,54 +1428,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
      "source": "European Central Bank",
      "ts": "2026-09-30T15:45:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "975ec4f2519a",
-   "ts": "2026-09-30T13:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "sources": [
-    {
-     "id": "975ec4f2519a",
-     "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-09-30T13:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "22ded81bd152",
-   "ts": "2026-09-30T09:30:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Financial Policy Committee Record – September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
-   "sources": [
-    {
-     "id": "22ded81bd152",
-     "title": "Financial Policy Committee Record – September 2026",
-     "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
-     "source": "Bank of England",
-     "ts": "2026-09-30T09:30:00+00:00"
     }
    ]
   }
