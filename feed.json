@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T01:13:00.540567+00:00",
+ "generated": "2026-10-30T07:28:23.333949+00:00",
  "items": [
   {
    "id": "d5f01f9dd738",
@@ -1452,30 +1452,6 @@
      "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
      "source": "Bank of England",
      "ts": "2026-09-30T09:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "03ee9f9a0a42",
-   "ts": "2026-09-30T02:20:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
-   "sources": [
-    {
-     "id": "03ee9f9a0a42",
-     "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-09-30T02:20:00+00:00"
     }
    ]
   }
