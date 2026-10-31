@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T15:26:42.027292+00:00",
+ "generated": "2026-10-31T19:27:00.524677+00:00",
  "items": [
   {
    "id": "fb4eeae5b207",
@@ -1332,30 +1332,6 @@
      "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
      "source": "Bank of England",
      "ts": "2026-10-02T08:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "406c6781f2cd",
-   "ts": "2026-10-01T15:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Isabel Schnabel: Central banks on-chain",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-   "sources": [
-    {
-     "id": "406c6781f2cd",
-     "title": "Isabel Schnabel: Central banks on-chain",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-     "source": "European Central Bank",
-     "ts": "2026-10-01T15:30:00+00:00"
     }
    ]
   }
