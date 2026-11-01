@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T20:05:58.189579+00:00",
+ "generated": "2026-11-01T23:43:52.188832+00:00",
  "items": [
   {
    "id": "fb4eeae5b207",
@@ -1188,30 +1188,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-05T08:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "cadde35138dc",
-   "ts": "2026-10-02T20:45:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "sources": [
-    {
-     "id": "cadde35138dc",
-     "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-10-02T20:45:00+00:00"
     }
    ]
   }
