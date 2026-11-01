@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T15:42:02.124240+00:00",
+ "generated": "2026-11-01T20:05:58.189579+00:00",
  "items": [
   {
    "id": "fb4eeae5b207",
@@ -1212,30 +1212,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
      "source": "Federal Reserve",
      "ts": "2026-10-02T20:45:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "fe551cc7e923",
-   "ts": "2026-10-02T20:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "sources": [
-    {
-     "id": "fe551cc7e923",
-     "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-10-02T20:00:00+00:00"
     }
    ]
   }
