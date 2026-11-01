@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T01:47:02.524140+00:00",
+ "generated": "2026-11-01T08:36:49.452372+00:00",
  "items": [
   {
    "id": "fb4eeae5b207",
@@ -1308,30 +1308,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-02T11:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "ec8f2871a4e8",
-   "ts": "2026-10-02T08:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-   "sources": [
-    {
-     "id": "ec8f2871a4e8",
-     "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-     "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-     "source": "Bank of England",
-     "ts": "2026-10-02T08:00:00+00:00"
     }
    ]
   }
