@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-02T03:59:51.004111+00:00",
+ "generated": "2026-11-02T12:13:32.847703+00:00",
  "items": [
+  {
+   "id": "ab4c32c28811",
+   "ts": "2026-11-02T09:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+   "sources": [
+    {
+     "id": "ab4c32c28811",
+     "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-02T09:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "fb4eeae5b207",
    "ts": "2026-10-30T16:10:00+00:00",
