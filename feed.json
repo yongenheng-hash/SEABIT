@@ -1,6 +1,54 @@
 {
- "generated": "2026-11-03T03:15:38.179473+00:00",
+ "generated": "2026-11-03T11:10:56.507068+00:00",
  "items": [
+  {
+   "id": "b12ce0cca21b",
+   "ts": "2026-11-03T10:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "growth",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+   "sources": [
+    {
+     "id": "b12ce0cca21b",
+     "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+     "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+     "source": "Bank of England",
+     "ts": "2026-11-03T10:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bb2528aa26ab",
+   "ts": "2026-11-03T03:30:00+00:00",
+   "source": "Reserve Bank of Australia",
+   "region": "Global",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 40,
+   "title": "Statement by the Monetary Policy Board: Monetary Policy Decision",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+   "sources": [
+    {
+     "id": "bb2528aa26ab",
+     "title": "Statement by the Monetary Policy Board: Monetary Policy Decision",
+     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+     "source": "Reserve Bank of Australia",
+     "ts": "2026-11-03T03:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "ab4c32c28811",
    "ts": "2026-11-02T09:30:00+00:00",
