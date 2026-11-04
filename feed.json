@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-04T12:44:26.645927+00:00",
+ "generated": "2026-11-04T20:14:15.730218+00:00",
  "items": [
+  {
+   "id": "e8d32c587300",
+   "ts": "2026-11-04T14:51:45+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
+   "sources": [
+    {
+     "id": "e8d32c587300",
+     "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+     "url": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
+     "source": "Bank of England",
+     "ts": "2026-11-04T14:51:45+00:00"
+    }
+   ]
+  },
   {
    "id": "c244f5f62d65",
    "ts": "2026-11-04T00:00:00+00:00",
