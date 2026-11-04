@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-04T04:33:42.650849+00:00",
+ "generated": "2026-11-04T12:44:26.645927+00:00",
  "items": [
+  {
+   "id": "c244f5f62d65",
+   "ts": "2026-11-04T00:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "labour",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+   "sources": [
+    {
+     "id": "c244f5f62d65",
+     "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-04T00:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "b12ce0cca21b",
    "ts": "2026-11-03T10:00:00+00:00",
@@ -1236,30 +1260,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
      "source": "Federal Reserve",
      "ts": "2026-10-05T20:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "517b42d1a3c0",
-   "ts": "2026-10-05T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-   "sources": [
-    {
-     "id": "517b42d1a3c0",
-     "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-05T08:00:00+00:00"
     }
    ]
   }
