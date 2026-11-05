@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-05T00:57:54.270063+00:00",
+ "generated": "2026-11-05T07:46:15.973851+00:00",
  "items": [
+  {
+   "id": "6e6b7cd9500f",
+   "ts": "2026-11-05T07:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Piero Cipollone: Shaping the future of money",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+   "sources": [
+    {
+     "id": "6e6b7cd9500f",
+     "title": "Piero Cipollone: Shaping the future of money",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-05T07:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "e8d32c587300",
    "ts": "2026-11-04T14:51:45+00:00",
@@ -1236,30 +1260,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-06T13:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "985fd00dec50",
-   "ts": "2026-10-06T07:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Philip R. Lane: Interview with Ansa",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-   "sources": [
-    {
-     "id": "985fd00dec50",
-     "title": "Philip R. Lane: Interview with Ansa",
-     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-06T07:00:00+00:00"
     }
    ]
   }
