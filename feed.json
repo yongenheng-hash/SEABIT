@@ -1,6 +1,78 @@
 {
- "generated": "2026-11-05T07:46:15.973851+00:00",
+ "generated": "2026-11-05T16:00:32.575429+00:00",
  "items": [
+  {
+   "id": "0224349908e0",
+   "ts": "2026-11-05T16:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "sources": [
+    {
+     "id": "0224349908e0",
+     "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-05T16:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "26d3012260db",
+   "ts": "2026-11-05T12:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+   "sources": [
+    {
+     "id": "26d3012260db",
+     "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+     "source": "Bank of England",
+     "ts": "2026-11-05T12:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ae12e9ef0f2f",
+   "ts": "2026-11-05T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+   "sources": [
+    {
+     "id": "ae12e9ef0f2f",
+     "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-05T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "6e6b7cd9500f",
    "ts": "2026-11-05T07:30:00+00:00",
@@ -1188,78 +1260,6 @@
      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-07T08:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f1394d3fb3ef",
-   "ts": "2026-10-06T13:07:03+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-   "sources": [
-    {
-     "id": "f1394d3fb3ef",
-     "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-     "source": "Bank of England",
-     "ts": "2026-10-06T13:07:03+00:00"
-    }
-   ]
-  },
-  {
-   "id": "cc53352957af",
-   "ts": "2026-10-06T13:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Frank Elderson: Effective supervision through timely remediation",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-   "sources": [
-    {
-     "id": "cc53352957af",
-     "title": "Frank Elderson: Effective supervision through timely remediation",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-06T13:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "5dae0e8c1ef8",
-   "ts": "2026-10-06T13:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-   "sources": [
-    {
-     "id": "5dae0e8c1ef8",
-     "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-06T13:00:00+00:00"
     }
    ]
   }
