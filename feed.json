@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T10:17:25.466178+00:00",
+ "generated": "2026-11-06T17:36:52.625801+00:00",
  "items": [
   {
    "id": "46e9c7984e27",
@@ -1222,44 +1222,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
      "source": "Federal Reserve",
      "ts": "2026-10-07T18:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "1c198387a9dc",
-   "ts": "2026-10-07T13:36:25+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 66,
-   "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-   "sources": [
-    {
-     "id": "1c198387a9dc",
-     "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-     "source": "Bank of England",
-     "ts": "2026-10-07T13:36:25+00:00"
-    },
-    {
-     "id": "3e5fef1d0096",
-     "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
-     "source": "Bank of England",
-     "ts": "2026-10-07T09:49:25+00:00"
-    },
-    {
-     "id": "4efcbcc9c35c",
-     "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
-     "source": "Bank of England",
-     "ts": "2026-10-07T09:08:40+00:00"
     }
    ]
   }
