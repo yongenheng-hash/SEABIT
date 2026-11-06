@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-05T22:09:47.333612+00:00",
+ "generated": "2026-11-06T02:41:21.681697+00:00",
  "items": [
+  {
+   "id": "eb04520f63a6",
+   "ts": "2026-11-05T23:45:00+00:00",
+   "source": "Reserve Bank of Australia",
+   "region": "Global",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 40,
+   "title": "Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-31.html",
+   "sources": [
+    {
+     "id": "eb04520f63a6",
+     "title": "Designation of Prosegur Australia Pty Ltd under the Cash Distribution Framework Act 2026",
+     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-31.html",
+     "source": "Reserve Bank of Australia",
+     "ts": "2026-11-05T23:45:00+00:00"
+    }
+   ]
+  },
   {
    "id": "0224349908e0",
    "ts": "2026-11-05T16:00:00+00:00",
