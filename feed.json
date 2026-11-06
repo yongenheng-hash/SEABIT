@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T17:36:52.625801+00:00",
+ "generated": "2026-11-06T22:38:34.457235+00:00",
  "items": [
   {
    "id": "46e9c7984e27",
@@ -1198,30 +1198,6 @@
      "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
      "source": "Bank of England",
      "ts": "2026-10-07T23:01:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "eeb8f6b78f01",
-   "ts": "2026-10-07T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "sources": [
-    {
-     "id": "eeb8f6b78f01",
-     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-10-07T18:00:00+00:00"
     }
    ]
   }
