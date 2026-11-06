@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-06T02:41:21.681697+00:00",
+ "generated": "2026-11-06T10:17:25.466178+00:00",
  "items": [
+  {
+   "id": "46e9c7984e27",
+   "ts": "2026-11-06T09:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB publishes consolidated banking data for end-June 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+   "sources": [
+    {
+     "id": "46e9c7984e27",
+     "title": "ECB publishes consolidated banking data for end-June 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-06T09:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "eb04520f63a6",
    "ts": "2026-11-05T23:45:00+00:00",
@@ -1236,54 +1260,6 @@
      "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
      "source": "Bank of England",
      "ts": "2026-10-07T09:08:40+00:00"
-    }
-   ]
-  },
-  {
-   "id": "e7f7eae6591b",
-   "ts": "2026-10-07T09:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Regulatory thresholds set to shift to automatic increases",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
-   "sources": [
-    {
-     "id": "e7f7eae6591b",
-     "title": "Regulatory thresholds set to shift to automatic increases",
-     "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
-     "source": "Bank of England",
-     "ts": "2026-10-07T09:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "a487a879854d",
-   "ts": "2026-10-07T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-   "sources": [
-    {
-     "id": "a487a879854d",
-     "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-07T08:00:00+00:00"
     }
    ]
   }
