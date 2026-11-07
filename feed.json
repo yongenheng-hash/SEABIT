@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T02:30:19.327047+00:00",
+ "generated": "2026-11-07T09:32:20.085362+00:00",
  "items": [
   {
    "id": "46e9c7984e27",
@@ -1150,30 +1150,6 @@
      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-08T11:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "aa8623d070d6",
-   "ts": "2026-10-08T06:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Piero Cipollone: Interview with Corriere della Sera",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-   "sources": [
-    {
-     "id": "aa8623d070d6",
-     "title": "Piero Cipollone: Interview with Corriere della Sera",
-     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-08T06:00:00+00:00"
     }
    ]
   }
