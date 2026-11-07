@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T20:23:18.181041+00:00",
+ "generated": "2026-11-07T23:45:51.220849+00:00",
  "items": [
   {
    "id": "71240352f25b",
@@ -1126,30 +1126,6 @@
      "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
      "source": "Bank of England",
      "ts": "2026-10-09T09:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "e95750d1b741",
-   "ts": "2026-10-08T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "sources": [
-    {
-     "id": "e95750d1b741",
-     "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-10-08T20:30:00+00:00"
     }
    ]
   }
