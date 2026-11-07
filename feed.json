@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-07T09:32:20.085362+00:00",
+ "generated": "2026-11-07T16:02:51.754787+00:00",
  "items": [
+  {
+   "id": "71240352f25b",
+   "ts": "2026-11-07T14:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+   "sources": [
+    {
+     "id": "71240352f25b",
+     "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-07T14:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "46e9c7984e27",
    "ts": "2026-11-06T09:00:00+00:00",
@@ -1126,30 +1150,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
      "source": "Federal Reserve",
      "ts": "2026-10-08T20:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "115092f33ede",
-   "ts": "2026-10-08T11:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Meeting of 9-10 September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-   "sources": [
-    {
-     "id": "115092f33ede",
-     "title": "Meeting of 9-10 September 2026",
-     "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-08T11:30:00+00:00"
     }
    ]
   }
