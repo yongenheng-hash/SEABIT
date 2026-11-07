@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T22:38:34.457235+00:00",
+ "generated": "2026-11-07T02:30:19.327047+00:00",
  "items": [
   {
    "id": "46e9c7984e27",
@@ -1174,30 +1174,6 @@
      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-08T06:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "120fd06007cb",
-   "ts": "2026-10-07T23:01:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
-   "sources": [
-    {
-     "id": "120fd06007cb",
-     "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
-     "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
-     "source": "Bank of England",
-     "ts": "2026-10-07T23:01:00+00:00"
     }
    ]
   }
