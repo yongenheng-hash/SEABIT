@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T03:59:56.974624+00:00",
+ "generated": "2026-11-08T11:12:42.828895+00:00",
  "items": [
   {
    "id": "71240352f25b",
@@ -1102,30 +1102,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
      "source": "Federal Reserve",
      "ts": "2026-10-09T14:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "fbe78e7c0242",
-   "ts": "2026-10-09T09:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "CMORG holds sector-wide cloud outage simulation exercise",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
-   "sources": [
-    {
-     "id": "fbe78e7c0242",
-     "title": "CMORG holds sector-wide cloud outage simulation exercise",
-     "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
-     "source": "Bank of England",
-     "ts": "2026-10-09T09:00:00+00:00"
     }
    ]
   }
