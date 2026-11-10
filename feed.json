@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-09T18:59:01.718281+00:00",
+ "generated": "2026-11-10T01:56:35.673262+00:00",
  "items": [
+  {
+   "id": "6e4cb5ab08bc",
+   "ts": "2026-11-09T21:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "sources": [
+    {
+     "id": "6e4cb5ab08bc",
+     "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-09T21:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "71240352f25b",
    "ts": "2026-11-07T14:00:00+00:00",
