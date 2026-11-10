@@ -1,6 +1,78 @@
 {
- "generated": "2026-11-10T09:18:03.744029+00:00",
+ "generated": "2026-11-10T17:11:16.140334+00:00",
  "items": [
+  {
+   "id": "380ce0e2b072",
+   "ts": "2026-11-10T16:45:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+   "sources": [
+    {
+     "id": "380ce0e2b072",
+     "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-10T16:45:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "53de14903613",
+   "ts": "2026-11-10T14:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+   "sources": [
+    {
+     "id": "53de14903613",
+     "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-10T14:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "05b2880fa0f0",
+   "ts": "2026-11-10T12:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+   "sources": [
+    {
+     "id": "05b2880fa0f0",
+     "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
+     "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+     "source": "Bank of England",
+     "ts": "2026-11-10T12:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "6e4cb5ab08bc",
    "ts": "2026-11-09T21:00:00+00:00",
