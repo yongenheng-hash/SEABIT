@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T15:29:05.065051+00:00",
+ "generated": "2026-11-12T21:53:32.278708+00:00",
  "items": [
   {
    "id": "380ce0e2b072",
@@ -1102,54 +1102,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-14T00:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "31a2bbd9d03d",
-   "ts": "2026-10-13T18:30:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Philip R. Lane: The AI opportunity for Europe",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-   "sources": [
-    {
-     "id": "31a2bbd9d03d",
-     "title": "Philip R. Lane: The AI opportunity for Europe",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-13T18:30:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d85e5d360934",
-   "ts": "2026-10-13T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "sources": [
-    {
-     "id": "d85e5d360934",
-     "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-10-13T18:00:00+00:00"
     }
    ]
   }
