@@ -1,6 +1,54 @@
 {
- "generated": "2026-11-13T02:20:28.776477+00:00",
+ "generated": "2026-11-13T09:49:35.340917+00:00",
  "items": [
+  {
+   "id": "9d84fa0dc040",
+   "ts": "2026-11-13T09:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+   "sources": [
+    {
+     "id": "9d84fa0dc040",
+     "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+     "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+     "source": "Bank of England",
+     "ts": "2026-11-13T09:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b0a1c9bf225c",
+   "ts": "2026-11-13T07:20:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Isabel Schnabel: Made in Europe",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+   "sources": [
+    {
+     "id": "b0a1c9bf225c",
+     "title": "Isabel Schnabel: Made in Europe",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-13T07:20:00+00:00"
+    }
+   ]
+  },
   {
    "id": "82ba770a292c",
    "ts": "2026-11-12T18:30:00+00:00",
@@ -1126,30 +1174,6 @@
      "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
      "source": "Bank of England",
      "ts": "2026-10-15T08:27:59+00:00"
-    }
-   ]
-  },
-  {
-   "id": "6569ec680a59",
-   "ts": "2026-10-14T03:00:00+00:00",
-   "source": "Reserve Bank of Australia",
-   "region": "Global",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 40,
-   "title": "Appointment of Chief Risk Officer",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.rba.gov.au/media-releases/2026/mr-26-29.html",
-   "sources": [
-    {
-     "id": "6569ec680a59",
-     "title": "Appointment of Chief Risk Officer",
-     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-29.html",
-     "source": "Reserve Bank of Australia",
-     "ts": "2026-10-14T03:00:00+00:00"
     }
    ]
   }
