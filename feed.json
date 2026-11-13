@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-13T17:28:17.339206+00:00",
+ "generated": "2026-11-13T22:47:04.251078+00:00",
  "items": [
+  {
+   "id": "4532bcae0da2",
+   "ts": "2026-11-13T21:15:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Agencies extend comment period for proposed third-party risk management guidance",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "sources": [
+    {
+     "id": "4532bcae0da2",
+     "title": "Agencies extend comment period for proposed third-party risk management guidance",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-13T21:15:00+00:00"
+    }
+   ]
+  },
   {
    "id": "9d84fa0dc040",
    "ts": "2026-11-13T09:00:00+00:00",
