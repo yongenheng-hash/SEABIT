@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T09:45:12.004519+00:00",
+ "generated": "2026-11-14T16:19:35.339514+00:00",
  "items": [
   {
    "id": "4532bcae0da2",
@@ -1150,30 +1150,6 @@
      "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
      "source": "Bank of England",
      "ts": "2026-10-16T11:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c1a8493af49d",
-   "ts": "2026-10-15T09:52:41+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
-   "sources": [
-    {
-     "id": "c1a8493af49d",
-     "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
-     "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
-     "source": "Bank of England",
-     "ts": "2026-10-15T09:52:41+00:00"
     }
    ]
   }
