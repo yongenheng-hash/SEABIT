@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T14:55:07.125722+00:00",
+ "generated": "2026-11-15T20:06:00.939207+00:00",
  "items": [
   {
    "id": "4532bcae0da2",
@@ -1102,30 +1102,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-17T05:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "70363c9b200b",
-   "ts": "2026-10-16T15:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "sources": [
-    {
-     "id": "70363c9b200b",
-     "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-10-16T15:00:00+00:00"
     }
    ]
   }
