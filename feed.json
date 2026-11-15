@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T07:28:06.857443+00:00",
+ "generated": "2026-11-15T14:55:07.125722+00:00",
  "items": [
   {
    "id": "4532bcae0da2",
@@ -1126,30 +1126,6 @@
      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
      "source": "Federal Reserve",
      "ts": "2026-10-16T15:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "1764e66d85ac",
-   "ts": "2026-10-16T11:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Banknote imagery advisory group minutes – 15 July 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
-   "sources": [
-    {
-     "id": "1764e66d85ac",
-     "title": "Banknote imagery advisory group minutes – 15 July 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
-     "source": "Bank of England",
-     "ts": "2026-10-16T11:00:00+00:00"
     }
    ]
   }
