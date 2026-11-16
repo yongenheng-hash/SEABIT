@@ -1,6 +1,54 @@
 {
- "generated": "2026-11-16T07:00:10.144667+00:00",
+ "generated": "2026-11-16T16:55:53.758394+00:00",
  "items": [
+  {
+   "id": "60ad73d5fe2b",
+   "ts": "2026-11-16T13:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Frank Elderson: Smart supervision for small banks",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+   "sources": [
+    {
+     "id": "60ad73d5fe2b",
+     "title": "Frank Elderson: Smart supervision for small banks",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-16T13:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9e0b3a4febf4",
+   "ts": "2026-11-16T08:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+   "sources": [
+    {
+     "id": "9e0b3a4febf4",
+     "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-16T08:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "4532bcae0da2",
    "ts": "2026-11-13T21:15:00+00:00",
