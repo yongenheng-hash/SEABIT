@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-18T17:44:29.925718+00:00",
+ "generated": "2026-11-18T23:48:50.734970+00:00",
  "items": [
+  {
+   "id": "dbea10a75a84",
+   "ts": "2026-11-18T19:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "sources": [
+    {
+     "id": "dbea10a75a84",
+     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-18T19:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "f3082e5740a6",
    "ts": "2026-11-18T09:00:00+00:00",
