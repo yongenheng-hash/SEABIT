@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-17T18:04:12.899658+00:00",
+ "generated": "2026-11-18T01:07:09.930343+00:00",
  "items": [
+  {
+   "id": "8481a1d7c53f",
+   "ts": "2026-11-17T18:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+   "sources": [
+    {
+     "id": "8481a1d7c53f",
+     "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-11-17T18:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "60ad73d5fe2b",
    "ts": "2026-11-16T13:00:00+00:00",
