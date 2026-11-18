@@ -1,6 +1,54 @@
 {
- "generated": "2026-11-18T08:48:23.291464+00:00",
+ "generated": "2026-11-18T17:44:29.925718+00:00",
  "items": [
+  {
+   "id": "f3082e5740a6",
+   "ts": "2026-11-18T09:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Boris Vujčić: Financial Stability Review - November 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+   "sources": [
+    {
+     "id": "f3082e5740a6",
+     "title": "Boris Vujčić: Financial Stability Review - November 2026",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-11-18T09:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "dcfaa3a193e2",
+   "ts": "2026-11-18T09:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "fiscal",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+   "sources": [
+    {
+     "id": "dcfaa3a193e2",
+     "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-18T09:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "8481a1d7c53f",
    "ts": "2026-11-17T18:30:00+00:00",
