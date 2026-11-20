@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-20T03:50:38.802146+00:00",
+ "generated": "2026-11-20T12:26:35.437035+00:00",
  "items": [
+  {
+   "id": "5a2f925a88ec",
+   "ts": "2026-11-20T08:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Christine Lagarde: Acting in time",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+   "sources": [
+    {
+     "id": "5a2f925a88ec",
+     "title": "Christine Lagarde: Acting in time",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-20T08:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "241d9c35f2a8",
    "ts": "2026-11-19T16:00:00+00:00",
@@ -1198,54 +1222,6 @@
      "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
      "source": "Bank of England",
      "ts": "2026-10-22T15:35:53+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c89c45c47763",
-   "ts": "2026-10-21T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "inflation",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-   "sources": [
-    {
-     "id": "c89c45c47763",
-     "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-     "source": "European Central Bank",
-     "ts": "2026-10-21T08:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c66aeb50a0f6",
-   "ts": "2026-10-21T04:15:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-   "sources": [
-    {
-     "id": "c66aeb50a0f6",
-     "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-21T04:15:00+00:00"
     }
    ]
   }
