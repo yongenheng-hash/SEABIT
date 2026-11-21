@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T09:11:58.044614+00:00",
+ "generated": "2026-11-21T16:53:09.680313+00:00",
  "items": [
   {
    "id": "137217fbade8",
@@ -1246,30 +1246,6 @@
      "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
      "source": "Bank of England",
      "ts": "2026-10-22T20:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "43cb47e71f2b",
-   "ts": "2026-10-22T15:35:53+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Minutes of the Securities Lending Committee meeting – September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
-   "sources": [
-    {
-     "id": "43cb47e71f2b",
-     "title": "Minutes of the Securities Lending Committee meeting – September 2026",
-     "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
-     "source": "Bank of England",
-     "ts": "2026-10-22T15:35:53+00:00"
     }
    ]
   }
