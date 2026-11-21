@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T16:53:09.680313+00:00",
+ "generated": "2026-11-21T21:59:33.917954+00:00",
  "items": [
   {
    "id": "137217fbade8",
@@ -1222,30 +1222,6 @@
      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-23T08:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "5b098a8a5145",
-   "ts": "2026-10-22T20:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "growth",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
-   "sources": [
-    {
-     "id": "5b098a8a5145",
-     "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
-     "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
-     "source": "Bank of England",
-     "ts": "2026-10-22T20:00:00+00:00"
     }
    ]
   }
