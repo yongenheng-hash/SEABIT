@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-20T20:38:03.158208+00:00",
+ "generated": "2026-11-21T01:56:19.572166+00:00",
  "items": [
+  {
+   "id": "137217fbade8",
+   "ts": "2026-11-20T21:15:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "sources": [
+    {
+     "id": "137217fbade8",
+     "title": "Federal Reserve announces College Fed Challenge winners",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-20T21:15:00+00:00"
+    }
+   ]
+  },
   {
    "id": "62496b2db133",
    "ts": "2026-11-20T15:00:00+00:00",
