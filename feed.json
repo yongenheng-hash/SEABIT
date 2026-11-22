@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T02:00:19.366037+00:00",
+ "generated": "2026-11-22T10:02:10.769837+00:00",
  "items": [
   {
    "id": "137217fbade8",
@@ -1198,30 +1198,6 @@
      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-24T06:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "da039c1481be",
-   "ts": "2026-10-23T08:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "ECB Consumer Expectations Survey results – September 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-   "sources": [
-    {
-     "id": "da039c1481be",
-     "title": "ECB Consumer Expectations Survey results – September 2026",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-23T08:00:00+00:00"
     }
    ]
   }
