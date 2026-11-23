@@ -1,6 +1,54 @@
 {
- "generated": "2026-11-23T03:52:25.152894+00:00",
+ "generated": "2026-11-23T13:57:31.956335+00:00",
  "items": [
+  {
+   "id": "97aff51dc296",
+   "ts": "2026-11-23T10:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "sources": [
+    {
+     "id": "97aff51dc296",
+     "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-23T10:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1c4013d2aca8",
+   "ts": "2026-11-23T10:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+   "sources": [
+    {
+     "id": "1c4013d2aca8",
+     "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+     "url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+     "source": "Bank of England",
+     "ts": "2026-11-23T10:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "137217fbade8",
    "ts": "2026-11-20T21:15:00+00:00",
@@ -1174,30 +1222,6 @@
      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-26T05:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "23d46987719e",
-   "ts": "2026-10-24T06:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Piero Cipollone: Interview with Milano Finanza",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-   "sources": [
-    {
-     "id": "23d46987719e",
-     "title": "Piero Cipollone: Interview with Milano Finanza",
-     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-24T06:00:00+00:00"
     }
    ]
   }
