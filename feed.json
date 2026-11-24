@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-23T13:57:31.956335+00:00",
+ "generated": "2026-11-24T01:29:54.765842+00:00",
  "items": [
+  {
+   "id": "dd6e64bcc52a",
+   "ts": "2026-11-23T14:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Philip R. Lane: Climate change and monetary policy",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+   "sources": [
+    {
+     "id": "dd6e64bcc52a",
+     "title": "Philip R. Lane: Climate change and monetary policy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+     "source": "European Central Bank",
+     "ts": "2026-11-23T14:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "97aff51dc296",
    "ts": "2026-11-23T10:00:00+00:00",
