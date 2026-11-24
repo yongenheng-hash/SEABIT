@@ -1,6 +1,54 @@
 {
- "generated": "2026-11-24T11:32:57.136720+00:00",
+ "generated": "2026-11-24T21:51:25.481718+00:00",
  "items": [
+  {
+   "id": "04af64fc022b",
+   "ts": "2026-11-24T19:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "sources": [
+    {
+     "id": "04af64fc022b",
+     "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-24T19:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "79075bc7d3bd",
+   "ts": "2026-11-24T16:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+   "sources": [
+    {
+     "id": "79075bc7d3bd",
+     "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+     "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+     "source": "Bank of England",
+     "ts": "2026-11-24T16:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "4199d8f4bbf5",
    "ts": "2026-11-24T11:00:00+00:00",
