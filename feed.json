@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-24T01:29:54.765842+00:00",
+ "generated": "2026-11-24T11:32:57.136720+00:00",
  "items": [
+  {
+   "id": "4199d8f4bbf5",
+   "ts": "2026-11-24T11:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+   "sources": [
+    {
+     "id": "4199d8f4bbf5",
+     "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-24T11:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "dd6e64bcc52a",
    "ts": "2026-11-23T14:30:00+00:00",
