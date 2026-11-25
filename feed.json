@@ -1,6 +1,78 @@
 {
- "generated": "2026-11-25T15:14:32.303336+00:00",
+ "generated": "2026-11-25T23:42:48.444801+00:00",
  "items": [
+  {
+   "id": "f0784a636c3b",
+   "ts": "2026-11-25T20:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+   "sources": [
+    {
+     "id": "f0784a636c3b",
+     "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-25T20:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7486b0f51365",
+   "ts": "2026-11-25T20:00:00+00:00",
+   "source": "Federal Reserve",
+   "region": "US",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+   "sources": [
+    {
+     "id": "7486b0f51365",
+     "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+     "source": "Federal Reserve",
+     "ts": "2026-11-25T20:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b1f3c3dc97c1",
+   "ts": "2026-11-25T17:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+   "sources": [
+    {
+     "id": "b1f3c3dc97c1",
+     "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-25T17:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "9ca6d694b651",
    "ts": "2026-11-25T10:00:00+00:00",
