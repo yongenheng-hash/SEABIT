@@ -1,6 +1,54 @@
 {
- "generated": "2026-11-25T04:44:47.688416+00:00",
+ "generated": "2026-11-25T15:14:32.303336+00:00",
  "items": [
+  {
+   "id": "9ca6d694b651",
+   "ts": "2026-11-25T10:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "markets",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Card payments edge past cash in shops; euro area consumers want both",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+   "sources": [
+    {
+     "id": "9ca6d694b651",
+     "title": "Card payments edge past cash in shops; euro area consumers want both",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-25T10:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ec323e447ca2",
+   "ts": "2026-11-25T10:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "growth",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Regulators implement growth-friendly securitisation reforms",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms",
+   "sources": [
+    {
+     "id": "ec323e447ca2",
+     "title": "Regulators implement growth-friendly securitisation reforms",
+     "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms",
+     "source": "Bank of England",
+     "ts": "2026-11-25T10:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "04af64fc022b",
    "ts": "2026-11-24T19:00:00+00:00",
@@ -1270,54 +1318,6 @@
      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-27T00:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f737e8530d3d",
-   "ts": "2026-10-26T09:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-   "sources": [
-    {
-     "id": "f737e8530d3d",
-     "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-26T09:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "4aa2eb3e52ea",
-   "ts": "2026-10-26T05:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-   "sources": [
-    {
-     "id": "4aa2eb3e52ea",
-     "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-26T05:00:00+00:00"
     }
    ]
   }
