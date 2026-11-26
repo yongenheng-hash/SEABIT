@@ -1,6 +1,102 @@
 {
- "generated": "2026-11-26T06:32:22.874281+00:00",
+ "generated": "2026-11-26T17:29:17.319331+00:00",
  "items": [
+  {
+   "id": "c5cd3f64250f",
+   "ts": "2026-11-26T15:00:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Payments systems Memorandum of Understanding",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+   "sources": [
+    {
+     "id": "c5cd3f64250f",
+     "title": "Payments systems Memorandum of Understanding",
+     "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+     "source": "Bank of England",
+     "ts": "2026-11-26T15:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "384a68556b0b",
+   "ts": "2026-11-26T12:33:57+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+   "sources": [
+    {
+     "id": "384a68556b0b",
+     "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+     "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+     "source": "Bank of England",
+     "ts": "2026-11-26T12:33:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ce9f98e7b7b2",
+   "ts": "2026-11-26T12:30:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Meeting of 28-29 October 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "sources": [
+    {
+     "id": "ce9f98e7b7b2",
+     "title": "Meeting of 28-29 October 2026",
+     "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-26T12:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e6520a247e2b",
+   "ts": "2026-11-26T10:30:00+00:00",
+   "source": "Bank of England",
+   "region": "UK",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Financial Policy Committee Record – November 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+   "sources": [
+    {
+     "id": "e6520a247e2b",
+     "title": "Financial Policy Committee Record – November 2026",
+     "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+     "source": "Bank of England",
+     "ts": "2026-11-26T10:30:00+00:00"
+    }
+   ]
+  },
   {
    "id": "f0784a636c3b",
    "ts": "2026-11-25T20:00:00+00:00",
