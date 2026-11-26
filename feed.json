@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T23:42:48.444801+00:00",
+ "generated": "2026-11-26T06:32:22.874281+00:00",
  "items": [
   {
    "id": "f0784a636c3b",
@@ -1366,30 +1366,6 @@
      "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
      "source": "Bank of England",
      "ts": "2026-10-28T14:16:49+00:00"
-    }
-   ]
-  },
-  {
-   "id": "6ccfaf91462a",
-   "ts": "2026-10-27T00:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "markets",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "October 2026 euro area bank lending survey",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-   "sources": [
-    {
-     "id": "6ccfaf91462a",
-     "title": "October 2026 euro area bank lending survey",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-27T00:00:00+00:00"
     }
    ]
   }
