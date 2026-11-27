@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-27T01:07:31.222437+00:00",
+ "generated": "2026-11-27T09:53:35.596080+00:00",
  "items": [
+  {
+   "id": "d4ec3631a117",
+   "ts": "2026-11-27T09:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "ECB Consumer Expectations Survey results – October 2026",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "sources": [
+    {
+     "id": "d4ec3631a117",
+     "title": "ECB Consumer Expectations Survey results – October 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-27T09:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "c5cd3f64250f",
    "ts": "2026-11-26T15:00:00+00:00",
