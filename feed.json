@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-27T09:53:35.596080+00:00",
+ "generated": "2026-11-27T19:18:25.048273+00:00",
  "items": [
+  {
+   "id": "d7910a53402b",
+   "ts": "2026-11-27T14:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "policy",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "sources": [
+    {
+     "id": "d7910a53402b",
+     "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+     "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-27T14:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "d4ec3631a117",
    "ts": "2026-11-27T09:00:00+00:00",
@@ -1438,54 +1462,6 @@
      "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
      "source": "Bank of England",
      "ts": "2026-10-29T10:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "847a7abc2726",
-   "ts": "2026-10-28T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "region": "US",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Federal Reserve issues FOMC statement",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "sources": [
-    {
-     "id": "847a7abc2726",
-     "title": "Federal Reserve issues FOMC statement",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-     "source": "Federal Reserve",
-     "ts": "2026-10-28T18:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "366b13df0e71",
-   "ts": "2026-10-28T14:16:49+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "policy",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Remit for the Monetary Policy Committee - October 2026",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
-   "sources": [
-    {
-     "id": "366b13df0e71",
-     "title": "Remit for the Monetary Policy Committee - October 2026",
-     "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
-     "source": "Bank of England",
-     "ts": "2026-10-28T14:16:49+00:00"
     }
    ]
   }
