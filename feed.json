@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-28T02:05:02.301686+00:00",
+ "generated": "2026-11-28T10:42:41.668939+00:00",
  "items": [
+  {
+   "id": "5084671fc64d",
+   "ts": "2026-11-28T08:00:00+00:00",
+   "source": "European Central Bank",
+   "region": "Euro area",
+   "topic": "research",
+   "bias": "unassessed",
+   "score": 50,
+   "title": "Boris Vujčić: Interview with Kurier",
+   "sum": "",
+   "why": "",
+   "extra": 0,
+   "also": [],
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "sources": [
+    {
+     "id": "5084671fc64d",
+     "title": "Boris Vujčić: Interview with Kurier",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+     "source": "European Central Bank",
+     "ts": "2026-11-28T08:00:00+00:00"
+    }
+   ]
+  },
   {
    "id": "d7910a53402b",
    "ts": "2026-11-27T14:00:00+00:00",
@@ -1414,54 +1438,6 @@
      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
      "source": "European Central Bank",
      "ts": "2026-10-29T13:15:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "5e25e64b9fc7",
-   "ts": "2026-10-29T10:00:00+00:00",
-   "source": "European Central Bank",
-   "region": "Euro area",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "ECB President Lagarde to step down on 7 February 2027",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-   "sources": [
-    {
-     "id": "5e25e64b9fc7",
-     "title": "ECB President Lagarde to step down on 7 February 2027",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-     "source": "European Central Bank",
-     "ts": "2026-10-29T10:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "a1cdf8a2697a",
-   "ts": "2026-10-29T10:00:00+00:00",
-   "source": "Bank of England",
-   "region": "UK",
-   "topic": "research",
-   "bias": "unassessed",
-   "score": 50,
-   "title": "Bank of England sets out approach to tokenised collateral in central clearing",
-   "sum": "",
-   "why": "",
-   "extra": 0,
-   "also": [],
-   "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
-   "sources": [
-    {
-     "id": "a1cdf8a2697a",
-     "title": "Bank of England sets out approach to tokenised collateral in central clearing",
-     "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
-     "source": "Bank of England",
-     "ts": "2026-10-29T10:00:00+00:00"
     }
    ]
   }
